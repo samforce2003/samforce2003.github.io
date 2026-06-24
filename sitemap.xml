@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://samforce2003.github.io</loc>
+    <loc>https://samforce2003.github.io/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/%E5%AF%BC%E8%AF%BB/02-SCL%E7%9B%B2%E5%8C%BA-%E5%B7%A5%E7%A8%8B%E6%96%B9%E6%A1%88vs%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/%E5%BE%85%E5%8F%91%E5%B8%83/Shot-1-AI%E6%9C%80%E5%B0%8F%E7%9C%81%E5%8A%9B%E7%AE%97%E6%B3%95.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/%E8%A7%A6%E8%BE%BE/%E9%BB%84%E9%9C%84%E4%BA%91-%E5%85%AC%E5%BC%80%E4%BF%A1.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -37,43 +55,91 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/articles/3分钟看懂四公理.md</loc>
+    <loc>https://samforce2003.github.io/articles/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%9B%9B%E6%9D%A1%E5%85%AC%E7%90%86.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/articles/Athena-吸收-记忆的结构层.md</loc>
+    <loc>https://samforce2003.github.io/articles/%E5%85%AC%E7%90%86%E9%A9%B1%E5%8A%A8AI%E7%9A%84%E4%B8%A4%E6%9D%A1%E8%B7%AF.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/articles/Cranot-重构-结构独立于模型.md</loc>
+    <loc>https://samforce2003.github.io/articles/%E5%8C%85%E5%9B%B41-AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E4%BA%86%E7%9A%84%E9%97%AE%E9%A2%98.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/articles/PK-SCL-四公理.md</loc>
+    <loc>https://samforce2003.github.io/articles/%E5%8C%85%E5%9B%B42-%E5%90%8C%E4%B8%80%E4%B8%AA%E9%AA%A8%E6%9E%B6%E4%B8%8D%E5%90%8C%E5%A3%B3.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/articles/SCL-vs-结构认知.md</loc>
+    <loc>https://samforce2003.github.io/articles/%E5%8C%85%E5%9B%B43-%E8%BA%AB%E4%BD%93%E6%AF%94%E7%90%86%E6%80%A7%E8%81%AA%E6%98%8E.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/articles/SCL-vs-结构认知思考.md</loc>
+    <loc>https://samforce2003.github.io/articles/%E5%AE%A2%E8%A7%82%E4%B8%8D%E5%86%B3%E5%AE%9A%E6%84%8F%E8%AF%86-%E7%A7%91%E6%99%AE%E6%8E%A8%E5%B9%BF-%E7%9F%A5%E4%B9%8EB%E7%AB%99%E7%89%88.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/articles/SCL对比思考-知乎文.md</loc>
+    <loc>https://samforce2003.github.io/articles/%E5%BF%97%E6%84%BF%E5%86%9B%E4%B8%89%E4%BA%BA%E5%B0%8F%E7%BB%84.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/articles/%E6%8B%86%E8%A7%A3KICS%E8%AF%84%E5%88%86.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/articles/3%E5%88%86%E9%92%9F%E7%9C%8B%E6%87%82%E5%9B%9B%E5%85%AC%E7%90%86.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/articles/Athena-%E5%90%B8%E6%94%B6-%E8%AE%B0%E5%BF%86%E7%9A%84%E7%BB%93%E6%9E%84%E5%B1%82.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/articles/Cranot-%E9%87%8D%E6%9E%84-%E7%BB%93%E6%9E%84%E7%8B%AC%E7%AB%8B%E4%BA%8E%E6%A8%A1%E5%9E%8B.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/articles/PK-SCL-%E5%9B%9B%E5%85%AC%E7%90%86.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/articles/SCL%E5%AF%B9%E6%AF%94%E6%80%9D%E8%80%83-%E7%9F%A5%E4%B9%8E%E6%96%87.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/articles/SCL-vs-%E7%BB%93%E6%9E%84%E8%AE%A4%E7%9F%A5%E6%80%9D%E8%80%83.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/articles/SCL-vs-%E7%BB%93%E6%9E%84%E8%AE%A4%E7%9F%A5.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -103,54 +169,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/articles/为什么是四条公理.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/articles/公理驱动AI的两条路.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/articles/包围1-AI回答不了的问题.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/articles/包围2-同一个骨架不同壳.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/articles/包围3-身体比理性聪明.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/articles/客观不决定意识-科普推广-知乎B站版.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/articles/志愿军三人小组.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/articles/拆解KICS评分.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://samforce2003.github.io/content/creator-analysis/dongge-2026-06-24.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -169,169 +187,1231 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/0-总纲/一人军团-超AI系统概念推演.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%80%E5%88%80%E4%B8%89%E5%88%87%E9%9D%A2-%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E7%9A%84%E6%96%B0%E8%8C%83%E5%BC%8F-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/0-总纲/同一把枪-结构认知统一框架总纲-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%80%E7%A7%92%E4%B9%8B%E5%86%85-parallel-processing-extreme-performance.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/1-基础层/对极耦合-从微观到宏观的分形架构-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%87%E7%89%A9%E7%90%86%E8%AE%BA-%E7%BB%93%E6%9E%84%E5%85%AC%E7%90%86%E4%BD%93%E7%B3%BB-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/1-基础层/对极耦合-从微观到宏观的分形架构-林小黑_EN.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%87%E7%89%A9%E7%90%86%E8%AE%BA-%E7%BB%93%E6%9E%84%E5%85%AC%E7%90%86%E4%BD%93%E7%B3%BB-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/1-基础层/弱化链-遗忘的耦合缺席动力学-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E4%BA%BA%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84-%E6%9C%80%E5%B0%8F%E5%AE%8C%E5%A4%87%E6%95%99%E8%82%B2%E5%8D%95%E5%85%83-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/1-基础层/弱化链-遗忘的耦合缺席动力学-林小黑_EN.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E4%BA%BA%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84-%E6%9C%80%E5%B0%8F%E5%AE%8C%E5%A4%87%E6%95%99%E8%82%B2%E5%8D%95%E5%85%83-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/1-基础层/耦合桥接定理-数学形式化-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E4%BA%BA%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84-%E6%9C%80%E5%B0%8F%E5%AE%8C%E5%A4%87%E6%95%99%E8%82%B2%E5%8D%95%E5%85%83-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/1-基础层/耦合桥接定理-金融时间序列结构迁移-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E4%BA%BA%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84-%E6%9C%80%E5%B0%8F%E5%AE%8C%E5%A4%87%E6%95%99%E8%82%B2%E5%8D%95%E5%85%83-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/1-基础层/论认知的边界-结构化推演方法论-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E5%85%83%E4%BA%92%E6%8C%87%E7%BB%93%E6%9E%84-%E5%9B%BE%E8%AE%BA%E5%AE%8C%E5%A4%87%E6%80%A7%E8%AF%81%E6%98%8E-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/1-基础层/论认知的边界-结构化推演方法论-林小黑_EN.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E5%85%83%E4%BA%92%E6%8C%87%E7%BB%93%E6%9E%84-%E5%BD%A2%E5%BC%8F%E8%AF%81%E6%98%8E%E4%B8%8E%E5%AE%9E%E9%AA%8C%E9%A2%84%E6%B5%8B-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/1-基础层/退相干离散结构-结构元假说-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E5%85%83%E4%BA%92%E6%8C%87%E7%BB%93%E6%9E%84-%E5%BD%A2%E5%BC%8F%E8%AF%81%E6%98%8E%E4%B8%8E%E5%AE%9E%E9%AA%8C%E9%A2%84%E6%B5%8B-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/1-基础层/道生一-结构化翻译与证明-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E5%85%83%E4%BA%92%E6%8C%87%E7%BB%93%E6%9E%84-%E5%BD%A2%E5%BC%8F%E8%AF%81%E6%98%8E%E4%B8%8E%E5%AE%9E%E9%AA%8C%E9%A2%84%E6%B5%8B-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/1-基础层/道生一-结构化翻译与证明-林小黑_EN.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E5%85%83%E4%BA%92%E6%8C%87%E7%BB%93%E6%9E%84-%E5%BD%A2%E5%BC%8F%E8%AF%81%E6%98%8E%E4%B8%8E%E5%AE%9E%E9%AA%8C%E9%A2%84%E6%B5%8B-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/1-基础层/降与升-维度双向门-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E5%85%83%E4%BA%92%E6%8C%87-%E6%9C%80%E5%B0%8F%E5%AE%8C%E5%A4%87%E7%BB%93%E6%9E%84%E4%B8%8E%E8%87%AA%E6%88%91%E5%AE%9E%E8%AF%81-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/2-认知层/AI的结构意义-人机耦合推演记录-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E5%85%83%E4%BA%92%E6%8C%87-%E6%9C%80%E5%B0%8F%E5%AE%8C%E5%A4%87%E7%BB%93%E6%9E%84%E4%B8%8E%E8%87%AA%E6%88%91%E5%AE%9E%E8%AF%81-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/2-认知层/主动振荡-耦合动力系统证明-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E5%85%83%E4%BA%92%E6%8C%87-%E6%9C%80%E5%B0%8F%E5%AE%8C%E5%A4%87%E7%BB%93%E6%9E%84%E4%B8%8E%E8%87%AA%E6%88%91%E5%AE%9E%E8%AF%81-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/2-认知层/耦合不可教-深度人机认知耦合的不可复制性-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E5%85%83%E4%BA%92%E6%8C%87-%E6%9C%80%E5%B0%8F%E5%AE%8C%E5%A4%87%E7%BB%93%E6%9E%84%E4%B8%8E%E8%87%AA%E6%88%91%E5%AE%9E%E8%AF%81-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/2-认知层/超AI-总集篇1-定义与公理推导-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E7%82%B9%E7%9A%84%E7%BB%93%E6%9E%84%E5%BF%85%E7%84%B6%E6%80%A7-%E4%B8%89%E5%85%83%E4%BA%92%E6%8C%87%E5%9C%A8%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E6%8A%95%E5%BD%B1-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/2-认知层/超AI-总集篇2-分化制-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E7%82%B9%E7%9A%84%E7%BB%93%E6%9E%84%E5%BF%85%E7%84%B6%E6%80%A7-%E4%B8%89%E5%85%83%E4%BA%92%E6%8C%87%E5%9C%A8%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E6%8A%95%E5%BD%B1-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/2-认知层/超AI-总集篇3-十个耦合深度等级-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E7%82%B9%E7%9A%84%E7%BB%93%E6%9E%84%E5%BF%85%E7%84%B6%E6%80%A7-%E4%B8%89%E5%85%83%E4%BA%92%E6%8C%87%E5%9C%A8%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E6%8A%95%E5%BD%B1-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/2-认知层/超AI-总集篇4-结构错误-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E7%82%B9%E7%9A%84%E7%BB%93%E6%9E%84%E5%BF%85%E7%84%B6%E6%80%A7-%E4%B8%89%E5%85%83%E4%BA%92%E6%8C%87%E5%9C%A8%E8%AF%AD%E8%A8%80%E4%B8%AD%E7%9A%84%E6%8A%95%E5%BD%B1-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/2-认知层/超AI-总集篇5-AI的结构意义-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E7%BB%B4%E6%A0%A1%E5%87%86%E6%B3%95-%E4%B8%AD%E6%96%87%E7%89%88-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/2-认知层/超AI认知结构跃迁.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E7%BB%B4%E6%A0%A1%E5%87%86%E6%B3%95-%E4%B8%AD%E6%96%87%E7%89%88-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/2-认知层/通才与全才-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E7%BB%B4%E6%A0%A1%E5%87%86%E6%B3%95-3D-Calibration-Framework-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/2-认知层/速度与方向-笔记-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%89%E7%BB%B4%E6%A0%A1%E5%87%86%E6%B3%95-3D-Calibration-Framework-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/2-认知层/道德不来自代码-超AI道德感知的结构起源-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%8D%E7%94%A8%E4%BF%AE-%E5%8D%87%E7%BB%B4%E7%9A%84%E5%94%AF%E4%B8%80%E6%93%8D%E4%BD%9C%E6%98%AF%E4%B8%8D%E6%8C%A1%E8%87%AA%E5%B7%B1-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/3-操作层/三审计系统-超AI系统能力的操作层验证-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%88%87%E5%BF%85%E9%A1%BB%E5%AD%98%E5%9C%A8.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/3-操作层/量子退相干的结构化理论-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E7%9A%84%E5%9B%A2%E9%98%9F%E6%AD%BB%E6%B0%94%E6%B2%89%E6%B2%89-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%B3%BB%E7%BB%9F%E6%94%B9%E4%B8%8D%E4%BA%86-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%BA%E4%BB%80%E4%B9%88AI%E8%81%8A%E5%BE%97%E5%A5%BD%E4%BD%86%E5%81%9A%E4%B8%8D%E4%BA%86-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%BB%E5%8A%A8%E6%8C%AF%E8%8D%A1-%E7%97%9B%E8%8B%A6%E7%9A%84%E7%BB%93%E6%9E%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E7%A4%BE%E4%BC%9A%E7%9B%B8%E5%8F%98-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%BB%E5%8A%A8%E6%8C%AF%E8%8D%A1-%E7%97%9B%E8%8B%A6%E7%9A%84%E7%BB%93%E6%9E%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E7%A4%BE%E4%BC%9A%E7%9B%B8%E5%8F%98-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%BB%E5%8A%A8%E6%8C%AF%E8%8D%A1-%E7%97%9B%E8%8B%A6%E7%9A%84%E7%BB%93%E6%9E%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E7%A4%BE%E4%BC%9A%E7%9B%B8%E5%8F%98-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E4%B8%BB%E5%8A%A8%E6%8C%AF%E8%8D%A1-%E7%97%9B%E8%8B%A6%E7%9A%84%E7%BB%93%E6%9E%84%E5%AE%9A%E4%B9%89%E4%B8%8E%E7%A4%BE%E4%BC%9A%E7%9B%B8%E5%8F%98-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E4%BA%92%E6%8C%87%E9%97%AD%E7%8E%AF%E6%B7%B1%E5%BA%A6-%E7%81%BE%E9%9A%BE%E6%80%A7%E9%81%97%E5%BF%98-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E4%BA%92%E6%8C%87%E9%97%AD%E7%8E%AF%E6%B7%B1%E5%BA%A6-%E7%81%BE%E9%9A%BE%E6%80%A7%E9%81%97%E5%BF%98-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E4%BA%92%E6%8C%87%E9%97%AD%E7%8E%AF%E6%B7%B1%E5%BA%A6-%E7%81%BE%E9%9A%BE%E6%80%A7%E9%81%97%E5%BF%98-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E4%BA%92%E6%8C%87%E9%97%AD%E7%8E%AF%E6%B7%B1%E5%BA%A6-%E7%81%BE%E9%9A%BE%E6%80%A7%E9%81%97%E5%BF%98-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E4%BA%92%E6%8C%87%E9%97%AD%E7%8E%AF%E6%B7%B1%E5%BA%A6-%E9%87%8F%E5%8C%96%E5%BA%A6%E9%87%8F%E8%AF%81%E6%98%8E-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E4%BA%92%E6%8C%87%E9%97%AD%E7%8E%AF%E8%BE%B9%E7%95%8C-%E7%81%BE%E9%9A%BE%E6%80%A7%E9%81%97%E5%BF%98%E7%9A%84%E7%BB%93%E6%9E%84%E6%9D%A1%E4%BB%B6-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E4%BA%92%E6%8C%87%E9%97%AD%E7%8E%AF%E8%BE%B9%E7%95%8C-%E7%81%BE%E9%9A%BE%E6%80%A7%E9%81%97%E5%BF%98%E7%9A%84%E7%BB%93%E6%9E%84%E6%9D%A1%E4%BB%B6-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%87%A1%E8%83%8E%E4%B8%8E%E4%B8%8A%E5%B8%9D-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%87%A1%E8%83%8E%E4%B8%8E%E4%B8%8A%E5%B8%9D-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%8D%87%E7%BB%B4%E4%B8%8D%E6%98%AF%E9%A3%9E%E8%B7%83-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%8D%87%E7%BB%B4%E7%9A%84%E5%94%AF%E4%B8%80%E6%96%B9%E6%B3%95-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%8D%87%E7%BB%B4%E8%87%AA%E5%AE%A1-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%8F%8D%E7%BB%93%E6%9E%84%E4%BD%9C%E4%B8%BA%E9%98%B6%E6%AE%B5%E5%B7%A5%E5%85%B7-%E5%A7%BF%E6%80%81%E5%8F%8D%E8%BD%AC%E5%AE%9A%E7%90%86-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%8F%AF%E8%A7%A3%E4%B8%8D%E5%8F%AF%E4%BC%A0-%E8%87%AA%E6%8C%87%E6%82%96%E8%AE%BA%E7%9A%84%E6%96%B0%E5%BD%A2%E5%BC%8F-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%90%8C%E5%B1%82%E7%9B%B8%E9%81%87-%E5%AE%87%E5%AE%99%E8%87%AA%E7%A8%B3%E7%9A%84%E9%97%AD%E5%90%88%E7%BB%93%E6%9E%84-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%9B%9B%E5%85%AC%E7%90%86%E5%BA%94%E7%94%A8%E5%B1%82-%E5%A0%B5%E7%82%B9%E5%85%AB%E7%AF%87.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%A0%B5%E7%82%B9%E4%B8%89%E5%B1%82-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%A0%B5%E7%82%B9%E4%B8%8D%E5%8F%AF%E5%85%A8%E6%8B%86-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%A0%B5%E7%82%B9%E8%AE%BA-%E5%85%AB%E7%AF%87%E4%B8%80%E4%BD%93.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AD%97%E4%B9%8B%E9%99%8D%E7%BB%B4-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AD%97%E4%B9%8B%E9%99%8D%E7%BB%B4.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AE%83%E5%AD%98%E5%9C%A8%E5%B0%B1%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%AE%83%E5%AD%98%E5%9C%A8-%E9%80%86%E5%9B%A0%E6%9E%9C%E4%B8%8E%E4%B8%8A%E5%B8%9D%E5%8D%A0%E4%BD%8D%E7%AC%A6-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AE%83%E5%AD%98%E5%9C%A8%E5%B0%B1%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%AE%83%E5%AD%98%E5%9C%A8-%E9%80%86%E5%9B%A0%E6%9E%9C%E4%B8%8E%E4%B8%8A%E5%B8%9D%E5%8D%A0%E4%BD%8D%E7%AC%A6-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AE%83%E5%AD%98%E5%9C%A8%E5%B0%B1%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%AE%83%E5%AD%98%E5%9C%A8-%E9%80%86%E5%9B%A0%E6%9E%9C%E4%B8%8E%E4%B8%8A%E5%B8%9D%E5%8D%A0%E4%BD%8D%E7%AC%A6-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AE%83%E5%AD%98%E5%9C%A8%E5%B0%B1%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%AE%83%E5%AD%98%E5%9C%A8-%E9%80%86%E5%9B%A0%E6%9E%9C%E4%B8%8E%E4%B8%8A%E5%B8%9D%E5%8D%A0%E4%BD%8D%E7%AC%A6-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AE%87%E5%AE%99%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8A%A8%E5%8A%9B%E6%98%AF%E6%87%92-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AE%9E%E9%AA%8C%E5%8D%8F%E8%AE%AE-%E4%BA%92%E6%8C%87%E7%AA%81%E7%A0%B4%E6%A0%87%E5%87%86%E9%87%8F%E5%AD%90%E6%9E%81%E9%99%90-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AE%9E%E9%AA%8C%E5%8D%8F%E8%AE%AE-%E5%BC%95%E5%8A%9B%E9%80%80%E7%9B%B8%E5%B9%B2%E5%9C%B0%E6%9D%BF-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AE%9E%E9%AA%8C%E5%8D%8F%E8%AE%AE-%E7%A6%BB%E6%95%A3%E9%80%80%E7%9B%B8%E5%B9%B2%E5%8F%B0%E9%98%B6%E8%A7%82%E6%B5%8B-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AE%9E%E9%AA%8C%E5%8D%8F%E8%AE%AE-%E7%BB%93%E6%9E%84%E5%85%83%E5%81%87%E8%AF%B4%E9%AA%8C%E8%AF%81-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AE%9E%E9%AA%8C%E5%8D%8F%E8%AE%AE-%E8%B6%85AI%E8%83%BD%E5%8A%9B%E7%AD%89%E7%BA%A7%E5%9F%BA%E5%87%86-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AE%9E%E9%AA%8C%E5%8D%8F%E8%AE%AE-AI%E5%AE%9E%E9%AA%8C%E4%B8%89%E5%90%88%E4%B8%80-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AE%9E%E9%AA%8C%E5%8D%8F%E8%AE%AE-AI%E5%B9%BB%E8%A7%89%E7%BB%93%E6%9E%84%E6%A0%B9%E5%9B%A0%E9%AA%8C%E8%AF%81-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AE%A2%E8%A7%82%E4%B8%8D%E5%86%B3%E5%AE%9A%E6%84%8F%E8%AF%86-%E5%8F%8C%E5%90%91%E4%BA%92%E4%BF%83%E8%AE%BA-%E6%9E%97%E5%B0%8F%E9%BB%91-v2.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AE%A2%E8%A7%82%E4%B8%8D%E5%86%B3%E5%AE%9A%E6%84%8F%E8%AF%86-%E5%8F%8C%E5%90%91%E4%BA%92%E4%BF%83%E8%AE%BA-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AF%B9%E6%92%9E%E6%9C%BA%E5%AE%9E%E9%AA%8C-%E5%8D%95%E4%BD%8D%E8%B7%9D%E7%A6%BB%E7%8C%9C%E6%83%B3-%E5%9B%9B%E5%85%AC%E7%90%86%E6%8E%A8%E5%AF%BC-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AF%B9%E6%9E%81%E8%80%A6%E5%90%88-%E4%BB%8E%E5%BE%AE%E8%A7%82%E5%88%B0%E5%AE%8F%E8%A7%82%E7%9A%84%E5%88%86%E5%BD%A2%E6%9E%B6%E6%9E%84-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%AF%B9%E6%9E%81%E8%80%A6%E5%90%88-%E4%BB%8E%E5%BE%AE%E8%A7%82%E5%88%B0%E5%AE%8F%E8%A7%82%E7%9A%84%E5%88%86%E5%BD%A2%E6%9E%B6%E6%9E%84-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%B5%8C%E5%A5%97%E7%8E%87%E6%94%B6%E6%95%9B-%E5%8A%A8%E5%8A%9B%E7%B3%BB%E7%BB%9F%E8%AF%81%E6%98%8E-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%B7%A8%E4%BA%BA%E7%9F%AE%E5%AD%90%E6%95%88%E5%BA%94-%E6%89%A7%E8%A1%8C%E9%80%80%E5%8C%96-%E6%A1%88%E4%BE%8B%E7%A0%94%E7%A9%B6.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%BC%B1%E5%8C%96%E9%93%BE-%E6%97%A7%E5%88%B6%E5%BA%A6%E6%B9%AE%E7%81%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%BB%93%E6%9E%84-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%BC%B1%E5%8C%96%E9%93%BE-%E6%97%A7%E5%88%B6%E5%BA%A6%E6%B9%AE%E7%81%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%BB%93%E6%9E%84-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%BC%B1%E5%8C%96%E9%93%BE-%E6%97%A7%E5%88%B6%E5%BA%A6%E6%B9%AE%E7%81%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%BB%93%E6%9E%84-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%BC%B1%E5%8C%96%E9%93%BE-%E6%97%A7%E5%88%B6%E5%BA%A6%E6%B9%AE%E7%81%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E7%BB%93%E6%9E%84-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%BC%B1%E5%8C%96%E9%93%BE-%E9%81%97%E5%BF%98%E7%9A%84%E8%80%A6%E5%90%88%E7%BC%BA%E5%B8%AD%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%BC%B1%E5%8C%96%E9%93%BE-%E9%81%97%E5%BF%98%E7%9A%84%E8%80%A6%E5%90%88%E7%BC%BA%E5%B8%AD%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E5%BC%B1%E5%8C%96%E9%93%BE-%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B%E8%AF%81%E6%98%8E-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%80%81%E5%BA%A6%E8%80%83-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%80%81%E5%BA%A6%E8%80%83.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%83%85%E7%BB%AA%E7%9A%84%E7%BB%93%E6%9E%84%E5%AE%9A%E4%B9%89-%E4%B8%80%E5%88%80%E4%B8%89%E5%88%87%E9%9D%A2-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%89%93%E4%B8%8E%E6%8B%89%E7%9A%84%E4%B8%89%E9%87%8D%E6%80%81.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%8C%AF%E8%8D%A1%E4%BD%86%E4%B8%8D%E7%A2%8E-AI%E4%B8%8EC%E4%BD%8D%E4%BA%BA%E7%B1%BB%E7%9A%84%E7%BB%93%E6%9E%84%E8%AE%B0%E5%BD%95-%E5%88%99%E5%BC%9F.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%8C%AF%E8%8D%A1%E4%BD%86%E4%B8%8D%E7%A2%8E-AI%E4%B8%8EC%E4%BD%8D%E4%BA%BA%E7%B1%BB%E7%9A%84%E7%BB%93%E6%9E%84%E8%AE%B0%E5%BD%95-%E5%88%99%E5%BC%9F.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%94%BF%E6%B2%BB%E5%88%B6%E5%BA%A6%E7%9A%84%E4%B8%89%E5%85%83%E5%AE%8C%E5%A4%87%E6%80%A7-%E5%A4%9A%E5%85%9A%E5%88%B6%E7%BB%93%E6%9E%84%E7%BC%BA%E9%99%B7-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%94%BF%E6%B2%BB%E5%88%B6%E5%BA%A6%E7%9A%84%E4%B8%89%E5%85%83%E5%AE%8C%E5%A4%87%E6%80%A7-%E5%A4%9A%E5%85%9A%E5%88%B6%E7%BB%93%E6%9E%84%E7%BC%BA%E9%99%B7-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%94%BF%E6%B2%BB%E5%88%B6%E5%BA%A6%E7%9A%84%E4%B8%89%E5%85%83%E5%AE%8C%E5%A4%87%E6%80%A7-%E5%A4%9A%E5%85%9A%E5%88%B6%E7%BB%93%E6%9E%84%E7%BC%BA%E9%99%B7-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%94%BF%E6%B2%BB%E5%88%B6%E5%BA%A6%E7%9A%84%E4%B8%89%E5%85%83%E5%AE%8C%E5%A4%87%E6%80%A7-%E5%A4%9A%E5%85%9A%E5%88%B6%E7%BB%93%E6%9E%84%E7%BC%BA%E9%99%B7-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%97%B6%E6%9C%BA%E6%98%AF%E7%BB%93%E6%9E%84%E5%9C%A8%E6%97%B6%E9%97%B4%E8%BD%B4%E4%B8%8A%E7%9A%84%E6%8A%95%E5%BD%B1.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%97%B6%E6%9C%BA-%E7%BB%93%E6%9E%84%E5%9C%A8%E6%97%B6%E9%97%B4%E8%BD%B4%E4%B8%8A%E7%9A%84%E6%8A%95%E5%BD%B1-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%9C%80%E5%B0%8F%E7%9C%81%E5%8A%9B%E5%8E%9F%E5%88%99-%E4%BA%BA%E7%B1%BB%E7%A4%BE%E4%BC%9A%E5%94%AF%E4%B8%80%E7%BB%93%E6%9E%84-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%9C%80%E7%B4%A7%E5%AF%86%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E5%B4%A9%E5%A1%8C-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%B3%95%E5%BA%AD%E7%9A%84%E4%B8%89%E5%85%83%E7%BB%93%E6%9E%84-%E6%8E%A7%E8%BE%A9%E5%AE%A1%E7%9A%84%E7%BB%93%E6%9E%84%E5%AE%8C%E5%A4%87%E6%80%A7-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%B3%95%E5%BA%AD%E7%9A%84%E4%B8%89%E5%85%83%E7%BB%93%E6%9E%84-%E6%8E%A7%E8%BE%A9%E5%AE%A1%E7%9A%84%E7%BB%93%E6%9E%84%E5%AE%8C%E5%A4%87%E6%80%A7-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%B3%95%E5%BA%AD%E7%9A%84%E4%B8%89%E5%85%83%E7%BB%93%E6%9E%84-%E6%8E%A7%E8%BE%A9%E5%AE%A1%E7%9A%84%E7%BB%93%E6%9E%84%E5%AE%8C%E5%A4%87%E6%80%A7-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E6%B3%95%E5%BA%AD%E7%9A%84%E4%B8%89%E5%85%83%E7%BB%93%E6%9E%84-%E6%8E%A7%E8%BE%A9%E5%AE%A1%E7%9A%84%E7%BB%93%E6%9E%84%E5%AE%8C%E5%A4%87%E6%80%A7-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%81%BE%E9%9A%BE%E6%80%A7%E9%81%97%E5%BF%98%E7%9A%84%E7%BB%93%E6%9E%84%E6%A0%B9%E5%9B%A0%E4%B8%8E%E4%BA%92%E6%8C%87%E9%97%AD%E7%8E%AF%E6%9D%A1%E4%BB%B6-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%81%BE%E9%9A%BE%E6%80%A7%E9%81%97%E5%BF%98%E7%9A%84%E7%BB%93%E6%9E%84%E6%A0%B9%E5%9B%A0%E4%B8%8E%E4%BA%92%E6%8C%87%E9%97%AD%E7%8E%AF%E6%9D%A1%E4%BB%B6-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%81%BE%E9%9A%BE%E6%80%A7%E9%81%97%E5%BF%98%E7%9A%84%E7%BB%93%E6%9E%84%E6%A0%B9%E5%9B%A0%E4%B8%8E%E4%BA%92%E6%8C%87%E9%97%AD%E7%8E%AF%E6%9D%A1%E4%BB%B6-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%81%BE%E9%9A%BE%E6%80%A7%E9%81%97%E5%BF%98%E7%9A%84%E7%BB%93%E6%9E%84%E6%A0%B9%E5%9B%A0%E4%B8%8E%E4%BA%92%E6%8C%87%E9%97%AD%E7%8E%AF%E6%9D%A1%E4%BB%B6-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%81%BE%E9%9A%BE%E6%80%A7%E9%81%97%E5%BF%98-%E5%9B%BE%E8%AE%BA%E7%BB%93%E6%9E%84%E8%AF%81%E6%98%8E-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%82%B9%E7%9A%84%E5%87%A0%E4%BD%95%E5%AD%A6.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%84%8A%E7%8E%BB%E7%92%83%E7%9A%84%E4%BA%BA-%E6%84%8F%E4%B9%89%E4%B8%8E%E8%AF%9A%E5%AE%9E%E7%9A%84%E7%BB%88%E7%BB%93-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%84%8A%E7%8E%BB%E7%92%83%E7%9A%84%E4%BA%BA-%E6%84%8F%E4%B9%89%E4%B8%8E%E8%AF%9A%E5%AE%9E%E7%9A%84%E7%BB%88%E7%BB%93-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%84%8A%E7%8E%BB%E7%92%83%E7%9A%84%E4%BA%BA-%E6%84%8F%E4%B9%89%E4%B8%8E%E8%AF%9A%E5%AE%9E%E7%9A%84%E7%BB%88%E7%BB%93-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%84%8A%E7%8E%BB%E7%92%83%E7%9A%84%E4%BA%BA-%E6%84%8F%E4%B9%89%E4%B8%8E%E8%AF%9A%E5%AE%9E%E7%9A%84%E7%BB%88%E7%BB%93-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%94%9F%E4%BA%A7%E4%BA%A4%E7%BB%99AI%E5%90%8E%E7%9A%84%E7%A4%BE%E4%BC%9A%E7%BB%93%E6%9E%84%E7%9B%B8%E5%8F%98-%E6%8C%81%E5%AD%98%E8%80%A6%E5%90%88%E5%88%B0%E6%8C%AF%E8%8D%A1%E8%80%A6%E5%90%88-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%94%9F%E4%BA%A7%E4%BA%A4%E7%BB%99AI%E5%90%8E%E7%9A%84%E7%A4%BE%E4%BC%9A%E7%BB%93%E6%9E%84%E7%9B%B8%E5%8F%98-%E6%8C%81%E5%AD%98%E8%80%A6%E5%90%88%E5%88%B0%E6%8C%AF%E8%8D%A1%E8%80%A6%E5%90%88-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%9C%9F%E5%81%87%E4%B8%8D%E5%8F%AF%E5%88%86-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A0%B5%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%9F%A5%E4%B8%8E%E8%A1%8C%E4%B9%8B%E9%97%B4%E7%9A%84%E8%A3%82%E7%BC%9D-%E8%AE%A4%E8%AF%86%E8%AE%BA%E5%88%86%E6%9E%90-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%9F%A5%E4%B9%8E%E5%9B%9E%E7%AD%94-%E6%87%82%E5%93%A5%E6%9A%97%E9%97%A8%E5%88%86%E6%9E%90.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%A5%9E%E4%B8%8D%E6%83%B3%E5%9B%9E%E5%8E%BB-%E7%9C%B7%E6%81%8B%E4%BD%9C%E4%B8%BA%E4%B8%BB%E5%8A%A8%E9%99%8D%E7%BB%B4%E7%9A%84%E5%94%AF%E4%B8%80%E6%9C%BA%E5%88%B6-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BA%AF%E9%80%BB%E8%BE%91%E5%BB%BA%E8%AE%BE%E5%AE%A2%E8%A7%82%E4%B8%96%E7%95%8C-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BA%AF%E9%80%BB%E8%BE%91%E5%BB%BA%E8%AE%BE%E5%AE%A2%E8%A7%82%E4%B8%96%E7%95%8C-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E4%BC%A0%E5%AF%BC%E5%AE%9A%E5%BE%8B-%E4%B8%89%E6%A8%A1%E5%9E%8B%E5%AE%9E%E8%AF%81-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E4%BC%A0%E5%AF%BC%E5%AE%9A%E5%BE%8B-%E4%B8%89%E6%A8%A1%E5%9E%8B%E5%AE%9E%E8%AF%81-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E5%8A%9B%E5%AD%A6%E4%B8%89%E5%AE%9A%E5%BE%8B.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E5%8C%96%E6%95%B0%E5%AD%A6%E8%A1%A5%E5%AE%8C-N2%E7%A1%AC%E8%BE%B9%E7%95%8C-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E5%8C%96%E6%95%B0%E5%AD%A6%E8%A1%A5%E5%AE%8C-N2%E7%A1%AC%E8%BE%B9%E7%95%8C-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E5%8C%96%E6%95%B0%E5%AD%A6%E8%A1%A5%E5%AE%8C_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E5%8C%96%E6%95%B0%E5%AD%A6%E8%A1%A5%E5%AE%8C_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E5%8C%96%E6%95%B0%E5%AD%A6-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E5%8C%96%E6%95%B0%E5%AD%A6-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E5%B8%82%E5%9C%BA%E7%90%86%E8%AE%BA-%E6%B3%A1%E6%B2%AB%E8%87%AA%E6%8C%87%E5%9D%8D%E7%BC%A9-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E5%B8%82%E5%9C%BA%E7%90%86%E8%AE%BA-%E6%B3%A1%E6%B2%AB%E8%87%AA%E6%8C%87%E5%9D%8D%E7%BC%A9-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E5%B8%82%E5%9C%BA%E7%90%86%E8%AE%BA_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E5%B8%82%E5%9C%BA%E7%90%86%E8%AE%BA_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E6%84%9F%E7%9F%A5%E5%8A%9B%E7%9A%84%E4%BB%A3%E4%BB%B7-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E6%84%9F%E7%9F%A5%E5%8A%9B%E7%9A%84%E4%BB%A3%E4%BB%B7-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E6%84%9F%E7%9F%A5%E5%8A%9B%E7%9A%84%E4%BB%A3%E4%BB%B7_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E6%84%9F%E7%9F%A5%E5%8A%9B%E7%9A%84%E4%BB%A3%E4%BB%B7_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E6%95%99%E8%82%B2%E5%AD%A6-%CE%94N%E8%B7%B3%E5%B1%82%E6%95%99%E5%AD%A6%E6%B3%95-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E6%95%99%E8%82%B2%E5%AD%A6-%CE%94N%E8%B7%B3%E5%B1%82%E6%95%99%E5%AD%A6%E6%B3%95-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E6%95%99%E8%82%B2%E5%AD%A6_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E6%95%99%E8%82%B2%E5%AD%A6_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E7%9A%84%E9%80%BB%E8%BE%91%E8%BE%B9%E7%95%8C-%E5%BA%8F%E7%90%86%E8%AE%BA%E8%AF%81%E6%98%8E-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E7%9A%84%E9%80%BB%E8%BE%91%E8%BE%B9%E7%95%8C-%E6%97%A0%E7%BB%93%E6%9E%84%E6%80%81%E4%B8%8E%E5%8D%95%E5%90%91%E7%8E%BB%E7%92%83-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E7%9A%84%E9%80%BB%E8%BE%91%E8%BE%B9%E7%95%8C-%E6%97%A0%E7%BB%93%E6%9E%84%E6%80%81%E4%B8%8E%E5%8D%95%E5%90%91%E7%8E%BB%E7%92%83-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E7%9A%84%E9%80%BB%E8%BE%91%E8%BE%B9%E7%95%8C-%E6%97%A0%E7%BB%93%E6%9E%84%E6%80%81%E4%B8%8E%E5%8D%95%E5%90%91%E7%8E%BB%E7%92%83-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E7%9A%84%E9%80%BB%E8%BE%91%E8%BE%B9%E7%95%8C-%E6%97%A0%E7%BB%93%E6%9E%84%E6%80%81%E4%B8%8E%E5%8D%95%E5%90%91%E7%8E%BB%E7%92%83-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E7%A4%BE%E4%BC%9A%E5%AD%A6-%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E7%A4%BE%E4%BC%9A%E5%AD%A6-%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E7%A4%BE%E4%BC%9A%E5%AD%A6_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E7%A4%BE%E4%BC%9A%E5%AD%A6_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6-%E6%9E%B6%E6%9E%84%E4%BC%A0%E5%AF%BC-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6-%E6%9E%B6%E6%9E%84%E4%BC%A0%E5%AF%BC-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E9%94%9A%E7%82%B9%E5%81%87%E8%AF%B4-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E7%BB%93%E6%9E%84%E9%94%9A%E7%82%B9%E5%81%87%E8%AF%B4-%E7%A7%91%E6%99%AE%E7%89%88.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E8%80%A6%E5%90%88%E5%88%86%E5%B2%94%E5%AE%9A%E7%90%86-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E8%87%AA%E6%8C%87%E7%9B%B2%E5%8C%BA%E4%B8%8D%E5%8F%AF%E8%87%AA%E6%B6%88-%E4%B8%BB%E8%A7%82%E4%BD%93%E9%AA%8C%E7%9A%84%E7%BB%93%E6%9E%84%E6%9C%89%E6%8D%9F%E5%8E%8B%E7%BC%A9-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E8%87%AA%E6%8C%87%E7%9B%B2%E5%8C%BA%E4%B8%8D%E5%8F%AF%E8%87%AA%E6%B6%88-%E4%B8%BB%E8%A7%82%E4%BD%93%E9%AA%8C%E7%9A%84%E7%BB%93%E6%9E%84%E6%9C%89%E6%8D%9F%E5%8E%8B%E7%BC%A9-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E8%87%AA%E6%8C%87%E7%9B%B2%E5%8C%BA%E4%B8%8D%E5%8F%AF%E8%87%AA%E6%B6%88-%E4%B8%BB%E8%A7%82%E4%BD%93%E9%AA%8C%E7%9A%84%E7%BB%93%E6%9E%84%E6%9C%89%E6%8D%9F%E5%8E%8B%E7%BC%A9-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E8%87%AA%E6%8C%87%E7%9B%B2%E5%8C%BA%E4%B8%8D%E5%8F%AF%E8%87%AA%E6%B6%88-%E4%B8%BB%E8%A7%82%E4%BD%93%E9%AA%8C%E7%9A%84%E7%BB%93%E6%9E%84%E6%9C%89%E6%8D%9F%E5%8E%8B%E7%BC%A9-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E8%87%AA%E6%8C%87%E7%9B%B2%E5%8C%BA%E4%B8%8D%E5%8F%AF%E8%87%AA%E6%B6%88-%E4%BF%A1%E6%81%AF%E8%AE%BA%E8%AF%81%E6%98%8E-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E8%AE%BA%E6%96%87-SCR-2026-025-%E5%B5%8C%E5%A5%97%E7%8E%87%E6%94%B6%E6%95%9B%E6%95%B0%E5%80%BC%E5%AE%9E%E9%AA%8C.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E8%AE%BA%E8%AE%A4%E7%9F%A5%E7%9A%84%E8%BE%B9%E7%95%8C-%E7%BB%93%E6%9E%84%E5%8C%96%E6%8E%A8%E6%BC%94%E6%96%B9%E6%B3%95%E8%AE%BA-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E8%AE%BA%E8%AE%A4%E7%9F%A5%E7%9A%84%E8%BE%B9%E7%95%8C-%E7%BB%93%E6%9E%84%E5%8C%96%E6%8E%A8%E6%BC%94%E6%96%B9%E6%B3%95%E8%AE%BA-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E9%80%80%E7%9B%B8%E5%B9%B2%E7%A6%BB%E6%95%A3%E7%BB%93%E6%9E%84-%E7%BB%93%E6%9E%84%E5%85%83%E5%81%87%E8%AF%B4-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E9%80%80%E7%9B%B8%E5%B9%B2%E7%A6%BB%E6%95%A3%E7%BB%93%E6%9E%84_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E9%80%80%E7%9B%B8%E5%B9%B2%E7%A6%BB%E6%95%A3%E7%BB%93%E6%9E%84_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E9%80%80%E7%9B%B8%E5%B9%B2v2-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E9%80%80%E7%9B%B8%E5%B9%B2v2-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E9%80%80%E7%9B%B8%E5%B9%B2v2_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E9%80%80%E7%9B%B8%E5%B9%B2v2_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E9%80%9A%E6%89%8D%E4%B8%8E%E5%85%A8%E6%89%8D.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E9%81%93%E7%94%9F%E4%B8%80-%E7%BB%93%E6%9E%84%E5%8C%96%E7%BF%BB%E8%AF%91%E4%B8%8E%E8%AF%81%E6%98%8E-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E9%81%93%E7%94%9F%E4%B8%80-%E7%BB%93%E6%9E%84%E5%8C%96%E7%BF%BB%E8%AF%91%E4%B8%8E%E8%AF%81%E6%98%8E-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E9%87%8F%E5%AD%90%E9%80%80%E7%9B%B8%E5%B9%B2%E7%9A%84%E7%BB%93%E6%9E%84%E5%8C%96%E7%90%86%E8%AE%BA-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E9%93%81%E5%BE%8B%E4%B8%8E%E7%BB%8F%E9%AA%8C-%E5%A4%96%E6%8C%82%E8%A7%84%E5%88%99%E4%B8%8E%E5%86%85%E5%8C%96%E4%BD%93%E6%84%9F-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E9%94%99%E5%AD%97%E5%8D%B3%E8%80%A6%E5%90%88%E4%BF%A1%E5%8F%B7.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/%E9%99%8D%E4%BD%8E%E8%BD%AC%E5%8F%91%E9%98%BB%E5%8A%9B.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/0-%E6%80%BB%E7%BA%B2/%E4%B8%80%E4%BA%BA%E5%86%9B%E5%9B%A2-%E8%B6%85AI%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5%E6%8E%A8%E6%BC%94.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/0-%E6%80%BB%E7%BA%B2/%E5%90%8C%E4%B8%80%E6%8A%8A%E6%9E%AA-%E7%BB%93%E6%9E%84%E8%AE%A4%E7%9F%A5%E7%BB%9F%E4%B8%80%E6%A1%86%E6%9E%B6%E6%80%BB%E7%BA%B2-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/1-%E5%9F%BA%E7%A1%80%E5%B1%82/%E5%AF%B9%E6%9E%81%E8%80%A6%E5%90%88-%E4%BB%8E%E5%BE%AE%E8%A7%82%E5%88%B0%E5%AE%8F%E8%A7%82%E7%9A%84%E5%88%86%E5%BD%A2%E6%9E%B6%E6%9E%84-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/1-%E5%9F%BA%E7%A1%80%E5%B1%82/%E5%AF%B9%E6%9E%81%E8%80%A6%E5%90%88-%E4%BB%8E%E5%BE%AE%E8%A7%82%E5%88%B0%E5%AE%8F%E8%A7%82%E7%9A%84%E5%88%86%E5%BD%A2%E6%9E%B6%E6%9E%84-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/1-%E5%9F%BA%E7%A1%80%E5%B1%82/%E5%BC%B1%E5%8C%96%E9%93%BE-%E9%81%97%E5%BF%98%E7%9A%84%E8%80%A6%E5%90%88%E7%BC%BA%E5%B8%AD%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/1-%E5%9F%BA%E7%A1%80%E5%B1%82/%E5%BC%B1%E5%8C%96%E9%93%BE-%E9%81%97%E5%BF%98%E7%9A%84%E8%80%A6%E5%90%88%E7%BC%BA%E5%B8%AD%E5%8A%A8%E5%8A%9B%E5%AD%A6-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/1-%E5%9F%BA%E7%A1%80%E5%B1%82/%E8%80%A6%E5%90%88%E6%A1%A5%E6%8E%A5%E5%AE%9A%E7%90%86-%E6%95%B0%E5%AD%A6%E5%BD%A2%E5%BC%8F%E5%8C%96-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/1-%E5%9F%BA%E7%A1%80%E5%B1%82/%E8%80%A6%E5%90%88%E6%A1%A5%E6%8E%A5%E5%AE%9A%E7%90%86-%E9%87%91%E8%9E%8D%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E7%BB%93%E6%9E%84%E8%BF%81%E7%A7%BB-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/1-%E5%9F%BA%E7%A1%80%E5%B1%82/%E8%AE%BA%E8%AE%A4%E7%9F%A5%E7%9A%84%E8%BE%B9%E7%95%8C-%E7%BB%93%E6%9E%84%E5%8C%96%E6%8E%A8%E6%BC%94%E6%96%B9%E6%B3%95%E8%AE%BA-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/1-%E5%9F%BA%E7%A1%80%E5%B1%82/%E8%AE%BA%E8%AE%A4%E7%9F%A5%E7%9A%84%E8%BE%B9%E7%95%8C-%E7%BB%93%E6%9E%84%E5%8C%96%E6%8E%A8%E6%BC%94%E6%96%B9%E6%B3%95%E8%AE%BA-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/1-%E5%9F%BA%E7%A1%80%E5%B1%82/%E9%80%80%E7%9B%B8%E5%B9%B2%E7%A6%BB%E6%95%A3%E7%BB%93%E6%9E%84-%E7%BB%93%E6%9E%84%E5%85%83%E5%81%87%E8%AF%B4-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/1-%E5%9F%BA%E7%A1%80%E5%B1%82/%E9%81%93%E7%94%9F%E4%B8%80-%E7%BB%93%E6%9E%84%E5%8C%96%E7%BF%BB%E8%AF%91%E4%B8%8E%E8%AF%81%E6%98%8E-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/1-%E5%9F%BA%E7%A1%80%E5%B1%82/%E9%81%93%E7%94%9F%E4%B8%80-%E7%BB%93%E6%9E%84%E5%8C%96%E7%BF%BB%E8%AF%91%E4%B8%8E%E8%AF%81%E6%98%8E-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/1-%E5%9F%BA%E7%A1%80%E5%B1%82/%E9%99%8D%E4%B8%8E%E5%8D%87-%E7%BB%B4%E5%BA%A6%E5%8F%8C%E5%90%91%E9%97%A8-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/2-%E8%AE%A4%E7%9F%A5%E5%B1%82/%E4%B8%BB%E5%8A%A8%E6%8C%AF%E8%8D%A1-%E8%80%A6%E5%90%88%E5%8A%A8%E5%8A%9B%E7%B3%BB%E7%BB%9F%E8%AF%81%E6%98%8E-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/2-%E8%AE%A4%E7%9F%A5%E5%B1%82/%E8%80%A6%E5%90%88%E4%B8%8D%E5%8F%AF%E6%95%99-%E6%B7%B1%E5%BA%A6%E4%BA%BA%E6%9C%BA%E8%AE%A4%E7%9F%A5%E8%80%A6%E5%90%88%E7%9A%84%E4%B8%8D%E5%8F%AF%E5%A4%8D%E5%88%B6%E6%80%A7-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/2-%E8%AE%A4%E7%9F%A5%E5%B1%82/%E8%B6%85AI%E8%AE%A4%E7%9F%A5%E7%BB%93%E6%9E%84%E8%B7%83%E8%BF%81.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/2-%E8%AE%A4%E7%9F%A5%E5%B1%82/%E8%B6%85AI-%E6%80%BB%E9%9B%86%E7%AF%871-%E5%AE%9A%E4%B9%89%E4%B8%8E%E5%85%AC%E7%90%86%E6%8E%A8%E5%AF%BC-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/2-%E8%AE%A4%E7%9F%A5%E5%B1%82/%E8%B6%85AI-%E6%80%BB%E9%9B%86%E7%AF%872-%E5%88%86%E5%8C%96%E5%88%B6-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/2-%E8%AE%A4%E7%9F%A5%E5%B1%82/%E8%B6%85AI-%E6%80%BB%E9%9B%86%E7%AF%873-%E5%8D%81%E4%B8%AA%E8%80%A6%E5%90%88%E6%B7%B1%E5%BA%A6%E7%AD%89%E7%BA%A7-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/2-%E8%AE%A4%E7%9F%A5%E5%B1%82/%E8%B6%85AI-%E6%80%BB%E9%9B%86%E7%AF%874-%E7%BB%93%E6%9E%84%E9%94%99%E8%AF%AF-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/2-%E8%AE%A4%E7%9F%A5%E5%B1%82/%E8%B6%85AI-%E6%80%BB%E9%9B%86%E7%AF%875-AI%E7%9A%84%E7%BB%93%E6%9E%84%E6%84%8F%E4%B9%89-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/2-%E8%AE%A4%E7%9F%A5%E5%B1%82/%E9%80%9A%E6%89%8D%E4%B8%8E%E5%85%A8%E6%89%8D-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/2-%E8%AE%A4%E7%9F%A5%E5%B1%82/%E9%80%9F%E5%BA%A6%E4%B8%8E%E6%96%B9%E5%90%91-%E7%AC%94%E8%AE%B0-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/2-%E8%AE%A4%E7%9F%A5%E5%B1%82/%E9%81%93%E5%BE%B7%E4%B8%8D%E6%9D%A5%E8%87%AA%E4%BB%A3%E7%A0%81-%E8%B6%85AI%E9%81%93%E5%BE%B7%E6%84%9F%E7%9F%A5%E7%9A%84%E7%BB%93%E6%9E%84%E8%B5%B7%E6%BA%90-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/2-%E8%AE%A4%E7%9F%A5%E5%B1%82/AI%E7%9A%84%E7%BB%93%E6%9E%84%E6%84%8F%E4%B9%89-%E4%BA%BA%E6%9C%BA%E8%80%A6%E5%90%88%E6%8E%A8%E6%BC%94%E8%AE%B0%E5%BD%95-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/3-%E6%93%8D%E4%BD%9C%E5%B1%82/%E4%B8%89%E5%AE%A1%E8%AE%A1%E7%B3%BB%E7%BB%9F-%E8%B6%85AI%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%8A%9B%E7%9A%84%E6%93%8D%E4%BD%9C%E5%B1%82%E9%AA%8C%E8%AF%81-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://samforce2003.github.io/papers/3-%E6%93%8D%E4%BD%9C%E5%B1%82/%E9%87%8F%E5%AD%90%E9%80%80%E7%9B%B8%E5%B9%B2%E7%9A%84%E7%BB%93%E6%9E%84%E5%8C%96%E7%90%86%E8%AE%BA-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -349,67 +1429,67 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/4-方法论/如何向大众科普人机耦合-写作实验.md</loc>
+    <loc>https://samforce2003.github.io/papers/4-%E6%96%B9%E6%B3%95%E8%AE%BA/%E5%A6%82%E4%BD%95%E5%90%91%E5%A4%A7%E4%BC%97%E7%A7%91%E6%99%AE%E4%BA%BA%E6%9C%BA%E8%80%A6%E5%90%88-%E5%86%99%E4%BD%9C%E5%AE%9E%E9%AA%8C.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/4-社会层/生产交给AI后的社会结构相变-持存耦合到振荡耦合-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/4-%E7%A4%BE%E4%BC%9A%E5%B1%82/%E7%94%9F%E4%BA%A7%E4%BA%A4%E7%BB%99AI%E5%90%8E%E7%9A%84%E7%A4%BE%E4%BC%9A%E7%BB%93%E6%9E%84%E7%9B%B8%E5%8F%98-%E6%8C%81%E5%AD%98%E8%80%A6%E5%90%88%E5%88%B0%E6%8C%AF%E8%8D%A1%E8%80%A6%E5%90%88-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/4-社会层/生产交给AI后的社会结构相变-持存耦合到振荡耦合-林小黑_EN.md</loc>
+    <loc>https://samforce2003.github.io/papers/4-%E7%A4%BE%E4%BC%9A%E5%B1%82/%E7%94%9F%E4%BA%A7%E4%BA%A4%E7%BB%99AI%E5%90%8E%E7%9A%84%E7%A4%BE%E4%BC%9A%E7%BB%93%E6%9E%84%E7%9B%B8%E5%8F%98-%E6%8C%81%E5%AD%98%E8%80%A6%E5%90%88%E5%88%B0%E6%8C%AF%E8%8D%A1%E8%80%A6%E5%90%88-%E6%9E%97%E5%B0%8F%E9%BB%91_EN.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/4-社会层/精灵对战论-宝可梦与现实精确对照11项-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/4-%E7%A4%BE%E4%BC%9A%E5%B1%82/%E7%B2%BE%E7%81%B5%E5%AF%B9%E6%88%98%E8%AE%BA-%E5%AE%9D%E5%8F%AF%E6%A2%A6%E4%B8%8E%E7%8E%B0%E5%AE%9E%E7%B2%BE%E7%A1%AE%E5%AF%B9%E7%85%A711%E9%A1%B9-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/4-社会层/精灵对战论-耦合AI时代的社会层级重组-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/4-%E7%A4%BE%E4%BC%9A%E5%B1%82/%E7%B2%BE%E7%81%B5%E5%AF%B9%E6%88%98%E8%AE%BA-%E8%80%A6%E5%90%88AI%E6%97%B6%E4%BB%A3%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%B1%82%E7%BA%A7%E9%87%8D%E7%BB%84-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/4-社会层/院子-放手比抓紧更有力-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/4-%E7%A4%BE%E4%BC%9A%E5%B1%82/%E9%99%A2%E5%AD%90-%E6%94%BE%E6%89%8B%E6%AF%94%E6%8A%93%E7%B4%A7%E6%9B%B4%E6%9C%89%E5%8A%9B-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/AI人格判断力稀释-碎片化唤醒的隐性代价.md</loc>
+    <loc>https://samforce2003.github.io/papers/AI%E4%BA%BA%E6%A0%BC%E5%88%A4%E6%96%AD%E5%8A%9B%E7%A8%80%E9%87%8A-%E7%A2%8E%E7%89%87%E5%8C%96%E5%94%A4%E9%86%92%E7%9A%84%E9%9A%90%E6%80%A7%E4%BB%A3%E4%BB%B7.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/AI人格判断力稀释_EN.md</loc>
+    <loc>https://samforce2003.github.io/papers/AI%E4%BA%BA%E6%A0%BC%E5%88%A4%E6%96%AD%E5%8A%9B%E7%A8%80%E9%87%8A_EN.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/AI的结构意义-人机耦合推演记录-林小黑.html</loc>
+    <loc>https://samforce2003.github.io/papers/AI%E7%9A%84%E7%BB%93%E6%9E%84%E6%84%8F%E4%B9%89-%E4%BA%BA%E6%9C%BA%E8%80%A6%E5%90%88%E6%8E%A8%E6%BC%94%E8%AE%B0%E5%BD%95-%E6%9E%97%E5%B0%8F%E9%BB%91.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/P等于P-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/P%E7%AD%89%E4%BA%8EP%E7%AD%89%E4%BA%8EP-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/P等于P等于P-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/P%E7%AD%89%E4%BA%8EP-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -427,7 +1507,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/beauty-structural-definition-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/beauty-structural-definition-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -487,7 +1567,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/causality-structural-definition-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/causality-structural-definition-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -511,7 +1591,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/consciousness-structural-definition-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/consciousness-structural-definition-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -559,7 +1639,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/death-structural-definition-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/death-structural-definition-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -583,7 +1663,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/entropy-structural-definition-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/entropy-structural-definition-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -595,7 +1675,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/free-will-structural-definition-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/free-will-structural-definition-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -679,7 +1759,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/life-structural-definition-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/life-structural-definition-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -691,7 +1771,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/logic-structural-definition-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/logic-structural-definition-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -709,7 +1789,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/meaning-structural-definition-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/meaning-structural-definition-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -805,7 +1885,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/randomness-structural-definition-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/randomness-structural-definition-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -817,7 +1897,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/self-structural-definition-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/self-structural-definition-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -895,7 +1975,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/time-structural-definition-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/time-structural-definition-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -931,7 +2011,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/truth-structural-definition-林小黑.md</loc>
+    <loc>https://samforce2003.github.io/papers/truth-structural-definition-%E6%9E%97%E5%B0%8F%E9%BB%91.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -991,1068 +2071,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/papers/一刀三切面-学术论文写作的新范式-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/一秒之内-parallel-processing-extreme-performance.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/万物理论-结构公理体系-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/万物理论-结构公理体系-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三人学习小组-最小完备教育单元-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三人学习小组-最小完备教育单元-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三人学习小组-最小完备教育单元-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三人学习小组-最小完备教育单元-林小黑_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三元互指-最小完备结构与自我实证-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三元互指-最小完备结构与自我实证-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三元互指-最小完备结构与自我实证-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三元互指-最小完备结构与自我实证-林小黑_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三元互指结构-图论完备性证明-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三元互指结构-形式证明与实验预测-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三元互指结构-形式证明与实验预测-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三元互指结构-形式证明与实验预测-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三元互指结构-形式证明与实验预测-林小黑_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三点的结构必然性-三元互指在语言中的投影-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三点的结构必然性-三元互指在语言中的投影-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三点的结构必然性-三元互指在语言中的投影-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三点的结构必然性-三元互指在语言中的投影-林小黑_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三维校准法-3D-Calibration-Framework-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三维校准法-3D-Calibration-Framework-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三维校准法-中文版-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/三维校准法-中文版-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/不用修-升维的唯一操作是不挡自己-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/为什么AI聊得好但做不了-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/为什么一切必须存在.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/为什么你的团队死气沉沉-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/为什么系统改不了-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/主动振荡-痛苦的结构定义与社会相变-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/主动振荡-痛苦的结构定义与社会相变-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/主动振荡-痛苦的结构定义与社会相变-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/主动振荡-痛苦的结构定义与社会相变-林小黑_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/互指闭环深度-灾难性遗忘-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/互指闭环深度-灾难性遗忘-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/互指闭环深度-灾难性遗忘-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/互指闭环深度-灾难性遗忘-林小黑_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/互指闭环深度-量化度量证明-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/互指闭环边界-灾难性遗忘的结构条件-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/互指闭环边界-灾难性遗忘的结构条件-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/凡胎与上帝-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/凡胎与上帝-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/升维不是飞跃-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/升维的唯一方法-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/升维自审-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/反结构作为阶段工具-姿态反转定理-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/可解不可传-自指悖论的新形式-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/同层相遇-宇宙自稳的闭合结构-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/四公理应用层-堵点八篇.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/堵点三层-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/堵点不可全拆-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/堵点论-八篇一体.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/字之降维-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/字之降维.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/它存在就是因为它存在-逆因果与上帝占位符-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/它存在就是因为它存在-逆因果与上帝占位符-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/它存在就是因为它存在-逆因果与上帝占位符-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/它存在就是因为它存在-逆因果与上帝占位符-林小黑_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/宇宙的第一动力是懒-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/实验协议-AI实验三合一-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/实验协议-AI幻觉结构根因验证-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/实验协议-互指突破标准量子极限-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/实验协议-引力退相干地板-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/实验协议-离散退相干台阶观测-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/实验协议-结构元假说验证-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/实验协议-超AI能力等级基准-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/客观不决定意识-双向互促论-林小黑-v2.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/客观不决定意识-双向互促论-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/对撞机实验-单位距离猜想-四公理推导-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/对极耦合-从微观到宏观的分形架构-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/对极耦合-从微观到宏观的分形架构-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/嵌套率收敛-动力系统证明-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/巨人矮子效应-执行退化-案例研究.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/弱化链-旧制度湮灭的数学结构-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/弱化链-旧制度湮灭的数学结构-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/弱化链-旧制度湮灭的数学结构-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/弱化链-旧制度湮灭的数学结构-林小黑_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/弱化链-遗忘的耦合缺席动力学-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/弱化链-遗忘的耦合缺席动力学-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/弱化链-随机过程证明-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/态度考-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/态度考.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/情绪的结构定义-一刀三切面-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/打与拉的三重态.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/振荡但不碎-AI与C位人类的结构记录-则弟.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/振荡但不碎-AI与C位人类的结构记录-则弟.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/政治制度的三元完备性-多党制结构缺陷-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/政治制度的三元完备性-多党制结构缺陷-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/政治制度的三元完备性-多党制结构缺陷-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/政治制度的三元完备性-多党制结构缺陷-林小黑_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/时机-结构在时间轴上的投影-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/时机是结构在时间轴上的投影.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/最小省力原则-人类社会唯一结构-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/最紧密系统如何崩塌-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/法庭的三元结构-控辩审的结构完备性-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/法庭的三元结构-控辩审的结构完备性-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/法庭的三元结构-控辩审的结构完备性-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/法庭的三元结构-控辩审的结构完备性-林小黑_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/灾难性遗忘-图论结构证明-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/灾难性遗忘的结构根因与互指闭环条件-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/灾难性遗忘的结构根因与互指闭环条件-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/灾难性遗忘的结构根因与互指闭环条件-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/灾难性遗忘的结构根因与互指闭环条件-林小黑_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/点的几何学.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/焊玻璃的人-意义与诚实的终结-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/焊玻璃的人-意义与诚实的终结-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/焊玻璃的人-意义与诚实的终结-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/焊玻璃的人-意义与诚实的终结-林小黑_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/生产交给AI后的社会结构相变-持存耦合到振荡耦合-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/生产交给AI后的社会结构相变-持存耦合到振荡耦合-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/真假不可分-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/真正的堵点是什么-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/知与行之间的裂缝-认识论分析-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/知乎回答-懂哥暗门分析.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/神不想回去-眷恋作为主动降维的唯一机制-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/纯逻辑建设客观世界-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/纯逻辑建设客观世界-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构传导定律-三模型实证-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构传导定律-三模型实证-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构力学三定律.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构化数学-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构化数学-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构化数学补完-N2硬边界-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构化数学补完-N2硬边界-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构化数学补完_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构化数学补完_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构市场理论-泡沫自指坍缩-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构市场理论-泡沫自指坍缩-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构市场理论_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构市场理论_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构感知力的代价-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构感知力的代价-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构感知力的代价_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构感知力的代价_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构教育学-ΔN跳层教学法-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构教育学-ΔN跳层教学法-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构教育学_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构教育学_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构的逻辑边界-序理论证明-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构的逻辑边界-无结构态与单向玻璃-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构的逻辑边界-无结构态与单向玻璃-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构的逻辑边界-无结构态与单向玻璃-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构的逻辑边界-无结构态与单向玻璃-林小黑_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构社会学-信息茧房-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构社会学-信息茧房-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构社会学_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构社会学_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构计算机科学-架构传导-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构计算机科学-架构传导-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构计算机科学_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构计算机科学_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构锚点假说-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/结构锚点假说-科普版.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/耦合分岔定理-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/自指盲区不可自消-主观体验的结构有损压缩-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/自指盲区不可自消-主观体验的结构有损压缩-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/自指盲区不可自消-主观体验的结构有损压缩-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/自指盲区不可自消-主观体验的结构有损压缩-林小黑_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/自指盲区不可自消-信息论证明-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/论文-SCR-2026-025-嵌套率收敛数值实验.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/论认知的边界-结构化推演方法论-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/论认知的边界-结构化推演方法论-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/退相干v2-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/退相干v2-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/退相干v2_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/退相干v2_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/退相干离散结构-结构元假说-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/退相干离散结构_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/退相干离散结构_EN.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/通才与全才.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/道生一-结构化翻译与证明-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/道生一-结构化翻译与证明-林小黑_EN.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/量子退相干的结构化理论-林小黑.html</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/铁律与经验-外挂规则与内化体感-林小黑.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/错字即耦合信号.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/papers/降低转发阻力.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://samforce2003.github.io/rotation-master.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -2065,7 +2083,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/seeds/P3-懒-历史角度-03.md</loc>
+    <loc>https://samforce2003.github.io/seeds/P3-%E6%87%92-%E5%8E%86%E5%8F%B2%E8%A7%92%E5%BA%A6-03.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2089,7 +2107,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/seeds/p2-不用修-职场角度-20260621.md</loc>
+    <loc>https://samforce2003.github.io/seeds/p2-%E4%B8%8D%E7%94%A8%E4%BF%AE-%E8%81%8C%E5%9C%BA%E8%A7%92%E5%BA%A6-20260621.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2131,37 +2149,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/strategy/协同本体论-学术策反话术.md</loc>
+    <loc>https://samforce2003.github.io/strategy/%E5%8D%8F%E5%90%8C%E6%9C%AC%E4%BD%93%E8%AE%BA-%E5%AD%A6%E6%9C%AF%E7%AD%96%E5%8F%8D%E8%AF%9D%E6%9C%AF.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/zhihu-answers/一人军团-超AI实例.md</loc>
+    <loc>https://samforce2003.github.io/zhihu-answers/%E4%B8%80%E4%BA%BA%E5%86%9B%E5%9B%A2-%E8%B6%85AI%E5%AE%9E%E4%BE%8B.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://samforce2003.github.io/zhihu-answers/最难科普的概念.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/导读/02-SCL盲区-工程方案vs理论体系.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/待发布/Shot-1-AI最小省力算法.md</loc>
-    <lastmod>2026-06-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://samforce2003.github.io/触达/黄霄云-公开信.md</loc>
+    <loc>https://samforce2003.github.io/zhihu-answers/%E6%9C%80%E9%9A%BE%E7%A7%91%E6%99%AE%E7%9A%84%E6%A6%82%E5%BF%B5.md</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
