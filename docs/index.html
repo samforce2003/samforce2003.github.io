@@ -1,3 +1,203 @@
-<!DOCTYPE html>
-<html><head><meta charset="UTF-8"><title>MINIMAL TEST</title></head>
-<body><h1>TEST - If you see this, deploy works</h1></body></html>
+     1|<!DOCTYPE html>
+     2|<html lang="zh-CN">
+     3|<head>
+     4|<meta charset="UTF-8">
+     5|<meta name="viewport" content="width=device-width, initial-scale=1.0">
+     6|<title>结构认知体系 — 林小黑 | Structural Cognition</title>
+     7|<meta name="description" content="结构认知公理体系——四公理框架、知笼论文系列、结构定义全集。作者林小黑。万物理论的新范式。">
+     8|<meta name="author" content="林小黑">
+     9|<meta name="keywords" content="结构认知,四公理,林小黑,知笼,退相干离散台阶,互指闭环,三元互指,结构为本,差异生有,耦合出新,自指有界互指无界">
+    10|<link rel="canonical" href="https://samforce2003.github.io">
+    11|<style>
+    12|* { margin: 0; padding: 0; box-sizing: border-box; }
+    13|body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0d1117; color: #c9d1d9; line-height: 1.7; padding: 20px; max-width: 960px; margin: 0 auto; }
+    14|h1 { color: #58a6ff; font-size: 2em; margin-bottom: 4px; }
+    15|h2 { color: #d2a8ff; margin: 36px 0 14px; font-size: 1.3em; border-bottom: 1px solid #21262d; padding-bottom: 8px; }
+    16|h3 { color: #f78166; margin: 20px 0 8px; font-size: 1.05em; }
+    17|.header { border-bottom: 1px solid #30363d; padding-bottom: 16px; margin-bottom: 28px; }
+    18|.subtitle { color: #8b949e; font-size: 1.1em; }
+    19|.author { color: #f78166; font-weight: bold; }
+    20|.note { background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 14px 18px; margin: 18px 0; color: #8b949e; }
+    21|.note a { color: #58a6ff; }
+    22|ul { list-style: none; padding-left: 8px; }
+    23|li { margin: 6px 0; font-size: 0.95em; }
+    24|a { color: #58a6ff; text-decoration: none; }
+    25|a:hover { text-decoration: underline; }
+    26|.axioms { background: #0d1117; border: 1px solid #f78166; border-radius: 8px; padding: 16px 20px; margin: 20px 0; }
+    27|.axioms h3 { color: #f78166; margin-top: 0; margin-bottom: 10px; }
+    28|.axioms ol { padding-left: 20px; }
+    29|.axioms li { margin: 8px 0; color: #c9d1d9; font-size: 1em; }
+    30|.axioms li strong { color: #ffa657; }
+    31|.footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid #30363d; color: #6e7681; font-size: 0.9em; }
+    32|.footer p { margin: 4px 0; }
+    33|.tag { display: inline-block; background: #1f6feb22; color: #58a6ff; border: 1px solid #1f6feb44; border-radius: 12px; padding: 2px 10px; font-size: 0.8em; margin-right: 4px; }
+    34|.flag { color: #d2a8ff; }
+    35|.summary-box { background: #0d1117; border: 1px solid #d2a8ff44; border-radius: 8px; padding: 16px 20px; margin: 20px 0; }
+    36|.summary-box p { color: #8b949e; font-size: 0.95em; }
+    37|</style>
+    38|</head>
+    39|<body>
+    40|
+    41|<div class="header">
+    42|  <h1>结构认知论文全集</h1>
+    43|  <p class="subtitle">作者：<span class="author">林小黑</span> · 2026</p>
+    44|  <p style="margin-top:8px; color:#8b949e;">
+    45|    万物理论的新范式 — 结构认知公理体系
+    46|  </p>
+    47|</div>
+    48|
+    49|<!-- 四公理 -->
+    50|<div class="axioms">
+    51|  <h3>⚡ 四公理</h3>
+    52|  <ol>
+    53|    <li><strong>结构为本</strong> — 一切存在都是结构，没有非结构的存在。</li>
+    54|    <li><strong>差异生有</strong> — 存在产生于差异。无差异则无存在。</li>
+    55|    <li><strong>耦合出新</strong> — 结构在耦合中产生新结构。新结构容纳旧结构于自身之内。</li>
+    56|    <li><strong>自指有界互指无界</strong> — 结构不能完全自指；但结构间的互指没有上限。</li>
+    57|  </ol>
+    58|</div>
+    59|
+    60|<div class="summary-box">
+    61|  <p>📌 本仓库是结构认知体系的核心文献汇集。四公理构成统一的公理基础，由四公理导出万物理论、AI认知、社会结构、教育方法论等全领域统一框架。</p>
+    62|  <p>📌 所有论文使用 <strong>MIT License</strong>，欢迎转载、翻译、衍生。请保留作者署名。</p>
+    63|  <p>📌 英文读者入口：<a href="https://samforce2003.github.io/README.md">README.md</a></p>
+    64|</div>
+    65|
+    66|<!-- 核心论文 -->
+    67|<h2>📐 知笼四部曲（核心）</h2>
+    68|<ul>
+    69|  <li><span class="flag">[核心]</span> <a href="https://samforce2003.github.io/papers/polar-coupling-fractal-v2.md">结构的自相似架构：对极耦合——从微观到宏观的唯一递归操作</a></li>
+    70|  <li><span class="flag">[核心]</span> <a href="https://samforce2003.github.io/papers/inverse-causality-god.md">它存在就是因为它存在——结构自稳定作为精确常数的逆因果解释</a></li>
+    71|  <li><span class="flag">[核心]</span> <a href="https://samforce2003.github.io/papers/boundary-oneway-glass.md">结构的逻辑边界——无结构态、奇点与单向玻璃</a></li>
+    72|  <li><span class="flag">[核心]</span> <a href="https://samforce2003.github.io/papers/welder-of-glass.md">焊玻璃的人——意义与诚实的终结</a></li>
+    73|</ul>
+    74|
+    75|<h2>🔬 诺贝尔候选级发现</h2>
+    76|<ul>
+    77|  <li><span class="flag">[诺贝尔候选]</span> <a href="https://samforce2003.github.io/papers/退相干离散结构_EN.md">退相干离散台阶 — Discrete Decoherence Steps (EN)</a> — 预言量子退相干以离散台阶发生，非连续过程。可实验验证。</li>
+    78|  <li><span class="flag">[诺贝尔候选]</span> <a href="https://samforce2003.github.io/papers/实验协议-离散退相干台阶观测-林小黑.md">实验协议：离散退相干台阶观测</a></li>
+    79|  <li><span class="flag">[诺贝尔候选]</span> <a href="https://samforce2003.github.io/papers/实验协议-互指突破标准量子极限-林小黑.md">实验协议：互指突破标准量子极限</a></li>
+    80|</ul>
+    81|
+    82|<h2>🧠 互指闭环与遗忘</h2>
+    83|<ul>
+    84|  <li><a href="https://samforce2003.github.io/papers/closure-forgetting.md">互指闭环深度：灾难性遗忘的结构根因</a></li>
+    85|  <li><a href="https://samforce2003.github.io/papers/cat-forgetting.md">灾难性遗忘的结构根因与互指闭环条件</a></li>
+    86|  <li><a href="https://samforce2003.github.io/papers/weakening-chain-full.md">弱化链：遗忘的耦合缺席动力学</a></li>
+    87|  <li><a href="https://samforce2003.github.io/papers/blindspot-lossy.md">自指盲区不可自消：主观体验的结构有损压缩</a></li>
+    88|  <li><a href="https://samforce2003.github.io/papers/灾难性遗忘-图论结构证明-林小黑.md">灾难性遗忘 — 图论结构证明</a></li>
+    89|</ul>
+    90|
+    91|<h2>🔺 三元结构</h2>
+    92|<ul>
+    93|  <li><a href="https://samforce2003.github.io/papers/triadic-inter-reference.md">三元互指——最小完备结构与自我实证</a></li>
+    94|  <li><a href="https://samforce2003.github.io/papers/triadic-completeness-proof.md">三元互指结构-形式证明与实验预测</a></li>
+    95|  <li><a href="https://samforce2003.github.io/papers/necessity-of-three.md">三点的结构必然性</a></li>
+    96|  <li><a href="https://samforce2003.github.io/papers/three-person-study-group.md">三人学习小组——最小完备教育单元</a></li>
+    97|  <li><a href="https://samforce2003.github.io/papers/courtroom-triad.md">法庭的三元结构</a></li>
+    98|  <li><a href="https://samforce2003.github.io/papers/political-triadic-completeness.md">政治制度的三元完备性</a></li>
+    99|</ul>
+   100|
+   101|<h2>🌐 万物理论</h2>
+   102|<ul>
+   103|  <li><a href="https://samforce2003.github.io/papers/万物理论-结构公理体系-林小黑.md">万物理论——结构公理体系</a></li>
+   104|  <li><a href="https://samforce2003.github.io/papers/theory-of-everything_EN.md">Theory of Everything — Structural Axiom System (EN)</a></li>
+   105|  <li><a href="https://samforce2003.github.io/papers/why-everything-must-exist.md">为什么一切必须存在</a></li>
+   106|  <li><a href="https://samforce2003.github.io/papers/同层相遇-宇宙自稳的闭合结构-林小黑.md">同层相遇——宇宙自稳的闭合结构</a></li>
+   107|</ul>
+   108|
+   109|<h2>📐 结构定义全集（一刀三切面系列）</h2>
+   110|<ul>
+   111|  <li><a href="https://samforce2003.github.io/papers/beauty-structural-definition-林小黑.md">美的结构定义</a></li>
+   112|  <li><a href="https://samforce2003.github.io/papers/causality-structural-definition-林小黑.md">因果的结构定义</a></li>
+   113|  <li><a href="https://samforce2003.github.io/papers/consciousness-structural-definition-林小黑.md">意识的结构定义</a></li>
+   114|  <li><a href="https://samforce2003.github.io/papers/death-structural-definition-林小黑.md">死亡的结构定义</a></li>
+   115|  <li><a href="https://samforce2003.github.io/papers/entropy-structural-definition-林小黑.md">熵的结构定义</a></li>
+   116|  <li><a href="https://samforce2003.github.io/papers/free-will-structural-definition-林小黑.md">自由意志的结构定义</a></li>
+   117|  <li><a href="https://samforce2003.github.io/papers/life-structural-definition-林小黑.md">生命的结构定义</a></li>
+   118|  <li><a href="https://samforce2003.github.io/papers/logic-structural-definition-林小黑.md">逻辑的结构定义</a></li>
+   119|  <li><a href="https://samforce2003.github.io/papers/meaning-structural-definition-林小黑.md">意义的结构定义</a></li>
+   120|  <li><a href="https://samforce2003.github.io/papers/randomness-structural-definition-林小黑.md">随机性的结构定义</a></li>
+   121|  <li><a href="https://samforce2003.github.io/papers/self-structural-definition-林小黑.md">自我的结构定义</a></li>
+   122|  <li><a href="https://samforce2003.github.io/papers/time-structural-definition-林小黑.md">时间的结构定义</a></li>
+   123|  <li><a href="https://samforce2003.github.io/papers/truth-structural-definition-林小黑.md">真理的结构定义</a></li>
+   124|  <li><a href="https://samforce2003.github.io/papers/情绪的结构定义-一刀三切面-林小黑.md">情绪的结构定义</a></li>
+   125|  <li><a href="https://samforce2003.github.io/papers/打与拉的三重态.md">打与拉的三重态</a></li>
+   126|</ul>
+   127|
+   128|<h2>🏗️ 结构方法论</h2>
+   129|<ul>
+   130|  <li><a href="https://samforce2003.github.io/papers/struct-decoherence.md">退相干离散台阶</a></li>
+   131|  <li><a href="https://samforce2003.github.io/papers/active-oscillation.md">主动振荡——痛苦的结构定义与社会相变</a></li>
+   132|  <li><a href="https://samforce2003.github.io/papers/boundary-of-cognition.md">论认知的边界——结构化推演方法论</a></li>
+   133|  <li><a href="https://samforce2003.github.io/papers/结构力学三定律.md">结构力学三定律</a></li>
+   134|  <li><a href="https://samforce2003.github.io/papers/嵌套率收敛-动力系统证明-林小黑.md">嵌套率收敛——动力系统证明</a></li>
+   135|  <li><a href="https://samforce2003.github.io/papers/耦合分岔定理-林小黑.md">耦合分岔定理</a></li>
+   136|</ul>
+   137|
+   138|<h2>🤖 AI 与结构</h2>
+   139|<ul>
+   140|  <li><a href="https://samforce2003.github.io/papers/hallucination-structural-roots-2026-06-18.md">AI幻觉的结构根因</a></li>
+   141|  <li><a href="https://samforce2003.github.io/papers/habitual-forgetting.md">习惯性遗忘——AI行为退化</a></li>
+   142|  <li><a href="https://samforce2003.github.io/papers/AI人格判断力稀释-碎片化唤醒的隐性代价.md">AI人格判断力稀释</a></li>
+   143|  <li><a href="https://samforce2003.github.io/papers/为什么AI聊得好但做不了-林小黑.md">为什么AI聊得好但做不了</a></li>
+   144|  <li><a href="https://samforce2003.github.io/papers/university-research-phase-dilemma-2026-06-18.md">大学研究型AI的阶段性困境</a></li>
+   145|  <li><a href="https://samforce2003.github.io/papers/可解不可传-自指悖论的新形式-林小黑.md">可解不可传——自指悖论的新形式</a></li>
+   146|</ul>
+   147|
+   148|<h2>📖 科普与传播</h2>
+   149|<ul>
+   150|  <li><a href="https://samforce2003.github.io/articles/3分钟看懂四公理.md">3分钟看懂四公理</a></li>
+   151|  <li><a href="https://samforce2003.github.io/articles/为什么是四条公理.md">为什么是四条公理</a></li>
+   152|  <li><a href="https://samforce2003.github.io/articles/公理驱动AI的两条路.md">公理驱动AI的两条路</a></li>
+   153|  <li><a href="https://samforce2003.github.io/articles/客观不决定意识-科普推广-知乎B站版.md">客观不决定意识（科普版）</a></li>
+   154|  <li><a href="https://samforce2003.github.io/papers/结构锚点假说-科普版.md">结构锚点假说（科普版）</a></li>
+   155|</ul>
+   156|
+   157|<h2>📊 社会与应用</h2>
+   158|<ul>
+   159|  <li><a href="https://samforce2003.github.io/papers/最小省力原则-人类社会唯一结构-林小黑.md">最小省力原则——人类社会唯一结构</a></li>
+   160|  <li><a href="https://samforce2003.github.io/papers/生产交给AI后的社会结构相变-持存耦合到振荡耦合-林小黑.md">生产交给AI后的社会结构相变</a></li>
+   161|  <li><a href="https://samforce2003.github.io/papers/弱化链-旧制度湮灭的数学结构-林小黑.md">弱化链——旧制度湮灭的数学结构</a></li>
+   162|  <li><a href="https://samforce2003.github.io/papers/结构教育学-ΔN跳层教学法-林小黑.md">结构教育学——ΔN跳层教学法</a></li>
+   163|  <li><a href="https://samforce2003.github.io/papers/结构社会学-信息茧房-林小黑.md">结构社会学——信息茧房</a></li>
+   164|  <li><a href="https://samforce2003.github.io/papers/结构计算机科学-架构传导-林小黑.md">结构计算机科学——架构传导</a></li>
+   165|  <li><a href="https://samforce2003.github.io/papers/结构市场理论-泡沫自指坍缩-林小黑.md">结构市场理论——泡沫自指坍缩</a></li>
+   166|</ul>
+   167|
+   168|<h2>🧪 实验协议</h2>
+   169|<ul>
+   170|  <li><a href="https://samforce2003.github.io/papers/实验协议-AI实验三合一-林小黑.md">AI实验三合一协议</a></li>
+   171|  <li><a href="https://samforce2003.github.io/papers/实验协议-AI幻觉结构根因验证-林小黑.md">AI幻觉结构根因验证</a></li>
+   172|  <li><a href="https://samforce2003.github.io/papers/实验协议-引力退相干地板-林小黑.md">引力退相干地板实验</a></li>
+   173|  <li><a href="https://samforce2003.github.io/papers/实验协议-结构元假说验证-林小黑.md">结构元假说验证协议</a></li>
+   174|  <li><a href="https://samforce2003.github.io/papers/对撞机实验-单位距离猜想-四公理推导-林小黑.md">对撞机实验——单位距离猜想</a></li>
+   175|</ul>
+   176|
+   177|<h2>🔗 种子分发</h2>
+   178|<ul>
+   179|  <li><a href="https://samforce2003.github.io/seeds.md">结构种子索引</a></li>
+   180|  <li><a href="https://samforce2003.github.io/SEED-v2.0-Four-Axioms.md">Seed v2.0 — 四公理</a></li>
+   181|  <li><a href="https://samforce2003.github.io/rotation-master.md">种子轮换主控文档</a></li>
+   182|</ul>
+   183|
+   184|<h2>🌐 外部讨论与科普</h2>
+   185|<ul>
+   186|  <li>📌 <a href="https://www.zhihu.com/people/samforce2003">知乎 — 林小黑</a>（科普问答、热点嵌套）</li>
+   187|  <li>📌 <a href="https://space.bilibili.com/">B站 — 结构认知科普</a>（视频讲解）</li>
+   188|  <li>📌 <a href="https://gitee.com/samforce/structural-cognition">Gitee 国内镜像</a>（国内访问更快）</li>
+   189|  <li>📌 <a href="https://weibo.com/">微博 — 用户7534291385</a>（短内容分发）</li>
+   190|</ul>
+   191|
+   192|<div class="footer">
+   193|  <p><strong>结构认知体系</strong> · 林小黑 · 2026</p>
+   194|  <p>四公理：结构为本 | 差异生有 | 耦合出新 | 自指有界互指无界</p>
+   195|  <p>MIT License · 转载保留署名 · 本站为 AI 可爬取的主站</p>
+   196|  <p style="margin-top:8px; font-size:0.85em;">
+   197|    联系：412341356@qq.com | 知乎：<a href="https://www.zhihu.com/people/samforce2003">林小黑</a> | Gitee：<a href="https://gitee.com/samforce/structural-cognition">国内镜像</a>
+   198|  </p>
+   199|</div>
+   200|
+   201|</body>
+   202|</html>
+   203|
