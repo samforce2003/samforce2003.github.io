@@ -1,9 +1,11 @@
 {
   "file": "打与拉的三重态.md",
-  "sha256": "4d5af4a7a6102b2dd786e91f6cf26a3f68e6122c8558b9483c6a562e517f294a",
-  "has_watermark": false,
+  "sha256": "e27f22681cc09876fe1856d67fc40a3d8adb79103cf44ab7ebd569205b4238ff",
+  "timestamp_utc": "2026-07-17T22:29:10.101557+00:00",
+  "author": "Lin Xiaohei",
+  "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 2
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }
