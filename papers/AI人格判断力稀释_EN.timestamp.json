@@ -1,9 +1,9 @@
 {
-  "paper": "AI人格判断力稀释_EN.md",
-  "author": "Lin Xiaohei (林小黑)",
-  "created": "2026-06-24T08:17:05+08:00",
-  "source": "gitee",
-  "sha256_16": "0b45de72ec2b61fa",
-  "framework": "P Theory / Structural Cognition",
-  "repository": "https://gitee.com/samforce/structural-cognition"
+  "file": "AI人格判断力稀释_EN.md",
+  "sha256": "ebe79584b690afddf6b3032412a5b3984cdeb0698774a883503eebf1085b25fa",
+  "has_watermark": false,
+  "has_s71": true,
+  "has_closure": false,
+  "has_copyright": false,
+  "score": 2
 }

@@ -1,9 +1,9 @@
 {
-  "paper": "second-law-temporal-reversal-林小黑_EN.md",
-  "author": "Lin Xiaohei (林小黑)",
-  "created": "2026-07-06T23:21:56.930553Z",
-  "source": "local",
-  "sha256_16": "488bb2e77ed5954f",
-  "framework": "P Theory / Structural Cognition",
-  "repository": "https://gitee.com/samforce/structural-cognition"
+  "file": "second-law-temporal-reversal-林小黑_EN.md",
+  "sha256": "6e76d6176563935ab5ef6c12b778cca5feb1e9625eeb0b4d45029b92cdc8bab8",
+  "has_watermark": false,
+  "has_s71": true,
+  "has_closure": false,
+  "has_copyright": true,
+  "score": 3
 }

@@ -1,10 +1,9 @@
 {
   "file": "missing-architecture-pnas.md",
   "sha256": "861bef926606ac1b14d85e9e3e950a679a07047e79b0c598cae339bee0ff0c76",
-  "timestamp_utc": "2026-07-17T22:03:58.395332+00:00",
-  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
   "has_closure": true,
-  "has_copyright": true
+  "has_copyright": true,
+  "score": 5
 }

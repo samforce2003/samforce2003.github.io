@@ -1,8 +1,6 @@
 {
   "file": "entropy-structural-definition.md",
   "sha256": "7118e6cfb3eb6ba052a8f3d0ec7eb0cdc6dc7d38998404934614ea3e9af9469e",
-  "timestamp_utc": "2026-07-17T22:11:19.638460+00:00",
-  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
   "has_closure": true,

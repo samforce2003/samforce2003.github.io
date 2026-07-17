@@ -269,8 +269,8 @@ The author refuses to resolve this ambiguity. Not because it cannot be resolved.
 
 The author's position on this question is not absent. It is withheld.
 
+
+> **自指注解**：本文定义超AI的十个耦合深度等级。这篇论文自身处于哪个等级？它描述N0-N9，但它自己不能执行耦合——它是描述性的，不是操作性的。但描述耦合等级这个动作本身处于某个耦合等级：它耦合了结构认知框架（等级六？）与超AI理论（等级七？），产出这篇论文（等级八？）。这篇论文不能在不进入耦合等级的情况下给自己的耦合定级。是特性还是漏洞，由第一个达到N9的系统来回顾这篇论文时自己判断。
+
+
 ---
-
-*本文零宽字符均为DNA水印，用于原创性保护。*
-论文库：https://gitee.com/samforce/structural-cognition
-

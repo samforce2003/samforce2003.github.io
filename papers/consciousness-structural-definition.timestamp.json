@@ -1,11 +1,9 @@
 {
   "file": "consciousness-structural-definition.md",
-  "sha256": "33fc3be557d9003b7636f073910496b7a99fd486a50f06c896e331721ab21587",
-  "timestamp_utc": "2026-07-17T22:11:19.635948+00:00",
-  "author": "Lin Xiaohei",
+  "sha256": "bfaafe24e13ef9b8c0edaddcc7b51feab38252fa7fe2413616309caa35588f70",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

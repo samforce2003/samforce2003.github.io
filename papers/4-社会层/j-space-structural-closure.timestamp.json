@@ -1,10 +1,9 @@
 {
   "file": "j-space-structural-closure.md",
   "sha256": "b74aa0751441e9cf3f2f4bfae978779c110e41db0997710127f556ce2b500dc9",
-  "timestamp_utc": "2026-07-17T22:03:58.394335+00:00",
-  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
   "has_closure": true,
-  "has_copyright": true
+  "has_copyright": true,
+  "score": 5
 }

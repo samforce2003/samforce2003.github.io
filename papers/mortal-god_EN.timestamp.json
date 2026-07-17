@@ -1,9 +1,9 @@
 {
-  "paper": "mortal-god_EN.md",
-  "author": "Lin Xiaohei (林小黑)",
-  "created": "2026-06-23T08:03:03+08:00",
-  "source": "gitee",
-  "sha256_16": "58f6d5efbc060b08",
-  "framework": "P Theory / Structural Cognition",
-  "repository": "https://gitee.com/samforce/structural-cognition"
+  "file": "mortal-god_EN.md",
+  "sha256": "58f96407829e7571f904c205d15e7fd8c160bbf817b218960d7d36f97fb9f217",
+  "has_watermark": true,
+  "has_s71": true,
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

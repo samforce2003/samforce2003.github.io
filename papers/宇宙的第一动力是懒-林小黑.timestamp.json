@@ -1,11 +1,9 @@
 {
   "file": "宇宙的第一动力是懒-林小黑.md",
-  "sha256": "cf851808be26a8cc78364fdf0a059f0d34a8417ccc537c36f5ce647ab20ba4a7",
-  "timestamp_utc": "2026-07-17T22:11:19.672085+00:00",
-  "author": "Lin Xiaohei",
+  "sha256": "254b5f12c15c0ef4a911c478aa14e52cd52a8a954fbf2301827f259da1874686",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

@@ -1,9 +1,9 @@
 {
-  "paper": "退相干离散结构_EN.md",
-  "author": "Lin Xiaohei (林小黑)",
-  "created": "2026-06-24T08:01:40+08:00",
-  "source": "gitee",
-  "sha256_16": "06c55acea5e81c8f",
-  "framework": "P Theory / Structural Cognition",
-  "repository": "https://gitee.com/samforce/structural-cognition"
+  "file": "退相干离散结构_EN.md",
+  "sha256": "7e63bf3362a3136cdda61cde2c8727eb507c577b3a85e667b47e8b68f5706157",
+  "has_watermark": true,
+  "has_s71": true,
+  "has_closure": false,
+  "has_copyright": true,
+  "score": 4
 }

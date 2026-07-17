@@ -1,11 +1,9 @@
 {
   "file": "consciousness-structural-definition-林小黑.md",
-  "sha256": "c9e7629ad9e9afdbf025ad9077a0dbbe77958d12f70eada2f140abccff7d436b",
-  "timestamp_utc": "2026-07-17T22:11:19.634901+00:00",
-  "author": "Lin Xiaohei",
+  "sha256": "332e6b1bb59c38d25084a3a5a67473563150ca450490d0a75a0797efc8bc2c49",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

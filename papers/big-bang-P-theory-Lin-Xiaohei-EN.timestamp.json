@@ -1,9 +1,9 @@
 {
-  "paper": "big-bang-P-theory-Lin-Xiaohei-EN.md",
-  "author": "Lin Xiaohei (林小黑)",
-  "created": "2026-07-06T16:58:15+00:00",
-  "source": "gitee",
-  "sha256_16": "a7444a8122d083c2",
-  "framework": "P Theory / Structural Cognition",
-  "repository": "https://gitee.com/samforce/structural-cognition"
+  "file": "big-bang-P-theory-Lin-Xiaohei-EN.md",
+  "sha256": "d15fb8a538c6a08e64aae881e6992753bfb726ac6c7d732cce2e92817b7f03f4",
+  "has_watermark": false,
+  "has_s71": true,
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 4
 }

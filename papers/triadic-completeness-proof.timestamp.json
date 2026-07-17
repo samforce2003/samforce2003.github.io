@@ -1,8 +1,6 @@
 {
   "file": "triadic-completeness-proof.md",
   "sha256": "2d521a25e6655d768cfcbc3fd243508cca93b70d7ebe0494b11f9371dd10a5ec",
-  "timestamp_utc": "2026-07-17T22:11:19.652217+00:00",
-  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
   "has_closure": true,

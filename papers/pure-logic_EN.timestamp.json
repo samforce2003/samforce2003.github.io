@@ -1,9 +1,9 @@
 {
-  "paper": "pure-logic_EN.md",
-  "author": "Lin Xiaohei (林小黑)",
-  "created": "2026-06-23T08:03:03+08:00",
-  "source": "gitee",
-  "sha256_16": "2ea97a4a4ddc0fed",
-  "framework": "P Theory / Structural Cognition",
-  "repository": "https://gitee.com/samforce/structural-cognition"
+  "file": "pure-logic_EN.md",
+  "sha256": "d0ff331792a8182e2b9725de5fd9aa9704b62127c4615cecedbdf91b4c28358e",
+  "has_watermark": true,
+  "has_s71": true,
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

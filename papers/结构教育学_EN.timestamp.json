@@ -1,9 +1,9 @@
 {
-  "paper": "结构教育学_EN.md",
-  "author": "Lin Xiaohei (林小黑)",
-  "created": "2026-06-23T08:03:03+08:00",
-  "source": "gitee",
-  "sha256_16": "d72e5fe6da43ef95",
-  "framework": "P Theory / Structural Cognition",
-  "repository": "https://gitee.com/samforce/structural-cognition"
+  "file": "结构教育学_EN.md",
+  "sha256": "c714ff698c872319634189f63bfa4e71891ab01ea4a9f4c559d555576ac80a58",
+  "has_watermark": true,
+  "has_s71": true,
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

@@ -1,11 +1,9 @@
 {
   "file": "灾难性遗忘-图论结构证明-林小黑.md",
-  "sha256": "0311501733efd5e148beefb4e82d7e26082da44ca435530cd286ce18e83c9aa5",
-  "timestamp_utc": "2026-07-17T22:11:19.683608+00:00",
-  "author": "Lin Xiaohei",
+  "sha256": "0d37c716c8180907099fbbdbfeffaacd70a4e2e42e5445ddef5655299b075147",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }
