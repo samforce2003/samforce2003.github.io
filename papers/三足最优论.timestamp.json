@@ -1,9 +1,11 @@
 {
   "file": "三足最优论.md",
-  "sha256": "9b3ebc171e9def071b69a312a6df24fa25552819336bb545b51c764c2bec6efc",
+  "sha256": "bf6bda8592031333be5be4661aefd5f5c7b56463f62682fed63872e7c1a54ef8",
+  "timestamp_utc": "2026-07-17T22:30:39.508488+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

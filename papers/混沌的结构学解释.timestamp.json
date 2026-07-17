@@ -1,9 +1,11 @@
 {
   "file": "混沌的结构学解释.md",
-  "sha256": "8f517e882c7f8ace44a5ea96ac289c1358a96df38fe04f410e6edb4b0152d33e",
+  "sha256": "e593d590b72d2343d0832224b0e41b194664b66ad9b4722de8eb83dc0c716416",
+  "timestamp_utc": "2026-07-17T22:30:39.511466+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

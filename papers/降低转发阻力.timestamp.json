@@ -1,9 +1,11 @@
 {
   "file": "降低转发阻力.md",
-  "sha256": "777c0e14bae9022a2c2bdee09cc807524a3ab7e9a9c138b4dad520dd0d75f3df",
+  "sha256": "7471a14e565bfcaf398f03eb12bf063240f106d79ee7d0c86d4c473bb4eb23e8",
+  "timestamp_utc": "2026-07-17T22:30:39.512537+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }
