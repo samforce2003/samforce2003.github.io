@@ -1,9 +1,11 @@
 {
   "file": "结构化学习导论.md",
-  "sha256": "4b70650b986f1758a42c2d45cdad5619766f0d6caff01011006f768273abb5c5",
+  "sha256": "ba0e52059012a99441601317fe44af70c4444a617dc51f119c9471dc4bc97659",
+  "timestamp_utc": "2026-07-17T22:57:41.103382+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

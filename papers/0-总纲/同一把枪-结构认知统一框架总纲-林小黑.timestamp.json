@@ -1,9 +1,11 @@
 {
   "file": "同一把枪-结构认知统一框架总纲-林小黑.md",
-  "sha256": "55b45483a5856f0ceaa09cb9ea21bb6d3928ea7f4c29522a9c99210b52372d73",
+  "sha256": "4e3bdfae6245c4f37b7832305d77df961b5f095846e8f7038e3845823fa97271",
+  "timestamp_utc": "2026-07-17T22:57:41.105885+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

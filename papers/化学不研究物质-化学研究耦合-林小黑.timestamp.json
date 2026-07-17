@@ -1,9 +1,11 @@
 {
   "file": "化学不研究物质-化学研究耦合-林小黑.md",
-  "sha256": "4c3c3842ccd81a3b90e853fe7d642baa43ee249140c711736352469b9091d478",
-  "has_watermark": false,
+  "sha256": "0ce0e16036665525f74eede768fee6a54340f4c055a6719565f574ad0a4ed0ba",
+  "timestamp_utc": "2026-07-17T22:57:41.106893+00:00",
+  "author": "Lin Xiaohei",
+  "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 3
+  "score": 5
 }
