@@ -1,9 +1,11 @@
 {
   "file": "骨正筋柔气血以流——脊柱退行性病变的四体相济论.md",
-  "sha256": "18a453a8b7e6b92ec09d37aca8d756cc3cea3cdaad94d2867b827109ce785c08",
+  "sha256": "477f6e5d0a70672696abb05767feea362334c75c32fd75a5c6596692248a717e",
+  "timestamp_utc": "2026-07-17T22:32:06.006905+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

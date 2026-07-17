@@ -1,9 +1,11 @@
 {
   "file": "顺逆天道-结构运动的方向-林小黑.md",
-  "sha256": "06d0f8526cbac2753fd68785b379c8d1db48bd3b1e7fe36099615d19f0f68312",
+  "sha256": "c0c12445126e0b825d3bf7e15449a8aace8f4aeb26143175a4db5851c2f4dfa6",
+  "timestamp_utc": "2026-07-17T22:32:06.003890+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

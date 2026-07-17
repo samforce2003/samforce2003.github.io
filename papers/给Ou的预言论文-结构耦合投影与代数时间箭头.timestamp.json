@@ -1,9 +1,11 @@
 {
   "file": "给Ou的预言论文-结构耦合投影与代数时间箭头.md",
-  "sha256": "cec22993fe11f4c02b35460b392d9d748da30c1ea5a4aeda3f8ea85a14ca3510",
+  "sha256": "8e7c5ed718e4c9379f972f1624996f925e86bb2f1748cb459c42ff9e696a5b3f",
+  "timestamp_utc": "2026-07-17T22:32:06.007902+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }
