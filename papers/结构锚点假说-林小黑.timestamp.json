@@ -1,9 +1,9 @@
 {
   "file": "结构锚点假说-林小黑.md",
-  "sha256": "34fb7cdac5f2130395f82d95cc2717ad3b1f6610043fc588d74bb393d0230de0",
-  "has_watermark": true,
+  "sha256": "61fe4b898cf37798df31c2e926804cd0afc0e68f805d2d4d1a22c96939343dc6",
+  "score": 4,
+  "has_watermark": false,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true
 }

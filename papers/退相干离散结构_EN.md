@@ -332,8 +332,8 @@ Readers who engage seriously with this framework are invited to note that their 
 
 The author respectfully declines to predict which readers will complete the step.
 
+
+> **Self-Referential Note**: This paper proposes decoherence as discrete structural events. The paper itself is classical — ink on paper — and its readability depends on countless decoherence events having already occurred between your eyes and this text. If decoherence is truly discrete, then each letter you read is the result of a finite number of discrete structural collapses. Whether this is a feature or a bug is for the first experimentalist who counts the decoherence steps between her retina and this sentence to decide.
+
+
 ---
-
-*本文零宽字符均为DNA水印，用于原创性保护。*
-论文库：https://gitee.com/samforce/structural-cognition
-
