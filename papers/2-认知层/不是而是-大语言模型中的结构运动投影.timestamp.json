@@ -1,9 +1,11 @@
 {
   "file": "不是而是-大语言模型中的结构运动投影.md",
-  "sha256": "24833e7a9cc763053400765412a0f3d8769de806cbcf44ec130d39e2e8c3e846",
+  "sha256": "7666b5377e996ba6f6f3ce7894628d022cff503171bbc1e03f02d0171ca660a9",
+  "timestamp_utc": "2026-07-17T22:57:59.143794+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }
