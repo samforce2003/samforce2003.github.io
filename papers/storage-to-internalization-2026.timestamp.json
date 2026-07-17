@@ -1,9 +1,9 @@
 {
   "file": "storage-to-internalization-2026.md",
-  "sha256": "1c5617140a838fab8c903cdfd6225594d768209c42fbf894eb7021e4afc21eb0",
+  "sha256": "0592dec780baf33ef13af0c99c3397c506f1b28cece69e9f02fb3fef38796694",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

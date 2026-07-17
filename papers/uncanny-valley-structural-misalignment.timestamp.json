@@ -1,9 +1,9 @@
 {
   "file": "uncanny-valley-structural-misalignment.md",
-  "sha256": "c72774923a5284b5d871602a7887a508798b139c27b40465da78caa331fc21b4",
+  "sha256": "8035731d3ef11e36725e850c2608efff98fc5ebd0660a39f7294c926f7b04eee",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

@@ -1,9 +1,9 @@
 {
   "file": "点的几何学.md",
-  "sha256": "97201a87972fb1b906e3cdd51ee0519fab934d6cd2bbbaa8a123dcbcb19747d2",
+  "sha256": "c222c7a04db9ee0841c69ea8400196f56b737ea224833e97ae1ccafcaa55e4ab",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

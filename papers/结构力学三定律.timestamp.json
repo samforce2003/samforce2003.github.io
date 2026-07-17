@@ -1,9 +1,9 @@
 {
   "file": "结构力学三定律.md",
-  "sha256": "667833fdc4145256f8c76964605b52b0400abf244892ee1577fa1d6abd6e5f8c",
+  "sha256": "389f06b63855da18060814470a6c674bdba6402468219a85dce793d0e5203a05",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

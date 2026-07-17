@@ -1,9 +1,9 @@
 {
   "file": "second-law-temporal-reversal-Lin-Xiaohei-EN.md",
-  "sha256": "17811ad8f132100761b66f80d17315b057d0e1002a1dcfb1facc6eccdd27152e",
-  "has_watermark": false,
+  "sha256": "22528eca72438b11945b44e24e77c0567343f8d45673c28f47e00e4925fd3da7",
+  "has_watermark": true,
   "has_s71": true,
   "has_closure": false,
   "has_copyright": true,
-  "score": 3
+  "score": 4
 }
