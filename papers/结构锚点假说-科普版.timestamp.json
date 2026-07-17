@@ -1,9 +1,9 @@
 {
   "file": "结构锚点假说-科普版.md",
-  "sha256": "5d960ba5e92ead627282fc83a3443ed42b375645b8e9abaaf74ccfa6f25a76f9",
+  "sha256": "d1464fcc2def7063c98544500bda657f758cbd5fc083f24f9e9f7b9328ed0451",
+  "score": 5,
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true
 }

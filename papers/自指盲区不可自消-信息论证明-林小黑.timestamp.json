@@ -1,9 +1,9 @@
 {
   "file": "自指盲区不可自消-信息论证明-林小黑.md",
-  "sha256": "7f3326c30a0600b45729bd1fcbbeb35b946af9b57dd96f40ea9ff3971ef215ec",
+  "sha256": "1836c361527c5b1c486e57745414f252fd4ad54b85686978e8a2ed9b54d30bb5",
+  "score": 5,
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": true,
-  "score": 4
+  "has_closure": true,
+  "has_copyright": true
 }

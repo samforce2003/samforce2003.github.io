@@ -1,9 +1,9 @@
 {
   "file": "退相干离散结构_EN.md",
-  "sha256": "7e63bf3362a3136cdda61cde2c8727eb507c577b3a85e667b47e8b68f5706157",
+  "sha256": "29ef90cedfbf0d75ebbd0251e7b3ce0d1c5f2ec8c8a8e7d644bf4d081489d590",
+  "score": 5,
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": true,
-  "score": 4
+  "has_closure": true,
+  "has_copyright": true
 }
