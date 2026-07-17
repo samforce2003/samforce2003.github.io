@@ -1,11 +1,9 @@
 {
   "file": "hyper-ai-ten-levels-cn.md",
-  "sha256": "a6993139327bab9a7a7e1c315b120456b23e72655ae232191120034bccc1fdd7",
-  "timestamp_utc": "2026-07-17T22:11:19.642477+00:00",
-  "author": "Lin Xiaohei",
+  "sha256": "d81a40b773d5d0ba3c4d7b65eae4b656e6396cdb221638fbcb4eabd3e169936e",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

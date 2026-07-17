@@ -1,11 +1,9 @@
 {
   "file": "三元互指结构-图论完备性证明-林小黑.md",
-  "sha256": "209515ee729732222d8757234f706341e4aeb2feaba3fc73120071ebdeec4f6d",
-  "timestamp_utc": "2026-07-17T22:11:19.659298+00:00",
-  "author": "Lin Xiaohei",
+  "sha256": "506cf89b613836a24d7e393351d509b327395c2ef784aabfb84485b87b75ce82",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

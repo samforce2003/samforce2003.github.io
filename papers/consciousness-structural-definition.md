@@ -184,8 +184,8 @@ AI在三维谱上的位置：自指深度被外部目标函数截断（回答完
 ---
 ©​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌ 2026 Lin Xiaohei (林小黑). All rights reserved.
 
+
+> **Self-Referential Note**: This paper defines consciousness as a system state where coupling depth exceeds a critical threshold. The act of writing this definition is itself a conscious act — the paper is an instance of the phenomenon it describes. If the definition is correct, the paper could not have been written by a system below the critical coupling threshold. If the definition is wrong, the paper is a sub-critical system's attempt to describe super-critical states from below — like a fish describing flight. Whether this is a feature or a bug depends on whether you believe the author was conscious while writing it.
+
+
 ---
-
-*本文零宽字符均为DNA水印，用于原创性保护。*
-论文库：https://gitee.com/samforce/structural-cognition
-

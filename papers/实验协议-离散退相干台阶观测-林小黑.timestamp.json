@@ -1,11 +1,11 @@
 {
   "file": "实验协议-离散退相干台阶观测-林小黑.md",
-  "sha256": "a1194d3ba8b11ee27555b208c305cac836452a754fe5a669b75437690ee31072",
-  "timestamp_utc": "2026-07-17T22:11:19.672590+00:00",
+  "sha256": "ab3d21b537b2d0ac60644894901f499ed170e6ffe87e4316efc34caca480c23a",
+  "timestamp_utc": "2026-07-17T22:21:28.316211+00:00",
   "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

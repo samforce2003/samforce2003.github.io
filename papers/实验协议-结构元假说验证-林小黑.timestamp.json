@@ -1,10 +1,9 @@
 {
   "file": "实验协议-结构元假说验证-林小黑.md",
   "sha256": "4667593a49883a6e65d141c7ecbee5d9b20364a04c667229513f2652187c6213",
-  "timestamp_utc": "2026-07-17T22:11:10.187310+00:00",
-  "author": "Lin Xiaohei",
-  "has_watermark": true,
-  "has_s71": true,
+  "has_watermark": false,
+  "has_s71": false,
   "has_closure": true,
-  "has_copyright": true
+  "has_copyright": true,
+  "score": 3
 }

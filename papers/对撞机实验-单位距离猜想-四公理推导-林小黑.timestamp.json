@@ -1,11 +1,9 @@
 {
   "file": "对撞机实验-单位距离猜想-四公理推导-林小黑.md",
-  "sha256": "08078f8519b20978613afa3ad00f0f3dd6c69f9cb2e69f1fc7309f11a921f7ec",
-  "timestamp_utc": "2026-07-17T22:11:19.675054+00:00",
-  "author": "Lin Xiaohei",
+  "sha256": "7575225ebfe2161c7701499fd0ede236ad146534f84f3c0cacbeafa119f8d061",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

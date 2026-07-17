@@ -1,11 +1,11 @@
 {
   "file": "巨人矮子效应-执行退化-案例研究.md",
-  "sha256": "4d8de7ba2e941feecafda9e12cb3edfc4a62f8cd5dbd31691844b4e0ba1127f5",
-  "timestamp_utc": "2026-07-17T22:11:19.676059+00:00",
+  "sha256": "415b084f53eaaf4eeb71fcf12cc15d151323c05f29d982d95d230927375fe145",
+  "timestamp_utc": "2026-07-17T22:21:28.319212+00:00",
   "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

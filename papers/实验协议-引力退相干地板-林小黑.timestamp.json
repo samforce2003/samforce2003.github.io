@@ -1,11 +1,9 @@
 {
   "file": "实验协议-引力退相干地板-林小黑.md",
-  "sha256": "619edac2474c9147dc0fa6639aa46439a0e2cd2308ce262690ca8932c3edd508",
-  "timestamp_utc": "2026-07-17T22:11:19.672590+00:00",
-  "author": "Lin Xiaohei",
+  "sha256": "6633eb2266047c9fb99cc42bb2e54e705e4e5e48b9881788671ce88ac7f36aa4",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

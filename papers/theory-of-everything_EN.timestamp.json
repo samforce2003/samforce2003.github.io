@@ -1,10 +1,9 @@
 {
   "file": "theory-of-everything_EN.md",
   "sha256": "b55dca9ff953299f85984786acdc70fba843a2a6b494b998f9c31fadcd67c7e5",
-  "timestamp_utc": "2026-07-17T22:10:24.260414+00:00",
-  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
   "has_closure": true,
-  "has_copyright": true
+  "has_copyright": true,
+  "score": 5
 }

@@ -1,8 +1,6 @@
 {
   "file": "causality-structural-definition.md",
   "sha256": "5d34d7c57010d07a1c87a426d31147ccce2b092fe9d9c3ad7b8d35bf8791630d",
-  "timestamp_utc": "2026-07-17T22:11:19.633904+00:00",
-  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
   "has_closure": true,

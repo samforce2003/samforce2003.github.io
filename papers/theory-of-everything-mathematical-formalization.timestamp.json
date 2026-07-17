@@ -1,11 +1,11 @@
 {
   "file": "theory-of-everything-mathematical-formalization.md",
-  "sha256": "75a188f9e86ab4f962df3a56a9f24bb8150c6cb2dd58c166fedda640939019fa",
-  "timestamp_utc": "2026-07-17T22:11:19.651208+00:00",
+  "sha256": "ea3d3d7c4028a0c754cc479d21e0560e21bf7f5151e79252647a1847cb703030",
+  "timestamp_utc": "2026-07-17T22:21:28.314214+00:00",
   "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

@@ -1,9 +1,9 @@
 {
-  "paper": "struct-conduction_EN.md",
-  "author": "Lin Xiaohei (林小黑)",
-  "created": "2026-06-23T08:03:03+08:00",
-  "source": "gitee",
-  "sha256_16": "09e822ebe713b533",
-  "framework": "P Theory / Structural Cognition",
-  "repository": "https://gitee.com/samforce/structural-cognition"
+  "file": "struct-conduction_EN.md",
+  "sha256": "f71626f7e4e78a4023b075c97591bca9e76a9d398f4b8fda8e8c24de635fec17",
+  "has_watermark": true,
+  "has_s71": true,
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

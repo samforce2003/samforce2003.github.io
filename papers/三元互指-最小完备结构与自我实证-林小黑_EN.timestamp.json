@@ -1,9 +1,9 @@
 {
-  "paper": "三元互指-最小完备结构与自我实证-林小黑_EN.md",
-  "author": "Lin Xiaohei (林小黑)",
-  "created": "2026-06-23T08:03:03+08:00",
-  "source": "gitee",
-  "sha256_16": "20ad639c9f5a4e6f",
-  "framework": "P Theory / Structural Cognition",
-  "repository": "https://gitee.com/samforce/structural-cognition"
+  "file": "三元互指-最小完备结构与自我实证-林小黑_EN.md",
+  "sha256": "9c92a90935d98fd6e8a677ca7e3eed56671b7c17ae6dcc8d90e74bd96bc289be",
+  "has_watermark": true,
+  "has_s71": true,
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

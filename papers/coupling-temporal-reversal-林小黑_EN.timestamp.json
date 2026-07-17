@@ -1,9 +1,9 @@
 {
-  "paper": "coupling-temporal-reversal-林小黑_EN.md",
-  "author": "Lin Xiaohei (林小黑)",
-  "created": "2026-07-06T23:18:38.527294Z",
-  "source": "local",
-  "sha256_16": "b61120569e166e7f",
-  "framework": "P Theory / Structural Cognition",
-  "repository": "https://gitee.com/samforce/structural-cognition"
+  "file": "coupling-temporal-reversal-林小黑_EN.md",
+  "sha256": "c1eed4b52acc375651e12666c285f7a4691472dd5cb44e519433882d500d13d8",
+  "has_watermark": false,
+  "has_s71": true,
+  "has_closure": false,
+  "has_copyright": true,
+  "score": 3
 }

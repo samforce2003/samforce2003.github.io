@@ -1,11 +1,11 @@
 {
   "file": "结构的逻辑边界-序理论证明-林小黑.md",
-  "sha256": "4c8f9d38e09166dbbca8e361df207c6da226a257baf6ae5b2b4366dbd8958c6f",
-  "timestamp_utc": "2026-07-17T22:11:19.691487+00:00",
+  "sha256": "c1863f7ed3df8973eeb5b33dc2580ae8756a850f2dcbde11d14541e9b733df4c",
+  "timestamp_utc": "2026-07-17T22:21:28.317211+00:00",
   "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

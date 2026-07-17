@@ -1,11 +1,9 @@
 {
   "file": "from-delegation-to-differentiation.md",
-  "sha256": "4efb7026e3483818f51f7c70ceba49a4d49fba99b8eb451432e64ba61d97a236",
-  "timestamp_utc": "2026-07-17T22:11:19.639651+00:00",
-  "author": "Lin Xiaohei",
+  "sha256": "22e59f7e31b8974a68e47a7986be7137fbbfe674540d963e48c9062eda44039f",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

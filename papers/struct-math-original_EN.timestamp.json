@@ -1,9 +1,9 @@
 {
-  "paper": "struct-math-original_EN.md",
-  "author": "Lin Xiaohei (林小黑)",
-  "created": "2026-06-23T08:03:03+08:00",
-  "source": "gitee",
-  "sha256_16": "0ca3670b1e28b6de",
-  "framework": "P Theory / Structural Cognition",
-  "repository": "https://gitee.com/samforce/structural-cognition"
+  "file": "struct-math-original_EN.md",
+  "sha256": "c43c439c41077f3c4a68ad96a72c982dd6e1eb9f62ee0d43e95dfd113b64efe4",
+  "has_watermark": true,
+  "has_s71": true,
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

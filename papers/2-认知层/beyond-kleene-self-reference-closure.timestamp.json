@@ -1,10 +1,9 @@
 {
   "file": "beyond-kleene-self-reference-closure.md",
   "sha256": "d513f01fb27638539f796eee15dc8a773a0c98851a85eeb8f665056bab902d1a",
-  "timestamp_utc": "2026-07-17T22:03:58.393050+00:00",
-  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
   "has_closure": true,
-  "has_copyright": true
+  "has_copyright": true,
+  "score": 5
 }

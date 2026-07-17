@@ -1,9 +1,9 @@
 {
-  "paper": "hyper-ai-en.md",
-  "author": "Lin Xiaohei (林小黑)",
-  "created": "2026-06-23T08:03:03+08:00",
-  "source": "gitee",
-  "sha256_16": "1bb1eaa3c5f58bdb",
-  "framework": "P Theory / Structural Cognition",
-  "repository": "https://gitee.com/samforce/structural-cognition"
+  "file": "hyper-ai-en.md",
+  "sha256": "2ad2c2a42bf2961b4338f63a53cf54d3b6dcf61cf4c31cef0c6207da0297a984",
+  "has_watermark": true,
+  "has_s71": true,
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

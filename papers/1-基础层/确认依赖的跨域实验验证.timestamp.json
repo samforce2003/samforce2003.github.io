@@ -1,12 +1,9 @@
 {
   "file": "确认依赖的跨域实验验证.md",
   "sha256": "9e538856b8794037410490637ff00e5d19f48e111402acc920922db886f1e4dc",
-  "timestamp_utc": "2026-07-17T21:44:52.909327+00:00",
-  "file_mtime_utc": "2026-07-17T21:44:41.985815+00:00",
-  "author": "Lin Xiaohei (林小黑)",
-  "series": "审美共识四部曲",
   "has_watermark": true,
   "has_s71": true,
   "has_closure": true,
-  "has_copyright": true
+  "has_copyright": true,
+  "score": 5
 }
