@@ -1,4 +1,5 @@
 # Structural Conduction in Software Architecture: Defect Propagation Experiment
+‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍
 
 ## ​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌Testing the Architecture Conduction Hypothesis
 
@@ -58,8 +59,12 @@ The author refuses to resolve this ambiguity. Not because it cannot be resolved.
 
 The author's position on this question is not absent. It is withheld.
 
+
+> **自指注解**：这份三合一实验协议将三个AI实验合并为一个统一管道。协议本身是三合一的实例：它合并了理论推导（A）、实验设计（B）和预测验证（C）三条线。如果读者只关注其中一条线而忽略其他——那她只看到了协议的一个切面。是特性还是漏洞，由第一个按此协议同时跑完三条线的实验者来决定。
+
+
 ---
 
-*本文零宽字符均为DNA水印，用于原创性保护。*
-论文库：https://gitee.com/samforce/structural-cognition
+---
 
+*© 2026 Lin Xiaohei. All rights reserved. 原创论文。‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍全文及论文库：https://gitee.com/samforce/structural-cognition*

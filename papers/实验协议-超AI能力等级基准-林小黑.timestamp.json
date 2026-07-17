@@ -1,9 +1,11 @@
 {
   "file": "实验协议-超AI能力等级基准-林小黑.md",
-  "sha256": "fc143064b3f3cea7554e902518da47d19217c6ba77b363f412b25c7ddd1f4760",
+  "sha256": "257c1d589125dac040366ab3d515e978ed6afa9cbfff9c22c6bd609093405366",
+  "timestamp_utc": "2026-07-17T22:56:37.646100+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

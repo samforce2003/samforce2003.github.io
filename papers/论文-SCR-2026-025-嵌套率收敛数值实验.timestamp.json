@@ -1,9 +1,11 @@
 {
   "file": "论文-SCR-2026-025-嵌套率收敛数值实验.md",
-  "sha256": "46d3fb361a6101dbedd55ff8261c9b4e6f7bf62b7173f8dd485a9f0629184e37",
+  "sha256": "81ca393bab51671959bf61f5386fc68725ff2b7297c91d0f1756dc03406635b4",
+  "timestamp_utc": "2026-07-17T22:56:59.051531+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
+  "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

@@ -1,9 +1,11 @@
 {
   "file": "莫比乌斯环与相对论-内部审计档案.md",
-  "sha256": "8e5e393dcfaaadc16db6bfd2d84e7864f1240bf3fd41365658cf75ca6f12d149",
+  "sha256": "eb4f36a96555eb6b8bf9ea540dc5c748b1ef5e5d5e030e8c96757ffa4bbe3ca2",
+  "timestamp_utc": "2026-07-17T22:56:37.647108+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }
