@@ -1,9 +1,11 @@
 {
   "file": "客观不决定意识-双向互促论-林小黑.md",
-  "sha256": "2735ba6e5c301b59c78cc64ead3f691eed107c2409a24a15a2d972de3de47644",
-  "has_watermark": false,
+  "sha256": "3035b169268842e0037d7ef74f3c37aaa78e8c15063396325c1919d61fa0b764",
+  "timestamp_utc": "2026-07-17T22:28:49.644282+00:00",
+  "author": "Lin Xiaohei",
+  "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 2
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

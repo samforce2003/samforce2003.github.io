@@ -1,9 +1,11 @@
 {
   "file": "知与行之间的裂缝-认识论分析-林小黑.md",
-  "sha256": "c3138084ef6e67356aef10f5d38396243bc448586307449f799f4f6417f1237e",
-  "has_watermark": false,
+  "sha256": "127b49506a1dc187a6f2d044befff21ae011d23f2c8665596fad4953b9dcbf58",
+  "timestamp_utc": "2026-07-17T22:28:49.645303+00:00",
+  "author": "Lin Xiaohei",
+  "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 2
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

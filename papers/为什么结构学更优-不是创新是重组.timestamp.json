@@ -1,9 +1,11 @@
 {
   "file": "为什么结构学更优-不是创新是重组.md",
-  "sha256": "b164fc20ce54f557962b887ee1fb1af477846ca8c73f8d4e9d36891b66abb731",
-  "has_watermark": false,
+  "sha256": "54f95cd78c0b991a4d370c5addcf875779d2303b55e1d1015ec79d7a13f235cd",
+  "timestamp_utc": "2026-07-17T22:29:10.099514+00:00",
+  "author": "Lin Xiaohei",
+  "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 2
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }
