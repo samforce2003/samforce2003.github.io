@@ -1,9 +1,11 @@
 {
   "file": "图灵测试的观测者污染.md",
-  "sha256": "c1f88932c282762e6d28880448cbe657d53d979ac63a0f28cee576586e7ca0f6",
+  "sha256": "ab055104c669a1760c3b7655f31b8e285279f521a89b23dffb67b28fd67c81f7",
+  "timestamp_utc": "2026-07-17T22:31:24.545210+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

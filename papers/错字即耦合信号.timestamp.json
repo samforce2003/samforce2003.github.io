@@ -1,9 +1,11 @@
 {
   "file": "错字即耦合信号.md",
-  "sha256": "3d8de44bb3d048c28bcb5314c39598795ecf5b9e2d9ded0cfa92ec25f312b0c7",
+  "sha256": "afd06869878cb1a8e7b74118708c2740d2f0caf017934646f29ffe48881ffda4",
+  "timestamp_utc": "2026-07-17T22:31:24.544213+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

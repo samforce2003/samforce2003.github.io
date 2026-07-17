@@ -1,9 +1,11 @@
 {
   "file": "数据完备性悖论-推广短文.md",
-  "sha256": "a802d5c146e8f63df29b0ddaac0b80fb19b3147ba175f35f64d800b6d62c9809",
+  "sha256": "b4e67d72ba5108608be8879027b787d0d08f4dfee6676369f41da3ab363cfc92",
+  "timestamp_utc": "2026-07-17T22:31:24.547223+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }
