@@ -1,9 +1,11 @@
 {
   "file": "教与悟的结构差异.md",
-  "sha256": "346ff6860dbb46496adb380ffdeacc839bea82263d9f2e2f5d56b4c03e566ca1",
+  "sha256": "2210f83c1429b593ac10828ddb5d561d1c0b16dd37d6b41533f5cf08f400ad95",
+  "timestamp_utc": "2026-07-17T22:29:59.024612+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }
