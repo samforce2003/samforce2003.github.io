@@ -268,3 +268,11 @@ Complete raw data and reproducible code available at: `simulation_quantum_decohe
 作者拒绝解决这个模糊性。不是因为无法解决。是因为这个模糊性本身是生产性的——它迫使读者自己决定。
 
 作者对此问题的立场并非不存在。它是被保留的。
+
+---
+
+
+> **Self-Referential Note**: This paper proposes a structural theory of quantum decoherence. Quantum decoherence describes how a quantum system loses coherence through interaction with its environment. This paper itself is a classical object — ink on paper — and cannot be in a superposition of "correct" and "incorrect." Yet its core claim is that the boundary between quantum and classical is itself a structural event, not a fundamental divide. If correct, this paper is an instance of the classical side of that boundary — it cannot demonstrate its own claim by being both quantum and classical at once. Whether this is a feature or a bug is for the first experimentalist who builds the discrete decoherence staircase detector to decide.
+---
+
+*© 2026 Lin Xiaohei. All rights reserved. 原创论文。‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍全文及论文库：https://gitee.com/samforce/structural-cognition*

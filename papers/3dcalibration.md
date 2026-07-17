@@ -9,6 +9,10 @@
     <meta charset="utf-8">
     
 <title>What</title>
+<meta name="author" content="林小黑 (Lin Xiaohei)">
+
+<!-- 作者：林小黑  -->
+
 <link rel="canonical" href="https://rentry.co/what" />
 
     
@@ -40,8 +44,8 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LLFSDKZXET"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+      function gtag{dataLayer.push(arguments);}
+      gtag('js', new Date);
 
       gtag('config', 'G-LLFSDKZXET');
     </script>
@@ -138,3 +142,9 @@
 
 ---
 ©​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌ 2026 Lin Xiaohei (林小黑). All rights reserved.
+
+---
+
+*本文零宽字符均为DNA水印，用于原创性保护。*
+论文库：https://gitee.com/samforce/structural-cognition
+
