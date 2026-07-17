@@ -1,9 +1,9 @@
 {
   "file": "big-bang-P-theory-Lin-Xiaohei-EN.md",
-  "sha256": "d15fb8a538c6a08e64aae881e6992753bfb726ac6c7d732cce2e92817b7f03f4",
-  "has_watermark": false,
+  "sha256": "8def581e15ff924a1d496223ba50ae997168e2ac36e0e9eecbbc1b61d8f2bc2a",
+  "has_watermark": true,
   "has_s71": true,
   "has_closure": true,
   "has_copyright": true,
-  "score": 4
+  "score": 5
 }

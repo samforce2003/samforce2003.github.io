@@ -1,9 +1,9 @@
 {
   "file": "coupling-temporal-reversal-Lin-Xiaohei-EN.md",
-  "sha256": "c1eed4b52acc375651e12666c285f7a4691472dd5cb44e519433882d500d13d8",
-  "has_watermark": false,
+  "sha256": "45c0da2a7c83be0af6a4620e8ab4c29bf6cbd9fcd6ef5b06cd9d58562d71e80c",
+  "has_watermark": true,
   "has_s71": true,
   "has_closure": false,
   "has_copyright": true,
-  "score": 3
+  "score": 4
 }
