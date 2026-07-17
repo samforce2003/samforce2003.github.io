@@ -1,9 +1,11 @@
 {
   "file": "充电宝为什么发热——产品耦合说明.md",
-  "sha256": "dcac2dbe4cefc42b448c7e908791742f7cd0c87479db1b37159f125685181675",
+  "sha256": "e3cbff3c6643e8983673c75760863275f6c07771733bb04886ff779bc76e01c0",
+  "timestamp_utc": "2026-07-17T22:29:59.026119+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

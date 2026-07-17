@@ -1,4 +1,5 @@
 # 跨学科耦合的内容导向模型
+‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍
 ## ——从国家重点项目到曼哈顿工程的同构分析
 
 **林小黑 (2026)**
@@ -163,8 +164,12 @@
 
 *林小黑 | 2026年07月10日*
 
+
+> **Self-Referential Note**: This paper proposes content-driven coupling across disciplines. The paper itself is an instance of its thesis — it couples structural cognition (framework A) with the problem of cross-disciplinary communication (domain B), driven by the content of their intersection rather than by institutional mandate. If the thesis is correct, this paper should be more compelling to a physicist than a paper about "why physicists should read philosophy." Whether this is a feature or a bug is for the first physicist who reads it to decide.
+
+
 ---
 
-*本文零宽字符均为DNA水印，用于原创性保护。*
-© 2026 林小黑
-论文库：https://gitee.com/samforce/structural-cognition
+---
+
+*© 2026 Lin Xiaohei. All rights reserved. 原创论文。‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍‍‌​​‌‌​​‍‍‌​‌‌​​‍‍‌​​‌​​‍‍‍‌‌​​‌‍‍‍‌‌​​​‍‍‍‌‌​​‌‍‍‍‌‌‌‌​‍‍‍全文及论文库：https://gitee.com/samforce/structural-cognition*

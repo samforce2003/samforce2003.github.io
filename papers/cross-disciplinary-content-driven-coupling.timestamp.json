@@ -1,9 +1,11 @@
 {
   "file": "cross-disciplinary-content-driven-coupling.md",
-  "sha256": "530b21198bb73c3bf095720142cd05e499296291611761df02800900100e0074",
-  "has_watermark": false,
+  "sha256": "8e98f518e88e5aa6c121664c9f4f434ca5ee615fd8ba63a1498bcac2015ae8ed",
+  "timestamp_utc": "2026-07-17T22:29:59.022109+00:00",
+  "author": "Lin Xiaohei",
+  "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 2
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }
