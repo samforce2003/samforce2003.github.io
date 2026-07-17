@@ -1,9 +1,11 @@
 {
   "file": "上下文结构对单字精度的反推作用.md",
-  "sha256": "e725ee4ee9bdd601caa616327fcaa610ed56593745496a0a27b1acda7f723740",
+  "sha256": "e99d501006ef2eaa1ed5ea5d21288d5e427c6baf422c9eafa6c56014fd77cb42",
+  "timestamp_utc": "2026-07-17T22:56:37.642032+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

@@ -1,9 +1,11 @@
 {
   "file": "实验协议-AI实验三合一-林小黑.md",
-  "sha256": "a13b70db3055200bc6bd74cb6c3a006d65ee78274936569f11f5436c6c8cad3c",
+  "sha256": "4d91e71f6f9348e28c1e8b7e5c98f52dc6bbf3fccbc1fb4a76f80b1a48f75f04",
+  "timestamp_utc": "2026-07-17T22:56:37.645102+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }

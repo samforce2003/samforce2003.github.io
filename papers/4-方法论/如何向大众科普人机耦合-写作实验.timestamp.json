@@ -1,9 +1,11 @@
 {
   "file": "如何向大众科普人机耦合-写作实验.md",
-  "sha256": "97c65dd37bacf3540d4540f43115d5de9cdb4e1dfaa23dbdc3eb917711a6a4ef",
+  "sha256": "44f18fdf1e83278d04d3b43f3be8245375c53fecabe22e2d09c50f24a8b7c00a",
+  "timestamp_utc": "2026-07-17T22:56:59.053544+00:00",
+  "author": "Lin Xiaohei",
   "has_watermark": true,
   "has_s71": true,
-  "has_closure": false,
-  "has_copyright": false,
-  "score": 3
+  "has_closure": true,
+  "has_copyright": true,
+  "score": 5
 }
