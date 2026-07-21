@@ -138,6 +138,7 @@ const ELEMENTS = [
   {sym:'Cu',name:'铜',z:29,valences:[1,2],en:1.90,cat:'transition'},
   {sym:'Zn',name:'锌',z:30,valences:[2],en:1.65,cat:'transition'},
   {sym:'Ag',name:'银',z:47,valences:[1],en:1.93,cat:'transition'},
+  {sym:'Br',name:'溴',z:35,valences:[-1,1,5],en:2.96,cat:'halogen'},
   {sym:'I',name:'碘',z:53,valences:[-1,1,5,7],en:2.66,cat:'halogen'},
   {sym:'Ba',name:'钡',z:56,valences:[2],en:0.89,cat:'alkaline'},
   {sym:'Au',name:'金',z:79,valences:[1,3],en:2.54,cat:'transition'},
@@ -148,25 +149,25 @@ const ELEMENTS = [
 // 已知化合物库（优先匹配）
 const KNOWN_COMPOUNDS = {
   'H,O':{name:'水 H₂O',a:2,b:1,bond:'共价键（极性）',note:'氢+2×氧-2 → H₂O。生命之源。'},
-  'Na,Cl':{name:'氯化钠 NaCl',a:1,b:1,bond:'离子键',note:'Na⁺ + Cl⁻ → 食盐。离子晶体。'},
-  'C,O':{name:'二氧化碳 CO₂',a:1,b:2,bond:'共价键（极性）',note:'C+4 + 2×O-2 → CO₂。你呼出来的。'},
-  'N,H':{name:'氨 NH₃',a:1,b:3,bond:'共价键（极性）',note:'N-3 + 3×H+1 → NH₃。刺鼻的碱。'},
-  'H,Cl':{name:'氯化氢 HCl',a:1,b:1,bond:'共价键（极性）',note:'H+1 + Cl-1 → HCl。溶于水=盐酸。'},
+  'Cl,Na':{name:'氯化钠 NaCl',a:1,b:1,bond:'离子键',note:'Na⁺ + Cl⁻ → NaCl。食盐。'},
+  'C,O':{name:'二氧化碳 CO₂',a:1,b:2,bond:'共价键（极性）',note:'C⁴⁺ + 2×O²⁻ → CO₂。你呼出来的。'},
+  'H,N':{name:'氨 NH₃',a:1,b:3,bond:'共价键（极性）',note:'N³⁻ + 3×H⁺ → NH₃。刺鼻的碱。'},
+  'Cl,H':{name:'氯化氢 HCl',a:1,b:1,bond:'共价键（极性）',note:'H⁺ + Cl⁻ → HCl。溶于水=盐酸。'},
   'Ca,O':{name:'氧化钙 CaO',a:1,b:1,bond:'离子键',note:'Ca²⁺ + O²⁻ → CaO。生石灰。'},
   'Mg,O':{name:'氧化镁 MgO',a:1,b:1,bond:'离子键',note:'Mg²⁺ + O²⁻ → MgO。耐火材料。'},
   'Fe,O':{name:'氧化铁 Fe₂O₃',a:2,b:3,bond:'离子键',note:'2×Fe³⁺ + 3×O²⁻ → Fe₂O₃。铁锈。'},
   'Al,O':{name:'氧化铝 Al₂O₃',a:2,b:3,bond:'离子键',note:'2×Al³⁺ + 3×O²⁻ → Al₂O₃。刚玉/蓝宝石。'},
-  'S,O':{name:'二氧化硫 SO₂',a:1,b:2,bond:'共价键（极性）',note:'S+4 + 2×O-2 → SO₂。火山气体。'},
-  'K,Cl':{name:'氯化钾 KCl',a:1,b:1,bond:'离子键',note:'K⁺ + Cl⁻ → KCl。低钠盐。'},
+  'O,S':{name:'二氧化硫 SO₂',a:1,b:2,bond:'共价键（极性）',note:'S⁴⁺ + 2×O²⁻ → SO₂。火山气体。'},
+  'Cl,K':{name:'氯化钾 KCl',a:1,b:1,bond:'离子键',note:'K⁺ + Cl⁻ → KCl。低钠盐。'},
   'Ca,Cl':{name:'氯化钙 CaCl₂',a:1,b:2,bond:'离子键',note:'Ca²⁺ + 2×Cl⁻ → CaCl₂。干燥剂。'},
   'Na,O':{name:'氧化钠 Na₂O',a:2,b:1,bond:'离子键',note:'2×Na⁺ + O²⁻ → Na₂O。碱性氧化物。'},
   'Cu,O':{name:'氧化铜 CuO',a:1,b:1,bond:'离子键',note:'Cu²⁺ + O²⁻ → CuO。黑色粉末。'},
-  'Zn,O':{name:'氧化锌 ZnO',a:1,b:1,bond:'离子键',note:'Zn²⁺ + O²⁻ → ZnO。防晒霜成分。'},
+  'O,Zn':{name:'氧化锌 ZnO',a:1,b:1,bond:'离子键',note:'Zn²⁺ + O²⁻ → ZnO。防晒霜成分。'},
   'Ag,Cl':{name:'氯化银 AgCl',a:1,b:1,bond:'离子键',note:'Ag⁺ + Cl⁻ → AgCl。感光材料。'},
-  'C,H':{name:'甲烷 CH₄',a:1,b:4,bond:'共价键（非极性）',note:'C-4 + 4×H+1 → CH₄。天然气。'},
-  'N,O':{name:'一氧化氮 NO',a:1,b:1,bond:'共价键（极性）',note:'N+2 + O-2 → NO。信号分子。'},
-  'Na,Br':{name:'溴化钠 NaBr',a:1,b:1,bond:'离子键',note:'Na⁺ + Br⁻ → NaBr。镇静剂原料。'},
-  'P,O':{name:'五氧化二磷 P₂O₅',a:2,b:5,bond:'共价键（极性）',note:'2×P+5 + 5×O-2 → P₂O₅。强力干燥剂。'},
+  'C,H':{name:'甲烷 CH₄',a:1,b:4,bond:'共价键（非极性）',note:'C⁴⁻ + 4×H⁺ → CH₄。天然气。'},
+  'N,O':{name:'一氧化氮 NO',a:1,b:1,bond:'共价键（极性）',note:'N²⁺ + O²⁻ → NO。信号分子。'},
+  'Br,Na':{name:'溴化钠 NaBr',a:1,b:1,bond:'离子键',note:'Na⁺ + Br⁻ → NaBr。镇静剂原料。'},
+  'O,P':{name:'五氧化二磷 P₂O₅',a:2,b:5,bond:'共价键（极性）',note:'2×P⁵⁺ + 5×O²⁻ → P₂O₅。强力干燥剂。'},
 };
 
 let slots = [null, null];
@@ -341,8 +342,14 @@ function combine(){
   const bSub = vp.b>1 ? sub(vp.b) : '';
   const aPart = vp.a>1 ? `${vp.a}×` : '';
   const bPart = vp.b>1 ? `${vp.b}×` : '';
-  const name = `${e1.name}化${e2.name} ${e1.sym}${aSub}${e2.sym}${bSub}`;
-  const note = `${aPart}${e1.sym}${sup(Math.abs(vp.v1))} + ${bPart}${e2.sym}${sup(Math.abs(vp.v2))} → ${e1.sym}${aSub}${e2.sym}${bSub}。${bondDetail}。`;
+  // Chinese naming: lower EN element first (like "氧化铁" not "铁化氧")
+  const enFirst = e1.en <= e2.en ? e1 : e2;
+  const enSecond = e1.en <= e2.en ? e2 : e1;
+  const aSub2 = enFirst===e1 ? aSub : bSub;
+  const bSub2 = enFirst===e1 ? bSub : aSub;
+  const name = `${enFirst.name}化${enSecond.name} ${enFirst.sym}${aSub2}${enSecond.sym}${bSub2}`;
+  const sign1 = vp.v1>0?'⁺':'⁻', sign2 = vp.v2>0?'⁺':'⁻';
+  const note = `${aPart}${e1.sym}${sign1}${sup(Math.abs(vp.v1))} + ${bPart}${e2.sym}${sign2}${sup(Math.abs(vp.v2))} → ${e1.sym}${aSub}${e2.sym}${bSub}。${bondDetail}。`;
 
   showResult(name, bondType, note, pairKey);
   drawBond(vp.a, vp.b, e1, e2, bondType==='离子键');
