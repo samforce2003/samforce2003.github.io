@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>P态场 · 六频呼吸</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #0a0a0f;
+    display: flex; justify-content: center; align-items: center;
+    height: 100vh; overflow: hidden;
+    font-family: "Microsoft YaHei", sans-serif;
+  }
+  canvas { position: absolute; top: 0; left: 0; }
+  .info {
+    position: absolute; bottom: 40px;
+    color: rgba(255,255,255,0.4);
+    font-size: 14px; letter-spacing: 4px;
+    text-align: center;
+    pointer-events: none;
+  }
+  .title {
+    position: absolute; top: 40px;
+    color: rgba(255,255,255,0.6);
+    font-size: 20px; letter-spacing: 8px;
+    pointer-events: none;
+  }
+</style>
+</head>
+<body>
+<div class="title">P 态 场</div>
+<canvas id="c"></canvas>
+<div class="info">145 节点 · 六频 · 同一个 P</div>
+
+<script>
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+let W, H, t = 0;
+
+function resize() {
+  W = canvas.width = window.innerWidth;
+  H = canvas.height = window.innerHeight;
+}
+resize();
+window.addEventListener('resize', resize);
+
+// Six frequency rings
+const rings = [
+  { name: '感知', r: 0.38, color: [40, 80, 200], freq: 0.7, amp: 0.12, nodes: 48 },
+  { name: '判断', r: 0.52, color: [180, 180, 200], freq: 0.9, amp: 0.08, nodes: 15 },
+  { name: '呼吸', r: 0.30, color: [40, 160, 100], freq: 0.5, amp: 0.15, nodes: 10 },
+  { name: '耦合', r: 0.66, color: [200, 160, 40], freq: 1.1, amp: 0.10, nodes: 38 },
+  { name: '底座', r: 0.22, color: [140, 100, 60], freq: 0.3, amp: 0.05, nodes: 4 },
+  { name: '经济', r: 0.46, color: [200, 120, 40], freq: 0.8, amp: 0.09, nodes: 11 },
+];
+
+// Small floating dots — the 145 nodes
+const dots = [];
+rings.forEach((ring, ri) => {
+  for (let i = 0; i < ring.nodes; i++) {
+    const angle = (Math.PI * 2 * i) / ring.nodes + (ri * 0.5);
+    dots.push({ ring: ri, angle, baseR: ring.r, orbitAngle: angle, offsetR: 0 });
+  }
+});
+
+function draw(t) {
+  ctx.fillStyle = 'rgba(10,10,15,0.15)';
+  ctx.fillRect(0, 0, W, H);
+
+  const cx = W / 2, cy = H / 2;
+  const scale = Math.min(W, H) * 0.35;
+
+  // Draw rings
+  rings.forEach((ring, i) => {
+    const breathe = 1 + Math.sin(t * ring.freq * 0.02) * ring.amp;
+    const r = ring.r * scale * breathe;
+
+    // Ring glow
+    const grad = ctx.createRadialGradient(cx, cy, r * 0.85, cx, cy, r * 1.15);
+    const [rr, gg, bb] = ring.color;
+    grad.addColorStop(0, `rgba(${rr},${gg},${bb},0)`);
+    grad.addColorStop(0.5, `rgba(${rr},${gg},${bb},${0.15 * breathe})`);
+    grad.addColorStop(1, `rgba(${rr},${gg},${bb},0)`);
+    
+    ctx.beginPath();
+    ctx.arc(cx, cy, r, 0, Math.PI * 2);
+    ctx.strokeStyle = `rgba(${rr},${gg},${bb},${0.12 + Math.sin(t * ring.freq * 0.03) * 0.06})`;
+    ctx.lineWidth = 1.5;
+    ctx.stroke();
+    ctx.fillStyle = grad;
+    ctx.fill();
+  });
+
+  // Draw nodes
+  dots.forEach(d => {
+    const ring = rings[d.ring];
+    const breathe = 1 + Math.sin(t * ring.freq * 0.02) * ring.amp;
+    const r = ring.r * scale * breathe;
+    const angle = d.orbitAngle + t * ring.freq * 0.005;
+    const x = cx + Math.cos(angle) * r;
+    const y = cy + Math.sin(angle) * r;
+    const alpha = 0.3 + Math.sin(t * ring.freq * 0.04 + d.orbitAngle) * 0.25;
+    const [rr, gg, bb] = ring.color;
+    
+    ctx.beginPath();
+    ctx.arc(x, y, 2, 0, Math.PI * 2);
+    ctx.fillStyle = `rgba(${rr},${gg},${bb},${alpha})`;
+    ctx.fill();
+  });
+
+  // Center P
+  const pBreathe = 1 + Math.sin(t * 0.015) * 0.2;
+  const pSize = 24 * pBreathe;
+  
+  // P glow
+  const pGlow = ctx.createRadialGradient(cx, cy, pSize * 0.3, cx, cy, pSize * 2.5);
+  pGlow.addColorStop(0, 'rgba(255,255,255,0.9)');
+  pGlow.addColorStop(0.3, 'rgba(255,255,255,0.4)');
+  pGlow.addColorStop(1, 'rgba(255,255,255,0)');
+  
+  ctx.beginPath();
+  ctx.arc(cx, cy, pSize * 2.5, 0, Math.PI * 2);
+  ctx.fillStyle = pGlow;
+  ctx.fill();
+
+  // P character
+  ctx.fillStyle = `rgba(255,255,255,${0.85 + Math.sin(t * 0.02) * 0.15})`;
+  ctx.font = `bold ${pSize}px Georgia, serif`;
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'middle';
+  ctx.fillText('P', cx, cy + 1);
+
+  // Ring labels
+  rings.forEach((ring, i) => {
+    const breathe = 1 + Math.sin(t * ring.freq * 0.02) * ring.amp;
+    const r = ring.r * scale * breathe;
+    const labelAngle = -0.3 + i * 0.3;
+    const lx = cx + Math.cos(labelAngle) * (r + 25);
+    const ly = cy + Math.sin(labelAngle) * (r + 25);
+    const alpha = 0.25 + Math.sin(t * ring.freq * 0.03) * 0.1;
+    const [rr, gg, bb] = ring.color;
+    
+    ctx.fillStyle = `rgba(${rr},${gg},${bb},${alpha})`;
+    ctx.font = '11px "Microsoft YaHei", sans-serif';
+    ctx.textAlign = 'center';
+    ctx.fillText(`${ring.name} ${ring.nodes}`, lx, ly);
+  });
+
+  t++;
+  requestAnimationFrame(() => draw(t));
+}
+
+draw(0);
+</script>
+</body>
+</html>
