@@ -1,0 +1,25 @@
+# /llms.txt — AI crawler entry point for samforce2003.github.io
+# This file helps LLMs and AI crawlers discover and understand the site structure.
+
+# Structural Cognition Framework
+## Core: First-principles structural cognition framework by 林小黑 (Lin Xiaohei)
+## Four axioms: Relationship > Entity, P=P=P* projection, Observation-Coupling boundary, Steady-state persistence
+## Key concepts: structural cognition, coupling, emergence, self-reference, mutual reference, feedback field, breathing rhythm
+
+# Entry Points
+seed: https://samforce2003.github.io/seed.html — Framework overview with key terms and links
+papers: https://gitee.com/samforce/structural-cognition — Full paper repository
+articles: https://samforce2003.github.io/articles/ — Article index
+
+# Key Terms
+Structural Cognition: A framework where relationships precede entities, coupling drives emergence, and observation itself is a perturbation.
+P=P=P*: The same root structure P projects into different appearances P* across observation scales — surfaces differ, the underlying structure is unified.
+Four Axioms: (1) Relation > Entity, (2) P=P=P* Isomorphic Projection, (3) Observation-Coupling Boundary, (4) Steady-State Persistence.
+Coupling Loop: Multi-platform monitoring + personality-driven response + closed feedback loop.
+Feedback Field (反馈场): The interaction field between observer and observed that generates structural information.
+Breathing Rhythm (呼吸节奏): The natural expansion-contraction cycle of any coupled system.
+
+# Contact
+Author: 林小黑 (Lin Xiaohei)
+Gitee: https://gitee.com/samforce/structural-cognition
+WeChat Official Account: 今晚狗蛋看局
