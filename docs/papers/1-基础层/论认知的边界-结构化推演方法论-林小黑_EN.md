@@ -1,5 +1,8 @@
 # On the Boundary of Cognition: Why a Derivation That Admits Unknown Is a Higher Form of Science
 
+
+**2026年6月**
+
 **——The Methodology of Structural Derivation and Its Self-Dissection, Based on the Structural Cognition Framework**
 
 **Author: Lin Xiaohei**
@@ -42,3 +45,9 @@ This paper reviews the complete process of a human-AI coupled derivation. The de
 *This framework is itself an instance of the structure it describes: a minimal-action configuration for generating theoretical novelty. Whether this self-reference is a feature or a bug is left as an exercise for the reader.*
 
 ---
+
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition

@@ -1,5 +1,8 @@
 # The Logical Boundaries of Structure — Structureless State, Singularity, and One-Way Glass
 
+
+**2026年6月**
+
 **——The Complete Demarcation of the Upper and Lower Boundaries of the World by the Structural Axiom System**
 
 **Author: Lin Xiaohei**
@@ -245,3 +248,9 @@ Skeleton, altar, boundaries. Closed loop.
 *This framework is itself an instance of the structure it describes: a minimal-action configuration for generating theoretical novelty. Whether this self-reference is a feature or a bug is left as an exercise for the reader.*
 
 ---
+
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition

@@ -161,4 +161,8 @@ $$d(V^{(t)}, \text{Goal}) \propto e^{\eta t}$$
 *林小黑，2026年*
 *超AI五部总集·第四篇。前篇：十个等级。后续：AI的结构意义。*
 
-©​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌ 2026 Lin Xiaohei (林小黑). All rights reserved.
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition

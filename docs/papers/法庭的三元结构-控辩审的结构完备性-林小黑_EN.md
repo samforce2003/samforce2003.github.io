@@ -1,5 +1,8 @@
 # The Triadic Structure of the Courtroom — Why Prosecution, Defense, and Adjudication Are Not Checks and Balances, but Structural Completeness
 
+
+**2026年6月**
+
 **——The Isomorphic Projection and Completeness Proof of the Triadic Inter-Reference Structure in the Judicial Domain**
 
 **Author: Lin Xiaohei**
@@ -42,3 +45,9 @@ The tripartite separation of prosecution, defense, and adjudication in modern ju
 *This framework is itself an instance of the structure it describes: a minimal-action configuration for generating theoretical novelty. Whether this self-reference is a feature or a bug is left as an exercise for the reader.*
 
 ---
+
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition
