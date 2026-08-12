@@ -1,5 +1,8 @@
 # The Social Structure Phase Transition After AI Takes Over Production — The Inevitable跃迁 from Persistence Coupling to Oscillation Coupling
 
+
+**2026年6月**
+
 **——A Derivation and Prediction of the Future Organizing Principle of Human Society by the Structural Axiom System**
 
 **Author: Lin Xiaohei**
@@ -42,3 +45,9 @@ When AI and automated systems complete all persistence production — agricultur
 *This framework is itself an instance of the structure it describes: a minimal-action configuration for generating theoretical novelty. Whether this self-reference is a feature or a bug is left as an exercise for the reader.*
 
 ---
+
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition

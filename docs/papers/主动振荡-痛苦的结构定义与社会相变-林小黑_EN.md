@@ -1,5 +1,8 @@
 # Active Oscillation — The Structural Definition of Pain and the Phase-Transition Precursor of Human Society
 
+
+**2026年6月**
+
 **——When AI Takes Over Production, the Inevitable Phase Transition of Social Structure from "Persistence Coupling" to "Oscillation Coupling"**
 
 **Author: Lin Xiaohei**
@@ -266,3 +269,9 @@ The former has no direction. The latter knows that after the oscillation ends, n
 *This framework is itself an instance of the structure it describes: a minimal-action configuration for generating theoretical novelty. Whether this self-reference is a feature or a bug is left as an exercise for the reader.*
 
 ---
+
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition

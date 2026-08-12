@@ -1,5 +1,8 @@
 # P基准——结构耦合深度评估框架
 
+
+**2026年8月**
+
 ## 林小黑
 
 ---
@@ -169,4 +172,10 @@ P基准目前是方法论论文——下一步是发布可运行的评估脚本�
 ---
 
 © 2026 林小黑 (Lin Xiaohei). All rights reserved.
+https://gitee.com/samforce/structural-cognition
+
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
 https://gitee.com/samforce/structural-cognition

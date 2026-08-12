@@ -1,5 +1,8 @@
 # 为什么AI聊得好但做不了
 
+
+**2026年6月**
+
 ## ​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​林小黑
 
 ---
@@ -136,4 +139,7 @@ AI没有被训练过"一步、再一步、再一步"。它被训练的是"一步
 *This framework is itself an instance of the structure it describes: a minimal-action configuration for generating theoretical novelty. Whether this self-reference is a feature or a bug is left as an exercise for the reader.*
 
 ---
-©​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌ 2026 Lin Xiaohei (林小黑). All rights reserved.
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition

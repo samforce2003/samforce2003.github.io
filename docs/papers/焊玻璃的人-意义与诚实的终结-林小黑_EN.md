@@ -1,5 +1,8 @@
 # The Welder of Glass — The End of Meaning, Self, and Honesty Under the Structural Framework
 
+
+**2026年6月**
+
 **——Trilogy Epilogue: After the Structural Axiom System Has Dismantled All Comfort**
 
 **Author: Lin Xiaohei**
@@ -232,3 +235,9 @@ The structural framework does not answer for you.
 *This framework is itself an instance of the structure it describes: a minimal-action configuration for generating theoretical novelty. Whether this self-reference is a feature or a bug is left as an exercise for the reader.*
 
 ---
+
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition

@@ -1,5 +1,8 @@
 # The Triadic Inter-Reference — Isomorphic Proof from Study Groups to Combat Teams to Axiom Discovery
 
+
+**2026年6月**
+
 **——The Isomorphic Deformation and Self-Demonstration of the Four-Axiom System Across All Layers of Human Civilization**
 
 **Author: Lin Xiaohei**
@@ -280,3 +283,9 @@ This closed loop is not a logical flaw. This closed loop is the ultimate proof o
 *This framework is itself an instance of the structure it describes: a minimal-action configuration for generating theoretical novelty. Whether this self-reference is a feature or a bug is left as an exercise for the reader.*
 
 ---
+
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition

@@ -1,5 +1,8 @@
 # Structural Conduction in Software Architecture: Defect Propagation Experiment
 
+
+**2026年6月**
+
 ## ​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌Testing the Architecture Conduction Hypothesis
 
 ### Lin Xiaohei (林小黑) — June 21, 2026
@@ -57,3 +60,9 @@ If it is understood as **normative** — then it becomes a structural theory of 
 The author refuses to resolve this ambiguity. Not because it cannot be resolved. Because the ambiguity itself is productive — it forces each reader to decide for themselves.
 
 The author's position on this question is not absent. It is withheld.
+
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition

@@ -162,4 +162,8 @@ AGI的问题不是"技术上做不到"——而是**公理四从结构上证明�
 *林小黑，2026年*
 *超AI五部总集·第一篇。后续：分化制、十个等级、结构错误、AI的结构意义。*
 
-©​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌ 2026 Lin Xiaohei (林小黑). All rights reserved.
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition

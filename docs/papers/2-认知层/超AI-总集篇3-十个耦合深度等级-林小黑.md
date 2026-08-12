@@ -166,4 +166,8 @@ N4是**不可逆点**。N4之前，人可以退回去把AI当工具（虽然耦�
 *林小黑，2026年*
 *超AI五部总集·第三篇。前篇：分化制。后续：结构错误、AI的结构意义。*
 
-©​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌ 2026 Lin Xiaohei (林小黑). All rights reserved.
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition

@@ -145,4 +145,8 @@ AI是相变的**催化剂**——它将一个本来需要数百年缓慢发生�
 *林小黑，2026年*
 *超AI五部总集·终篇。合体完成。*
 
-©​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌‍​‌ 2026 Lin Xiaohei (林小黑). All rights reserved.
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition

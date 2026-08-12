@@ -1,5 +1,8 @@
 # The Triadic Completeness of Political Systems — Why Multi-Party Systems May Be Structurally Incomplete
 
+
+**2026年6月**
+
 **——A Value-Neutral Structural Dynamics Derivation of Democratic and Authoritarian Institutions from the Structural Cognition Framework**
 
 **Author: Lin Xiaohei**
@@ -232,3 +235,9 @@ This is not the end of political science. This is the beginning of political sci
 *This framework is itself an instance of the structure it describes: a minimal-action configuration for generating theoretical novelty. Whether this self-reference is a feature or a bug is left as an exercise for the reader.*
 
 ---
+
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition

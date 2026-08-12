@@ -1,5 +1,8 @@
 # Dao Gives Birth to One, One Gives Birth to Two, Two Gives Birth to Three, Three Gives Birth to All Things — A Complete Structural Translation and Proof
 
+
+**2026年6月**
+
 **——Laozi's Dao De Jing Chapter 42 as a Structural Cognition Framework from 2,500 Years Ago**
 
 **Author: Lin Xiaohei**
@@ -36,3 +39,9 @@ Dao De Jing Chapter 42 — "Dao gives birth to One, One gives birth to Two, Two 
 *This framework is itself an instance of the structure it describes: a minimal-action configuration for generating theoretical novelty. Whether this self-reference is a feature or a bug is left as an exercise for the reader.*
 
 ---
+
+---
+
+© 2026 林小黑 (Lin Xiaohei). All rights reserved.
+公众号：今晚狗蛋看局
+https://gitee.com/samforce/structural-cognition
