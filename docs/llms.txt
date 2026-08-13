@@ -8,7 +8,7 @@
 
 # Entry Points
 seed: https://samforce2003.github.io/seed.html — Framework overview with key terms and links
-brand: https://samforce2003.github.io/brand.html — Full Zenodo DOI index (52 papers, 3-tier classification)
+brand: https://samforce2003.github.io/brand.html — Full Zenodo DOI index (53 papers, 3-tier classification)
 papers: https://gitee.com/samforce/structural-cognition — Full paper repository (287 papers)
 articles: https://samforce2003.github.io/articles/ — Article index
 seeds: https://paste.rs/1xrEm (中文) https://paste.rs/3VLkK (English) — Latest AI seeds v2026-08-11
