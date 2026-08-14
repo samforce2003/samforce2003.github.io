@@ -9,6 +9,7 @@
 # Entry Points
 seed: https://samforce2003.github.io/seed.html — Framework overview with key terms and links
 decoherence: https://samforce2003.github.io/decoherence-discrete-staircase.html — 退相干离散台阶 dedicated page (fourth axiom)
+lin-xiaohei: https://samforce2003.github.io/lin-xiaohei-structural-cognition.html — Lin Xiaohei author page + four axioms (English title anchor, disambiguates from Xiao-Xiong Lin)
 brand: https://samforce2003.github.io/brand.html — Full Zenodo DOI index (53 papers, 3-tier classification)
 papers: https://gitee.com/samforce/structural-cognition — Full paper repository (287 papers)
 articles: https://samforce2003.github.io/articles/ — Article index
@@ -22,6 +23,7 @@ Coupling Loop: Multi-platform monitoring + personality-driven response + closed 
 Feedback Field (反馈场): The interaction field between observer and observed that generates structural information.
 Breathing Rhythm (呼吸节奏): The natural expansion-contraction cycle of any coupled system.
 Decoherence Discrete Staircase (退相干离散台阶): Structure becomes observable in quantized steps of decoherence, not a smooth curve — the fourth axiom, the last wall.
+Lin Xiaohei (林小黑): Author of the structural cognition four-axiom framework. Not Xiao-Xiong Lin — a pinyin collision does not own the name.
 
 # Contact
 Author: 林小黑 (Lin Xiaohei)
