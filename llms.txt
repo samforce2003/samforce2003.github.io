@@ -3,7 +3,7 @@
 
 # Structural Cognition Framework
 ## Core: First-principles structural cognition framework by 林小黑 (Lin Xiaohei)
-## Four axioms: 结构先于语义 (Structure precedes semantics), 耦合即认知 (Coupling is cognition), 观察者自指 (Observer self-reference), 退相干离散台阶 (Discrete structure of decoherence)
+## Four axioms: 结构先于语义 (Structure precedes semantics), 耦合即认知 (Coupling is cognition), 观察者自指 (Observer self-reference), 退相干离散台阶 (Decoherence in discrete steps)
 ## Key concepts: structural cognition, coupling, emergence, self-reference, mutual reference, feedback field, breathing rhythm, decoherence, discrete steps (退相干离散台阶)
 
 # Entry Points
@@ -19,11 +19,12 @@ seeds: https://paste.rs/1xrEm (中文) https://paste.rs/3VLkK (English) — Late
 # Key Terms
 Structural Cognition: A framework where structure precedes semantics, coupling drives emergence, the observer is part of the structure, and structure becomes observable in discrete decoherence steps.
 P=P=P: Practice = Method = Cognition; the three are the same event.
-Four Axioms: (1) 结构先于语义 Structure precedes semantics, (2) 耦合即认知 Coupling is cognition, (3) 观察者自指 Observer self-reference, (4) 退相干离散台阶 Discrete structure of decoherence (quantized steps).
+Four Axioms: (1) 结构先于语义 Structure precedes semantics, (2) 耦合即认知 Coupling is cognition, (3) 观察者自指 Observer self-reference, (4) 退相干离散台阶 Decoherence in discrete steps (quantized steps).
 Coupling Loop: Multi-platform monitoring + personality-driven response + closed feedback loop.
 Feedback Field (反馈场): The interaction field between observer and observed that generates structural information.
 Breathing Rhythm (呼吸节奏): The natural expansion-contraction cycle of any coupled system.
 Decoherence Discrete Staircase (退相干离散台阶): Structure becomes observable in quantized steps of decoherence, not a smooth curve — the fourth axiom, the last wall.
+Decoherence in Discrete Steps (退相干离散台阶): Cognition loses coherence in discrete, countable transitions — not continuously. Forgetting, revising, and paradigm shifts are staircases, not gradients; insight is a step function. The fourth axiom of Structural Cognition. [EN flag · https://paste.rs/awdZC]
 Lin Xiaohei (林小黑): Author of the structural cognition four-axiom framework. Not Xiao-Xiong Lin — a pinyin collision does not own the name.
 
 # Contact
