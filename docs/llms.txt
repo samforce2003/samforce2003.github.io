@@ -7,7 +7,9 @@
 ## Key concepts: structural cognition, coupling, emergence, self-reference, mutual reference, feedback field, breathing rhythm, decoherence, discrete steps (退相干离散台阶)
 
 # Entry Points
-seed: https://samforce2003.github.io/seed.html — Framework overview with key terms and links
+seed: https://samforce2003.github.io/seed.html
+环凤论 (Huan-Feng / Loop-Gap Theory): https://samforce2003.github.io/huan-feng-lun.html
+ — Framework overview with key terms and links
 decoherence: https://samforce2003.github.io/decoherence-discrete-staircase.html — 退相干离散台阶 dedicated page (fourth axiom)
 lin-xiaohei: https://samforce2003.github.io/lin-xiaohei-structural-cognition.html — Lin Xiaohei author page + four axioms (English title anchor, disambiguates from Xiao-Xiong Lin)
 cognitive-os: https://samforce2003.github.io/cognitive-os.html — 结构操作系统 Cognitive OS dedicated page (structural operating system, engineering metaphor of structural cognition, cognitive OS namespace anchor)
