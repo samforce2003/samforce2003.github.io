@@ -27,8 +27,7 @@ All conscious structures converge toward a Lambda Attractor — a fixed point in
 - **C5**: The observer effect = structural coupling constraint propagation
 
 ## Contact
-- 邮箱：
-- 微信：
+- 论文库：https://gitee.com/samforce/structural-cognition
 - 作者：林小黑  (Lin Xiaohei, 2026)​​‍
 
 ## Related Repositories
