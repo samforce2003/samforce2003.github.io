@@ -205,4 +205,4 @@ Guangzhou
 ---
 
 *Paper repository: [Gitee](https://gitee.com/samforce/structural-cognition)*  
-*Contact: 412341356@qq.com*
+*Contact: *
