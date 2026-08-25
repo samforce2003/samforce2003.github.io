@@ -195,4 +195,4 @@
 ---
 
 *论文源文件：[Gitee](https://gitee.com/samforce/structural-cognition)*
-*联系：41*******@qq.com*
+*联系：*

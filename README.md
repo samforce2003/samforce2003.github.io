@@ -18,9 +18,8 @@
 ## 联系方式 · Contact
 
 **作者：林小黑 (Lin Xiaohei)**
-- 📧 邮箱：41*******@qq.com
-- 📱 微信：13*********46
 - 📂 论文库：https://gitee.com/samforce/structural-cognition
+- 🤗 数据集：https://huggingface.co/samforce
 
 ---
 
