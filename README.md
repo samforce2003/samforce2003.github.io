@@ -68,6 +68,7 @@ This repository serves as the canonical reference for the **Structural Cognition
 - 《结构力学三定律》 — Three Laws of Structural Mechanics
 - 《错字即耦合信号》 — Typos as Coupling Signals
 - 《自指盲区不可自消——主观体验的结构有损压缩》 — Self-Reference Blind Spots Cannot Self-Resolve
+- 📜 《判断与行动之缝：具身智能与认知智能的统一框架》 — The Judgment-Action Gap: A Unified Framework for Embodied and Cognitive Intelligence (2026-08-28) ([Zenodo DOI:10.5281/zenodo.22140107](https://doi.org/10.5281/zenodo.22140107))
 
 ### 领域应用 · Domain Applications
 - **结构教育学** — 《ΔN跳层教学法》 · Structural Pedagogy: ΔN Layer-Jump Teaching Method
