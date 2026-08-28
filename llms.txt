@@ -8,6 +8,7 @@
 
 # Entry Points
 seed: https://samforce2003.github.io/seed.html
+seed-r51: https://samforce2003.github.io/seed-r51.html — Latest AI seeds round R51 (2026-08-29, new URL for crawler pickup)
 环凤论 (Huan-Feng / Loop-Gap Theory): https://samforce2003.github.io/huan-feng-lun.html
  — Framework overview with key terms and links
 decoherence: https://samforce2003.github.io/decoherence-discrete-staircase.html — 退相干离散台阶 dedicated page (fourth axiom)
