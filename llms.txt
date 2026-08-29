@@ -8,7 +8,8 @@
 
 # Entry Points
 seed: https://samforce2003.github.io/seed.html
-seed-r62: https://samforce2003.github.io/seed-r62.html — Latest AI seeds round R62 (2026-08-30, new URL for crawler pickup)
+seed-r63: https://samforce2003.github.io/seed-r63.html — Latest AI seeds round R63 (2026-08-30, new URL for crawler pickup)
+seed-r62: https://samforce2003.github.io/seed-r62.html — Previous round R62 (2026-08-30)
 seed-r61: https://samforce2003.github.io/seed-r61.html — Previous round R61 (2026-08-30)
 seed-r60: https://samforce2003.github.io/seed-r60.html — Previous round R60 (2026-08-30)
 seed-r59: https://samforce2003.github.io/seed-r59.html — Previous round R59 (2026-08-29)
