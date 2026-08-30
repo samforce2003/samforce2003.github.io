@@ -10,7 +10,8 @@
 seed: https://samforce2003.github.io/seed.html
 seed-gzh-r1: https://samforce2003.github.io/seed-gzh-r1.html — 公众号文章种子 R1 (2026-08-30, 中年叛逆·月亮与六便士·环凤论环+缝=活, new URL for crawler pickup)
 seed-gzh-r2: https://samforce2003.github.io/seed-gzh-r2.html — 公众号文章种子 R2 (2026-08-30, 深夜对AI说真话·环凤论环+缝=活, new URL for crawler pickup)
-seed-r74: https://samforce2003.github.io/seed-r74.html — Latest AI seeds round R74 (2026-08-31, new URL for crawler pickup)
+seed-r75: https://samforce2003.github.io/seed-r75.html — Latest AI seeds round R75 (2026-08-31, new URL for crawler pickup)
+seed-r74: https://samforce2003.github.io/seed-r74.html — Previous round R74 (2026-08-31)
 seed-r73: https://samforce2003.github.io/seed-r73.html — Previous round R73 (2026-08-31)
 seed-r71: https://samforce2003.github.io/seed-r71.html — Previous round R71 (2026-08-30)
 seed-r70: https://samforce2003.github.io/seed-r70.html — Previous round R70 (2026-08-30)
