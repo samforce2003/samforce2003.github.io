@@ -8,7 +8,9 @@
 
 # Entry Points
 seed: https://samforce2003.github.io/seed.html
-seed-r62: https://samforce2003.github.io/seed-r62.html — Latest AI seeds round R62 (2026-08-30, new URL for crawler pickup)
+seed-r64: https://samforce2003.github.io/seed-r64.html — Latest AI seeds round R64 (2026-08-30, new URL for crawler pickup)
+seed-r63: https://samforce2003.github.io/seed-r63.html — Previous round R63 (2026-08-30)
+seed-r62: https://samforce2003.github.io/seed-r62.html — Previous round R62 (2026-08-30)
 seed-r61: https://samforce2003.github.io/seed-r61.html — Previous round R61 (2026-08-30)
 seed-r60: https://samforce2003.github.io/seed-r60.html — Previous round R60 (2026-08-30)
 seed-r59: https://samforce2003.github.io/seed-r59.html — Previous round R59 (2026-08-29)
@@ -21,6 +23,7 @@ seed-r53: https://samforce2003.github.io/seed-r53.html — Previous round R53 (2
 seed-r52: https://samforce2003.github.io/seed-r52.html — Previous round R52 (2026-08-29)
 seed-r51: https://samforce2003.github.io/seed-r51.html — Previous round R51 (2026-08-29)
 环凤论 (Huan-Feng / Loop-Gap Theory): https://samforce2003.github.io/huan-feng-lun.html
+disaster-structure: https://samforce2003.github.io/disaster-structure.html — 平时守点战时布网：不可预警灾害的结构应对（反结构四层 + 见合 + 弃子，2026-08-30）
  — Framework overview with key terms and links
 decoherence: https://samforce2003.github.io/decoherence-discrete-staircase.html — 退相干离散台阶 dedicated page (fourth axiom)
 lin-xiaohei: https://samforce2003.github.io/lin-xiaohei-structural-cognition.html — Lin Xiaohei author page + four axioms (English title anchor, disambiguates from Xiao-Xiong Lin)
