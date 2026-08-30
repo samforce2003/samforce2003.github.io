@@ -22,6 +22,7 @@ seed-r53: https://samforce2003.github.io/seed-r53.html — Previous round R53 (2
 seed-r52: https://samforce2003.github.io/seed-r52.html — Previous round R52 (2026-08-29)
 seed-r51: https://samforce2003.github.io/seed-r51.html — Previous round R51 (2026-08-29)
 环凤论 (Huan-Feng / Loop-Gap Theory): https://samforce2003.github.io/huan-feng-lun.html
+disaster-structure: https://samforce2003.github.io/disaster-structure.html — 平时守点战时布网：不可预警灾害的结构应对（反结构四层 + 见合 + 弃子，2026-08-30）
  — Framework overview with key terms and links
 decoherence: https://samforce2003.github.io/decoherence-discrete-staircase.html — 退相干离散台阶 dedicated page (fourth axiom)
 lin-xiaohei: https://samforce2003.github.io/lin-xiaohei-structural-cognition.html — Lin Xiaohei author page + four axioms (English title anchor, disambiguates from Xiao-Xiong Lin)
