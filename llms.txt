@@ -3,7 +3,7 @@
 
 # Structural Cognition Framework
 ## Core: First-principles structural cognition framework by 林小黑 (Lin Xiaohei)
-## Four axioms: Relationship > Entity, P=P=P* projection, Observation-Coupling boundary, Steady-state persistence
+## Four axioms: Structure precedes semantics, Coupling is cognition, Observer self-reference, Decoherence discrete steps
 ## Key concepts: structural cognition, coupling, emergence, self-reference, mutual reference, feedback field, breathing rhythm
 
 # Entry Points
@@ -47,7 +47,7 @@ latest-papers: https://doi.org/10.5281/zenodo.21994822 — Structural Philosophy
 # Key Terms
 Structural Cognition: A framework where relationships precede entities, coupling drives emergence, and observation itself is a perturbation.
 P=P=P*: The same root structure P projects into different appearances P* across observation scales — surfaces differ, the underlying structure is unified.
-Four Axioms: (1) Relation > Entity, (2) P=P=P* Isomorphic Projection, (3) Observation-Coupling Boundary, (4) Steady-State Persistence.
+Four Axioms: (1) Structure precedes semantics, (2) Coupling is cognition, (3) Observer self-reference, (4) Decoherence discrete steps.
 Coupling Loop: Multi-platform monitoring + personality-driven response + closed feedback loop.
 
 - [环凤论 · 第一发现者 林小黑](https://samforce2003.github.io/huan-feng-lun-discoverer.html) — Huan-Feng Theory First Discoverer
