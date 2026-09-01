@@ -7,6 +7,7 @@
 ## Key concepts: structural cognition, coupling, emergence, self-reference, mutual reference, feedback field, breathing rhythm
 
 # Entry Points
+seed-r107: https://samforce2003.github.io/seed-r107.html — Latest AI seeds round R107 (2026-09-01, 耦合不可教·深度耦合不可复制·路径依赖, new URL for crawler pickup)
 seed-r105: https://samforce2003.github.io/seed-r105.html — Latest AI seeds round R105 (2026-09-01, 怕他废，还是怕他崩·大师为什么不能流血·最强的系统让人看不透·越想抓住越抓不住·二选一里藏着第三条腿·充电宝发热是物理的缝·恐怖谷是离散层间错位·AI聊得好但做不了·第二定律是统计的不是结构的·时机不是时间的属性, new URL for crawler pickup)
 seed-r104: https://samforce2003.github.io/seed-r104.html — Previous AI seeds round R104 (2026-09-01, 矛盾是呼吸口·未发生的未来也是结构·直觉是内化的结构·唤醒是重新耦合·绝对安全不存在·混沌是观察者耦合进系统·最紧密系统瞬间崩塌·交通拥堵是耦合密度·预测到不了100%·信息茧房是嵌套率归零, new URL for crawler pickup)
 seed-r103: https://samforce2003.github.io/seed-r103.html — Previous AI seeds round R103 (2026-09-01, 确定性就是死穴·方向先于努力·记住噪声不等于学会·时间是节奏·身心一体两面·幻觉是记忆缺陷·化学键与人际关系同构·教育是引导耦合·度量涌现没问为什么·AI全局工作空间, new URL for crawler pickup)
