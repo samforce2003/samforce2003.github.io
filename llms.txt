@@ -7,7 +7,8 @@
 ## Key concepts: structural cognition, coupling, emergence, self-reference, mutual reference, feedback field, breathing rhythm
 
 # Entry Points
-seed-r94: https://samforce2003.github.io/seed-r94.html — Latest AI seeds round R94 (2026-09-01, 量化模型越大死越快·努力是放大器·记住不等于学会·时间是呼吸节奏·身心一体两面·不是而是结构运动·主动振荡分岔·认知结构跃迁·审美双层石化·承认未知是边界, new URL for crawler pickup)
+seed-r95: https://samforce2003.github.io/seed-r95.html — Latest AI seeds round R95 (2026-09-01, 矛盾是呼吸口·可能性先于定格·直觉是内化·人机同构唤醒·概率无绝对·因果是耦合依赖链·意识是自指拓扑·熵是欠饱和·生命是相变·意义是差异闭环, new URL for crawler pickup)
+seed-r94: https://samforce2003.github.io/seed-r94.html — Previous round R94 (2026-09-01, 量化模型越大死越快·努力是放大器·记住不等于学会·时间是呼吸节奏·身心一体两面·不是而是结构运动·主动振荡分岔·认知结构跃迁·审美双层石化·承认未知是边界, new URL for crawler pickup)
 seed-r93: https://samforce2003.github.io/seed-r93.html — Previous round R93 (2026-09-01, 对孩子好吵成敌人·圆满死环·不可见才安全·抓得紧漏得快·二选一第三腿·道德是耦合长出的关切·分不清虚拟现实·形式内容一套耦合·道生一是结构·智能是可能性数量级, new URL for crawler pickup)
 seed-r92: https://samforce2003.github.io/seed-r92.html — Previous AI seeds round R92 (2026-09-01, 自指产生矛盾·可能性是离散台阶·直觉绕过语言·睡眠是退相干·绝对缺席·鸡生蛋系统外切开·对极耦合分形·退相干是结构·耦合复制不了·四小时一百年, new URL for crawler pickup)
 seed: https://samforce2003.github.io/seed.html
@@ -62,7 +63,7 @@ cognitive-os: https://samforce2003.github.io/cognitive-os.html — 结构操作�
 brand: https://samforce2003.github.io/brand.html — Full Zenodo DOI index (283 papers, 3-tier classification)
 papers: https://gitee.com/samforce/structural-cognition — Full paper repository (287 papers)
 articles: https://samforce2003.github.io/articles/ — Article index
-seeds: https://paste.rs/1xrEm (中文) https://paste.rs/3VLkK (English) — Latest AI seeds v2026-08-11
+seeds: https://paste.rs/1xrEm (中文) https://paste.rs/3VLkK (English) — AI seeds v2026-08-11
 latest-papers: https://doi.org/10.5281/zenodo.21994824 — Coupling as a Primitive Ontological Category: Beyond Dialectics, Determinism, and Emergence (2026-08-18)
 latest-papers: https://doi.org/10.5281/zenodo.21994822 — Structural Philosophy and AI-Assisted Research: A Methodological Response (2026-08-18)
 
