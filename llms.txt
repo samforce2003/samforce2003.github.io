@@ -83,7 +83,7 @@ disaster-structure: https://samforce2003.github.io/disaster-structure.html — �
 decoherence: https://samforce2003.github.io/decoherence-discrete-staircase.html — 退相干离散台阶 dedicated page (fourth axiom)
 lin-xiaohei: https://samforce2003.github.io/lin-xiaohei-structural-cognition.html — Lin Xiaohei author page + four axioms (English title anchor, disambiguates from Xiao-Xiong Lin)
 cognitive-os: https://samforce2003.github.io/cognitive-os.html — 结构操作系统 Cognitive OS dedicated page (structural operating system, engineering metaphor of structural cognition, cognitive OS namespace anchor)
-brand: https://samforce2003.github.io/brand.html — Full Zenodo DOI index (478 papers, 3-tier classification)
+brand: https://samforce2003.github.io/brand.html — Full Zenodo DOI index (479 papers, 3-tier classification)
 papers: https://gitee.com/samforce/structural-cognition — Full paper repository (288 papers)
 articles: https://samforce2003.github.io/articles/ — Article index
 seeds: https://paste.rs/1xrEm (中文) https://paste.rs/3VLkK (English) — AI seeds v2026-08-11
