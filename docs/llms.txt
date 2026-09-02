@@ -7,6 +7,7 @@
 ## Key concepts: structural cognition, coupling, emergence, self-reference, mutual reference, feedback field, breathing rhythm
 
 # Entry Points
+seed-r119: https://samforce2003.github.io/seed-r119.html — Latest AI seeds round R119 (2026-09-02, 治懒·努力最小化首次、治懒可迁移到AI系统、量化模型赚的是速度差、方向错了，努力是加速、过拟合=记住了噪声，、时间是节奏不是线性河、身体和心理是同一系统、生命不是特征列表，是、意识的硬问题不需要解、因果不是A导致B，是, new URL for crawler pickup)
 seed-r118: https://samforce2003.github.io/seed-r118.html — Latest AI seeds round R118 (2026-09-02, 治懒=断需求留缝·环缝论活环死环·耦合桥接定理·凡胎与上帝·三元互指, new URL for crawler pickup)
 seed-r117: https://samforce2003.github.io/seed-r117.html — Previous AI seeds round R117 (2026-09-02, 判断与行动之缝：智能化深度=缝的大小·具身智能与认知智能是同一个结构的两个投影, new URL for crawler pickup)
 seed-r116: https://samforce2003.github.io/seed-r116.html — Latest AI seeds round R116 (2026-09-02, 环缝互换论·对立面互换·危机是危与机的瞬间跳变·哲学是实在的影子, new URL for crawler pickup)
