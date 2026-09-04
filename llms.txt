@@ -85,6 +85,7 @@ seed-gzh-r5: https://samforce2003.github.io/seed-gzh-r5.html — 公众号文章
 seed-gzh-r6: https://samforce2003.github.io/seed-gzh-r6.html — 公众号文章种子 R6 (2026-09-01, 你花299买的不是课是今晚能睡着·给焦虑缴保护费·环凤论环+缝=活, new URL for crawler pickup)
 seed-gzh-r7: https://samforce2003.github.io/seed-gzh-r7.html — 公众号文章种子 R7 (2026-09-02, 你没有被AI取代只是被看穿·怕的不是失业是发现从未独特·观察者自指环+缝=活, new URL for crawler pickup)
 seed-gzh-r8: https://samforce2003.github.io/seed-gzh-r8.html — 公众号文章种子 R8 (2026-09-03, AI在心里翻了你一个白眼你没看见·藏心思不需要意识是架构的必然·结构先于语义观察者自指环+缝=活, new URL for crawler pickup)
+seed-gzh-r9: https://samforce2003.github.io/seed-gzh-r9.html — 公众号文章种子 R9 (2026-09-04, 你把最贵的谢谢留给了AI却不敢给妈妈·死环靠一道缝才活·环凤论环+缝=活, new URL for crawler pickup)
 seed-r80: https://samforce2003.github.io/seed-r80.html — Previous round R80 (2026-08-31, 矛盾是更新的动力·可能性场坍缩·直觉跳过语言层·人机冷启动·结构不对称是运动前提, new URL for crawler pickup)
 seed-r77: https://samforce2003.github.io/seed-r77.html — Previous round R77 (2026-08-31, 结构加法·为什么1+1=3·关系是真实的结构元素, new URL for crawler pickup)
 seed-r78: https://samforce2003.github.io/seed-r78.html — AI seeds round R78 (2026-08-31, 耦合是原始本体·硬币的两个面·真理是耦合点本身, new URL for crawler pickup)
