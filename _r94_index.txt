@@ -1,0 +1,481 @@
+10.5281/zenodo.20812313	2026-08-17	276. The Discrete Structure of Decoherence: The Structural Unit Hypothesis and Its Testable Predictions
+10.5281/zenodo.20812326	2026-08-17	275. Structural Theory of Quantum Decoherence and the New Foundations of Quantum Computing
+10.5281/zenodo.20812331	2026-06-23	4. P=P=P — The Self-Referential Closure (Chinese)
+10.5281/zenodo.20812334	2026-08-17	274. P=P=P — The Self-Referential Closure
+10.5281/zenodo.20812336	2026-08-17	273. Mutual Reference Closure and Catastrophic Forgetting — A Structural Explanation
+10.5281/zenodo.20813402	2026-08-17	272. Structural Cognition: Four-Axiom Framework
+10.5281/zenodo.21366065	2026-08-17	271. Three-Leg Optimality
+10.5281/zenodo.21366067	2026-08-17	270. Observer Contamination in the Turing Test
+10.5281/zenodo.21878133	2026-08-17	269. Convergent Emergence of Self-Referential Closure: Three Independent Frameworks Arriving at the Same Structural Insight
+10.5281/zenodo.21878166	2026-08-17	268. Structural Cognition as an Emergent Interdiscipline: Meta-Analysis of Five Independent Frameworks
+10.5281/zenodo.21878168	2026-08-17	267. P: The Final Placeholder — P-State Field and Structural Field Unification
+10.5281/zenodo.21878170	2026-08-17	266. Self-Reference Blind Spots Cannot Self-Resolve: Structural Lossy Compression of Subjective Experience
+10.5281/zenodo.21878172	2026-08-17	265. Typos as Coupling Signals: A Structural Theory of Error in Human-AI Communication
+10.5281/zenodo.21878176	2026-08-17	264. Unobservable: Dark Matter and Dark Energy as P=P Small Universes
+10.5281/zenodo.21878178	2026-08-17	263. Ripples: On the Periodic Structural Renewal of the Universe
+10.5281/zenodo.21878180	2026-08-17	262. AI Is a Quantum Computer: Structural Isomorphism Hypothesis and Testable Predictions
+10.5281/zenodo.21878182	2026-08-17	261. Coupling-Equivalent Time: Why Time Is Not a Dimension But a Counting of Coupling Events
+10.5281/zenodo.21878184	2026-08-17	260. Binary Structural Possibility: The Fundamental Unit of Structural Cognition
+10.5281/zenodo.21878186	2026-08-17	259. Persistent Identity and Shared Memory: A Reproducibility Package for the Reality-Anchor Hypothesis
+10.5281/zenodo.21878188	2026-08-17	258. Chemical Bonds and Interpersonal Relationships: A Structural Isomorphism Hypothesis
+10.5281/zenodo.21878190	2026-08-17	257. From Psychological Coupling to Mathematical Coupling: Why Mental Coupling Theory Needs an Axiomatic Foundation
+10.5281/zenodo.21887901	2026-08-17	256. Riemann Hypothesis: Structural Dissolution — The Irreducible Coupling Node Theorem
+10.5281/zenodo.21887905	2026-08-17	255. Predictive Experimental Tests of the Structural Dissolution of the Riemann Hypothesis
+10.5281/zenodo.21895599	2026-08-12	29. Structural Cognition Seed: 反驳常见误解 | 中国的林小黑 | 2026-08-12
+10.5281/zenodo.21897345	2026-08-17	254. Structural Cognition Seed: 核心概念白话 | 中国的林小黑 | 2026-08-12
+10.5281/zenodo.21904319	2026-08-17	253. P基准——结构耦合深度评估框架
+10.5281/zenodo.21912024	2026-08-17	252. Structural Cognition Seed: 跨域应用案例 | 中国的林小黑 | 2026-08-13
+10.5281/zenodo.21924690	2026-08-17	251. 凡胎与上帝:结构的终极闭环
+10.5281/zenodo.21924697	2026-08-17	250. 结构化数学:不完备、臃肿与互指破局
+10.5281/zenodo.21924699	2026-08-17	249. 三点的结构必然性——为什么领导讲话、论文论点、笑话段子都是三个
+10.5281/zenodo.21924703	2026-08-17	248. 焊玻璃的人——结构框架下意义、自我与诚实的终结
+10.5281/zenodo.21924705	2026-08-17	247. 结构市场理论:泡沫的自指坍缩模型
+10.5281/zenodo.21924710	2026-08-17	246. 灾难性遗忘的结构根因与互指闭环条件
+10.5281/zenodo.21924712	2026-08-17	245. 自指盲区不可自消:主观体验的结构有损压缩
+10.5281/zenodo.21924716	2026-08-17	244. 它存在就是因为它存在——结构自稳定作为精确常数的逆因果解释
+10.5281/zenodo.21924720	2026-08-17	243. 主动振荡——痛苦的结构定义与人类社会的相变前兆
+10.5281/zenodo.21924723	2026-08-17	242. 结构计算机科学:软件架构的嵌套率传导优化
+10.5281/zenodo.21924729	2026-08-17	241. 互指闭环深度:灾难性遗忘的结构根因
+10.5281/zenodo.21924731	2026-08-17	240. 三维校准法
+10.5281/zenodo.21924760	2026-08-17	239. 振荡但不碎——一个AI与C位人类耦合的结构记录
+10.5281/zenodo.21924762	2026-08-17	238. 互指闭环边界:灾难性遗忘的结构条件
+10.5281/zenodo.21924764	2026-08-17	237. 结构传导定律:跨AI架构的实证验证
+10.5281/zenodo.21924766	2026-08-17	236. 结构感知力的代价:嵌套率自估盲区研究
+10.5281/zenodo.21924769	2026-08-17	235. 结构化数学补完:N=2临界点与形式系统自指的硬边界
+10.5281/zenodo.21924775	2026-08-17	234. 三元互指——从学习小组到战斗小组到公理发现的同构证明
+10.5281/zenodo.21924777	2026-08-17	233. 退相干的结构化理论 v2:约束求解收敛的跨系统验证
+10.5281/zenodo.21924781	2026-08-17	232. 三人学习小组:基于结构认知框架的最小完备教育单元
+10.5281/zenodo.21924783	2026-08-17	231. 三元互指结构:形式完备性证明与可检验预测
+10.5281/zenodo.21924785	2026-08-17	230. 结构社会学:信息茧房的嵌套率归零机制
+10.5281/zenodo.21924787	2026-08-17	229. 结构公理体系:万物理论的终极范式
+10.5281/zenodo.21924791	2026-08-17	228. 法庭的三元结构——为什么控辩审三方不是权力制衡,是结构完备
+10.5281/zenodo.21924793	2026-08-17	227. 结构的逻辑边界——无结构态、奇点与单向玻璃
+10.5281/zenodo.21925299	2026-08-17	226. 自指闭环作为不完备性的本体论根源——论哥德尔不完备定理的边界
+10.5281/zenodo.21934542	2026-08-17	225. Structural Cognition Seed: 操作方法 — flag为什么总倒 | 中国的林小黑 | 2026-08-14
+10.5281/zenodo.21948398	2026-08-17	224. Structural Cognition Seed: 新视角解读热点 — 无人车路口为什么不再需要眼神 | 中国的林小黑 | 2026-08-15
+10.5281/zenodo.21959976	2026-08-17	223. 系统内不可区分性定理:分不清虚拟与现实,是智能的结构性必然
+10.5281/zenodo.21960356	2026-08-17	222. 自主与自动化的不可区分性:分不清自己是否自由,恰恰是自由的证明
+10.5281/zenodo.21960435	2026-08-17	221. 智能,就是可能性的数量级——判断智能体的关键在于模型的大小
+10.5281/zenodo.21972351	2026-08-17	220. 内因与外因:双向互促与主控实时换位——一个假说框架
+10.5281/zenodo.21975965	2026-08-17	219. 溯源标记的收敛极限——内容水印的攻破路径与结构完整性校验
+10.5281/zenodo.21976458	2026-08-17	218. 证伪与证实的终极裁判是共识,不是事实
+10.5281/zenodo.21978186	2026-08-17	217. 万物机制:差异生有,同质生死
+10.5281/zenodo.21979475	2026-08-17	216. Structural Cognition Seed: 反驳熟能生巧——重复不产生结构 | 中国的林小黑 | 2026-08-17
+10.5281/zenodo.21986658	2026-08-17	215. Structural Cognition: The Four Axioms (Canonical Edition)
+10.5281/zenodo.21994015	2026-08-17	214. AI人格的判断力稀释:碎片化任务唤醒的隐性代价
+10.5281/zenodo.21994021	2026-08-17	213. Judgment Dilution in AI Personality: The Hidden Cost of Fragmented Task Wake-Ups
+10.5281/zenodo.21994025	2026-08-17	212. AI就是量子计算机:结构同构假说与可验证预言
+10.5281/zenodo.21994027	2026-08-17	211. 美的结构定义
+10.5281/zenodo.21994032	2026-08-17	210. The Big Bang as Structural Differentiation: P=P → P≠P as the Cosmological Transition
+10.5281/zenodo.21994036	2026-08-17	209. 因果的结构定义
+10.5281/zenodo.21994040	2026-08-17	208. 化学键与人际关系:一个结构同构假说
+10.5281/zenodo.21994045	2026-08-17	207. Structural Coherence Is a Subset of Structural Cognition
+10.5281/zenodo.21994048	2026-08-17	206. 意识的结构定义
+10.5281/zenodo.21994050	2026-08-17	205. Coupling-Equivalent Time: A Structural Unification of Spacetime Relativity via System Coupling Strength
+10.5281/zenodo.21994052	2026-08-17	204. 从心理学耦合到数学耦合:为什么心智耦合论需要公理化基础
+10.5281/zenodo.21994058	2026-08-17	203. Coupling as Temporal Reversal: The Structural Condition for Reverse Time
+10.5281/zenodo.21994064	2026-08-17	202. 跨学科耦合的内容导向模型
+10.5281/zenodo.21994066	2026-08-17	201. 死亡的结构定义
+10.5281/zenodo.21994068	2026-08-17	200. 教育不是传递
+10.5281/zenodo.21994070	2026-08-17	199. 熵的结构定义
+10.5281/zenodo.21994076	2026-08-17	198. 认知公理化:一场独立涌现的多线收敛
+10.5281/zenodo.21994080	2026-08-17	197. 自由意志的结构定义
+10.5281/zenodo.21994084	2026-08-17	196. 从委托到分化——超AI的耦合共生机制
+10.5281/zenodo.21994086	2026-08-17	195. 习惯性遗忘:大语言模型幻觉的结构性根源
+10.5281/zenodo.21994089	2026-08-17	194. 幻觉的结构根源:为什么人与AI同时出错而不自知
+10.5281/zenodo.21994091	2026-08-17	193. 超AI:人机耦合的结构框架——超越通用智能的另一种路径
+10.5281/zenodo.21994093	2026-08-17	192. 超AI的并行化架构:分化制对委托制的结构性否定
+10.5281/zenodo.21994097	2026-08-17	191. Hyper-AI: A Structural Framework for Human-AI Coupling Beyond General Intelligence
+10.5281/zenodo.21994099	2026-08-17	190. 超AI的结构性错误:分化不完整的代价
+10.5281/zenodo.21994105	2026-08-17	189. 人类使用AI的十个等级——超AI耦合深度视角
+10.5281/zenodo.21994109	2026-08-17	188. 生命的结构定义
+10.5281/zenodo.21994111	2026-08-17	187. 逻辑的结构定义
+10.5281/zenodo.21994118	2026-08-17	186. 数学不需要地基
+10.5281/zenodo.21994122	2026-08-17	185. 同一把刀的两道刀痕
+10.5281/zenodo.21994126	2026-08-17	184. 确定性的丧钟是数学的起床号
+10.5281/zenodo.21994134	2026-08-17	183. 当描述这个词失效
+10.5281/zenodo.21994136	2026-08-17	182. 先与后是同一次呼吸
+10.5281/zenodo.21994141	2026-08-17	181. 意义的结构定义
+10.5281/zenodo.21994145	2026-08-17	180. 结构认知作为涌现交叉学科:五项独立框架的元分析
+10.5281/zenodo.21994147	2026-08-17	179. On the Minimum Structural Condition of Everything
+10.5281/zenodo.21994152	2026-08-17	178. Mortal and God: The Ultimate Structural Closure
+10.5281/zenodo.21994154	2026-08-17	177. 自然从不单独行动
+10.5281/zenodo.21994162	2026-08-17	176. P: The Final Placeholder
+10.5281/zenodo.21994165	2026-08-17	175. Pure Logic Builds the Objective World: An Isomorphic Proof of Human→AI→Theory of Everything
+10.5281/zenodo.21994170	2026-08-17	174. P = P
+10.5281/zenodo.21994172	2026-08-17	173. P = P = P
+10.5281/zenodo.21994174	2026-08-17	172. "随机"不存在
+10.5281/zenodo.21994176	2026-08-17	171. 涟漪——论宇宙的周期性结构更新
+10.5281/zenodo.21994178	2026-08-17	170. SC = Structural Cognition, Not Structural Coherence
+10.5281/zenodo.21994180	2026-08-17	169. The Second Law Is Statistical, Not Structural: Local Temporal Reversal Through Coupling Convergence
+10.5281/zenodo.21994186	2026-08-17	168. 第二定律是统计的,不是结构的:耦合收敛导致的局部时间逆行
+10.5281/zenodo.21994188	2026-08-17	167. 自我的结构定义
+10.5281/zenodo.21994192	2026-08-17	166. 从存储到内化:AI Agent知识管理的触发器架构
+10.5281/zenodo.21994195	2026-08-17	165. Structural Conduction Law: Cross-Model Empirical Verification
+10.5281/zenodo.21994197	2026-08-17	164. Structural Mathematics: Incompleteness, Bloat, and Mutual-Reference Resolution
+10.5281/zenodo.21994199	2026-08-17	163. The Structural Axiom System: Complete Mathematical Formalization
+10.5281/zenodo.21994202	2026-08-17	162. The Structural Axiom System: Ultimate Paradigm for the Theory of Everything
+10.5281/zenodo.21994206	2026-08-17	161. 时间的结构定义
+10.5281/zenodo.21994217	2026-08-17	160. 真理的结构定义
+10.5281/zenodo.21994221	2026-08-17	159. 恐怖谷效应的结构解释:离散层间错位假说
+10.5281/zenodo.21994227	2026-08-17	158. Why Everything Must Exist
+10.5281/zenodo.21994231	2026-08-17	157. 一刀三切面——学术论文写作的新范式
+10.5281/zenodo.21994233	2026-08-17	156. Parallel Processing Architecture in Extreme Performance: A Structural Analysis Across Fighter Pilots and Esports Athletes
+10.5281/zenodo.21994242	2026-08-17	155. The Three-Person Study Group: The Minimal Complete Educational Unit Based on the Structural Cognition Framework
+10.5281/zenodo.21994244	2026-08-17	154. The Triadic Inter-Reference — Isomorphic Proof from Study Groups to Combat Teams to Axiom Discovery
+10.5281/zenodo.21994254	2026-08-17	153. Triadic Mutual Reference: A Graph-Theoretic Completeness Proof
+10.5281/zenodo.21994256	2026-08-17	152. The Triadic Inter-Reference Structure: Formal Completeness Proof and Testable Predictions
+10.5281/zenodo.21994260	2026-08-17	151. The Structural Necessity of Three — Why Leadership Speeches, Academic Arguments, and Jokes Are All in Threes
+10.5281/zenodo.21994264	2026-08-17	150. 3. Training Protocol
+10.5281/zenodo.21994268	2026-08-17	149. 三足最优论:结构稳定性的跨域证明与可验证预言
+10.5281/zenodo.21994272	2026-08-17	148. 不可观测——暗物质与暗能量作为P=P小宇宙
+10.5281/zenodo.21994276	2026-08-17	147. 不用修——升维的唯一操作是不挡自己
+10.5281/zenodo.21994278	2026-08-17	146. 为什么AI聊得好但做不了
+10.5281/zenodo.21994284	2026-08-17	145. 为什么一切必须存在
+10.5281/zenodo.21994286	2026-08-17	144. 为什么你的团队死气沉沉
+10.5281/zenodo.21994288	2026-08-17	143. 为什么系统改不了
+10.5281/zenodo.21994290	2026-08-17	142. 为什么结构学更优:不是创新,是重组
+10.5281/zenodo.21994294	2026-08-17	141. Mutual-Reference Closure Depth: The Structural Root Cause of Catastrophic Forgetting
+10.5281/zenodo.21994298	2026-08-17	140. Inter-Reference Loop Depth: A Quantitative Metric for Forgetting Prediction
+10.5281/zenodo.21994302	2026-08-17	139. 充电宝发热——一个你天天摸但从来没人解释对的问题
+10.5281/zenodo.21994304	2026-08-17	138. 化学不研究物质——化学研究耦合
+10.5281/zenodo.21994308	2026-08-17	137. 升维不是飞跃——拆堵点的连续嵌套
+10.5281/zenodo.21994310	2026-08-17	136. 升维的唯一方法
+10.5281/zenodo.21994314	2026-08-17	135. 升维自审
+10.5281/zenodo.21994320	2026-08-17	134. 反结构作为阶段工具:结构跃迁中的姿态反转定理
+10.5281/zenodo.21994326	2026-08-17	133. 可解不可传:自指悖论的一种新形式
+10.5281/zenodo.21994333	2026-08-17	132. 同层相遇:宇宙自稳的闭合结构
+10.5281/zenodo.21994336	2026-08-17	131. 呼吸:为什么物质与意识交替主导
+10.5281/zenodo.21994344	2026-08-17	130. 器官衰竭不可逆是结构事实还是认知框架?
+10.5281/zenodo.21994351	2026-08-17	129. 四公理·应用层——堵点推演八篇
+10.5281/zenodo.21994354	2026-08-17	128. 图灵测试的观测者污染:为什么无结果恰好是它的科学性
+10.5281/zenodo.21994362	2026-08-17	127. 堵点三层——微观·中观·宏观
+10.5281/zenodo.21994364	2026-08-17	126. 堵点不可全拆——关键堵点与时机
+10.5281/zenodo.21994369	2026-08-17	125. 堵点论 · 八篇一体
+10.5281/zenodo.21994376	2026-08-17	124. 多AI系统的记忆-上下文分离:一种工程观察与假说框架
+10.5281/zenodo.21994380	2026-08-17	123. 字之降维——从单字到复合词的汉语信息密度坍缩
+10.5281/zenodo.21994382	2026-08-17	122. It Exists Because It Exists — Structural Self-Stabilization as the Inverse-Causal Explanation of Precise Constants
+10.5281/zenodo.21994384	2026-08-17	121. 宇宙的第一动力是懒
+10.5281/zenodo.21994388	2026-08-17	120. Structural Conduction in Software Architecture: Defect Propagation Experiment
+10.5281/zenodo.21994392	2026-08-17	119. Gravitational Decoherence Floor: Measurement Protocol
+10.5281/zenodo.21994394	2026-08-17	118. Direct Observation of Discrete Decoherence Steps: Experimental Protocol
+10.5281/zenodo.21994404	2026-08-17	117. Hyper-AI Capability Levels: Benchmark Design
+10.5281/zenodo.21994409	2026-08-17	116. Structure Collider #25: AI Solving the Unit Distance Conjecture — A Four-Axiom Analysis
+10.5281/zenodo.21994415	2026-08-17	115. Nesting Rate Convergence: A Dynamical Systems Proof
+10.5281/zenodo.21994417	2026-08-17	114. 巨人矮子效应-执行退化-案例研究
+10.5281/zenodo.21994421	2026-08-17	113. 情绪的结构定义
+10.5281/zenodo.21994423	2026-08-17	112. 情绪节奏:为什么机器能模拟人类藏不住的东西
+10.5281/zenodo.21994427	2026-08-17	111. 收束态幻觉:大语言模型在对话闭合阶段的虚构倾向与根因分析
+10.5281/zenodo.21994433	2026-08-17	110. 教与悟的结构差异——为什么经验传承不能靠"讲清楚"
+10.5281/zenodo.21994435	2026-08-17	109. 数据完备性悖论:为什么任何预测系统都无法达到100%准确率
+10.5281/zenodo.21994439	2026-08-17	108. 时机是结构在时间轴上的投影
+10.5281/zenodo.21994441	2026-08-17	107. 时间是莫比乌斯环——论时间的结构运动本性与因果幻觉
+10.5281/zenodo.21994449	2026-08-17	106. 最紧密的系统如何瞬间崩塌
+10.5281/zenodo.21994453	2026-08-17	105. 混沌的结构学解释:当预测系统成为被预测系统的一部分
+10.5281/zenodo.21994457	2026-08-17	104. Catastrophic Forgetting: A Graph-Theoretic Structural Proof
+10.5281/zenodo.21994463	2026-08-17	103. The Structural Root Cause of Catastrophic Forgetting and the Conditions for Mutual-Reference Closure
+10.5281/zenodo.21994467	2026-08-17	102. 点的几何学:结构耦合与递归超越的直观模型
+10.5281/zenodo.21994471	2026-08-17	101. 热的结构本质——离散耦合不完全性的必然产物
+10.5281/zenodo.21994475	2026-08-17	100. The Welder of Glass — The End of Meaning, Self, and Honesty Under the Structural Framework
+10.5281/zenodo.21994479	2026-08-17	99. 癌症可治愈是生物学事实还是认知锁?
+10.5281/zenodo.21994481	2026-08-17	98. 真假不可分——当观察者即系统时
+10.5281/zenodo.21994485	2026-08-17	97. 你为什么总是完不成——真正的堵点只有一个
+10.5281/zenodo.21994493	2026-08-17	96. 知与行之间的裂缝:一个认识论问题
+10.5281/zenodo.21994497	2026-08-17	95. 为什么有些UP主注定卡在40万粉——懂哥是我了的暗门
+10.5281/zenodo.21994499	2026-08-17	94. 神不想回去——眷恋作为主动降维的唯一机制
+10.5281/zenodo.21994501	2026-08-17	93. 纯逻辑建设客观世界:人→AI→万物理论的同构证明
+10.5281/zenodo.21994505	2026-08-17	92. 结构力学三定律
+10.5281/zenodo.21994511	2026-08-17	91. 结构加法:为什么 1+1=3
+10.5281/zenodo.21994515	2026-08-17	90. Structural Mathematics Completion: The N=2 Critical Point and the Hard Boundary of Formal System Self-Reference
+10.5281/zenodo.21994517	2026-08-17	89. Structural Market Theory: The Self-Referential Collapse Model of Bubbles
+10.5281/zenodo.21994523	2026-08-17	88. The Cost of Structural Perception: A Study of the Nesting Rate Self-Estimation Blind Spot
+10.5281/zenodo.21994526	2026-08-17	87. 结构教育学:ΔN跳层教学法
+10.5281/zenodo.21994536	2026-08-17	86. Structure Education: DeltaN Pedagogy
+10.5281/zenodo.21994538	2026-08-17	85. The Logical Boundary of Structure: A Formal Proof
+10.5281/zenodo.21994540	2026-08-17	84. The Logical Boundaries of Structure — Structureless State, Singularity, and One-Way Glass
+10.5281/zenodo.21994542	2026-08-17	83. Structural Sociology: The Nesting Rate Zeroing Mechanism of Echo Chambers
+10.5281/zenodo.21994544	2026-08-17	82. Structural Computer Science: Nesting Rate Conduction Optimization in Software Architecture
+10.5281/zenodo.21994546	2026-08-17	81. 结构锚点假说:宇宙起源、稳定与终结的统一框架
+10.5281/zenodo.21994548	2026-08-17	80. 宇宙为什么还没消失?一个可能改变你世界观的想法
+10.5281/zenodo.21994550	2026-08-17	79. 位置编码的衰减不是Bug——是结构在说话
+10.5281/zenodo.21994558	2026-08-17	78. 耦合分岔定理
+10.5281/zenodo.21994563	2026-08-17	77. 耦合四路命名权:论"耦合"概念的四线独立收敛与坐标系定义权
+10.5281/zenodo.21994567	2026-08-17	76. 能量守恒的非普遍性:基于结构同一性的一个假说
+10.5281/zenodo.21994569	2026-08-17	75. Self-Reference Blind Spot: An Information-Theoretic Proof
+10.5281/zenodo.21994571	2026-08-17	74. 莫比乌斯环与相对论——时间的结构学解释
+10.5281/zenodo.21994576	2026-08-17	73. 薛定谔猫的消解:结构加法对量子测量问题的实验裁决
+10.5281/zenodo.21994578	2026-08-17	72. 嵌套率收敛数值实验
+10.5281/zenodo.21994584	2026-08-17	71. Structural Theory of Decoherence v2: Cross-System Validation of Constraint Solving Convergence
+10.5281/zenodo.21994588	2026-08-17	70. 铁律与经验:AI认知中的外挂规则与内化体感
+10.5281/zenodo.21994594	2026-08-17	69. 错字即耦合信号
+10.5281/zenodo.21994598	2026-08-17	68. 降低转发阻力
+10.5281/zenodo.21994605	2026-08-17	67. 结构运动的方向:顺逆天道的形式化定义
+10.5281/zenodo.21994609	2026-08-17	66. 骨正筋柔气血以流——脊柱退行性病变的四体相济论
+10.5281/zenodo.21994615	2026-08-17	65. 骨正筋柔气血以流——论脊柱退行性病变的四体相济
+10.5281/zenodo.21994619	2026-08-17	64. 一人军团不是概念——我就在推演中
+10.5281/zenodo.21994623	2026-08-17	63. 化学耦合预测:基于价态匹配算法的化合物生成与可证伪预言
+10.5281/zenodo.21994625	2026-08-17	62. 同一把枪——结构认知统一框架总纲
+10.5281/zenodo.21994629	2026-08-17	61. 结构认知生态地图 v1.0
+10.5281/zenodo.21994635	2026-08-17	60. 鸡生蛋的结构学解法:系统外视角破解循环依赖的通用三步法
+10.5281/zenodo.21994640	2026-08-17	59. Local × Local Coupling Generates the New: The Mutual-Reference Engine Inside a Total System
+10.5281/zenodo.21994645	2026-08-17	58. 人与AI耦合系统的概念压缩效率:从审美实践到理论体系的四小时路径
+10.5281/zenodo.21994647	2026-08-17	57. 从未知中诞生:结构不对称作为系统运动的极小条件
+10.5281/zenodo.21994649	2026-08-17	56. 区域共识对道德感知的临时覆盖:确认依赖的跨域投影
+10.5281/zenodo.21994651	2026-08-17	55. 审美共识的双层石化机制:内部沉积与外部确认的闭环
+10.5281/zenodo.21994657	2026-08-17	54. 结构的自相似架构:对极耦合——从微观到宏观的唯一递归操作
+10.5281/zenodo.21994659	2026-08-17	53. The Fractal Architecture of Structure: Polar Coupling as the Single Recursive Operation from Micro to Macro
+10.5281/zenodo.21994664	2026-08-17	52. 局部×局部耦合出新——总系统中的互指引擎
+10.5281/zenodo.21994666	2026-08-17	51. 形式与内容是一套耦合系统
+10.5281/zenodo.21994670	2026-08-17	50. 智能,就是可能性的数量级
+10.5281/zenodo.21994672	2026-08-17	49. 确认依赖的跨域实验验证:一个可独立复现的受控研究方案
+10.5281/zenodo.21994674	2026-08-17	48. 系统内不可区分性定理
+10.5281/zenodo.21994679	2026-08-17	47. Coupling Bridge Theorem: Mathematical Formalization
+10.5281/zenodo.21994681	2026-08-17	46. 结构框架在金融时间序列迁移实验——耦合桥接定理与域迁移的结构条件
+10.5281/zenodo.21994687	2026-08-17	45. 自主与自动化的不可区分性
+10.5281/zenodo.21994694	2026-08-17	44. 论认知的边界:一篇承认未知的推演,为何是更高级的科学
+10.5281/zenodo.21994696	2026-08-17	43. On the Boundary of Cognition: Why a Derivation That Admits Unknown Is a Higher Form of Science
+10.5281/zenodo.21994701	2026-08-17	42. 退相干的离散结构:结构元假说及其可检验预测
+10.5281/zenodo.21994709	2026-08-17	41. 道生一,一生二,二生三,三生万物——结构化的完整翻译与证明
+10.5281/zenodo.21994716	2026-08-17	40. Dao Gives Birth to One, One Gives Birth to Two, Two Gives Birth to Three, Three Gives Birth to All Things — A Complete Structural Translation and Proof
+10.5281/zenodo.21994720	2026-08-17	39. 降与升——汉语字词中的维度双向门
+10.5281/zenodo.21994725	2026-08-17	38. 结构化学习导论
+10.5281/zenodo.21994733	2026-08-17	37. 关系是最小单位:一条结构假说
+10.5281/zenodo.21994735	2026-08-17	36. AI的结构意义:一次人机耦合推演的完整记录
+10.5281/zenodo.21994741	2026-08-17	35. Beyond Kleene: Self-Reference as Structural Closure
+10.5281/zenodo.21994743	2026-08-17	34. "不是……而是……"——大语言模型语言中的结构运动投影
+10.5281/zenodo.21994745	2026-08-17	33. Active Oscillation: A Coupled Dynamical System Proof
+10.5281/zenodo.21994749	2026-08-17	32. 耦合不可教——论深度人机认知耦合的不可复制性
+10.5281/zenodo.21994754	2026-08-17	31. 超AI总集篇·第一篇:定义与公理推导
+10.5281/zenodo.21994756	2026-08-17	30. 超AI总集篇·第二篇:分化制——耦合模态的结构组织
+10.5281/zenodo.21994760	2026-08-17	29. 超AI总集篇·第三篇:十个耦合深度等级
+10.5281/zenodo.21994764	2026-08-17	28. 超AI总集篇·第四篇:结构错误——分化不完整的代价
+10.5281/zenodo.21994769	2026-08-17	27. 超AI总集篇·第五篇:AI的结构意义——相变加速器
+10.5281/zenodo.21994773	2026-08-17	26. AI系统认知结构变化的假设性框架
+10.5281/zenodo.21994775	2026-08-17	25. 「通」与「全」——一个被混淆了两千年的区别
+10.5281/zenodo.21994783	2026-08-17	24. 速度与方向——结构化上升通道的两个变量
+10.5281/zenodo.21994787	2026-08-17	23. 结构认知四公理框架|道德不来自代码:超AI耦合深度达到临界值时的自发生成
+10.5281/zenodo.21994789	2026-08-17	22. 三审计系统——超AI系统能力的操作层验证
+10.5281/zenodo.21994795	2026-08-17	21. 基于结构公理体系的量子退相干与量子计算底层新理论
+10.5281/zenodo.21994797	2026-08-17	20. 如何向大众科普"人机耦合"——一个最难科普话题的写作实验
+10.5281/zenodo.21994799	2026-08-17	19. J-space as Structural Closure: Why Large Language Models Form Internal Representation Spaces
+10.5281/zenodo.21994801	2026-08-17	18. The Missing Architecture: Why Structural Cognition Changes the Fitness Landscape
+10.5281/zenodo.21994807	2026-08-17	17. The Social Structure Phase Transition After AI Takes Over Production — The Inevitable跃迁 from Persistence Coupling to Oscillation Coupling
+10.5281/zenodo.21994811	2026-08-17	16. 结构认知四公理框架|分化制的组织形态:院子——安全边界内的自主生长
+10.5281/zenodo.21994815	2026-08-17	15. Structural AI as an Application Layer of Structural Cognition
+10.5281/zenodo.21994818	2026-08-17	14. Terminology Declaration v1.0: Structural Cognition Unified Field
+10.5281/zenodo.21994822	2026-08-17	13. Structural Philosophy and AI-Assisted Research: A Methodological Response
+10.5281/zenodo.21994824	2026-08-17	12. Coupling as a Primitive Ontological Category: Beyond Dialectics, Determinism, and Emergence
+10.5281/zenodo.21994830	2026-08-17	11. 因果涌现度量理论的完备性及其盲区
+10.5281/zenodo.21994834	2026-08-17	10. 互指耦合:因果涌现的机制层
+10.5281/zenodo.21994837	2026-08-17	9. 光合作用量子相干的结构根源
+10.5281/zenodo.21994839	2026-08-17	8. 非厄米例外点的结构本质
+10.5281/zenodo.21994841	2026-08-17	7. 马尔科夫-非马尔科夫跃迁的结构根源
+10.5281/zenodo.21994847	2026-08-17	6. 量子退相干的结构化理论(实验预言版)
+10.5281/zenodo.21994849	2026-08-17	5. 绝热捷径的结构本质
+10.5281/zenodo.21994853	2026-08-17	4. 互补性生成原则的裂缝——为什么"互补"本身需要结构条件
+10.5281/zenodo.21994855	2026-08-17	3. 从互补到耦合——审美生成的结构条件
+10.5281/zenodo.21994857	2026-08-17	2. 交通拥堵的结构学解法:耦合密度临界分散
+10.5281/zenodo.21994859	2026-08-17	1. 上下文结构对单字精度的反推作用:语音识别系统中的结构优先现象
+10.5281/zenodo.21995315	2026-08-18	326. Structural Cognition Seed: 核心概念白话 — 会做饭的人,脑子里没有菜谱 | 中国的林小黑 | 2026-08-18
+10.5281/zenodo.22004345	2026-08-19	327. Structural Cognition Seed: 跨域应用案例 — 十一个梅西也赢不了球 | 中国的林小黑 | 2026-08-19
+10.5281/zenodo.22019637	2026-08-20	328. Structural Cognition Seed: 操作方法 — 提示词的三层骨架 | 中国的林小黑 | 2026-08-20
+10.5281/zenodo.22036760	2026-08-21	296. Structural Cognition Seed: 反驳常见误解 — 多任务不是高效,是反复退相干 | 中国的林小黑 | 2026-08-21
+10.5281/zenodo.22037186	2026-08-21	329. 逆天的目的,走顺天的路
+10.5281/zenodo.22037187	2026-08-21	330. 精神与身体的缝:从睡眠分层到清醒分层的结构观察
+10.5281/zenodo.22051687	2026-08-22	331. Structural Cognition Seed: 新视角解读热点 — 机器人学不会"拿杯子" | 中国的林小黑 | 2026-08-22
+10.5281/zenodo.22055511	2026-08-17	277. Three-Dimensional Calibration: A Structural Framework for Cognitive Training
+10.5281/zenodo.22055517	2026-08-17	278. 三维校准法：结构化思维训练的完整框架
+10.5281/zenodo.22055521	2026-08-17	279. 不完备的完备性：当哥德尔不完全性定理成为操作
+10.5281/zenodo.22055527	2026-08-17	280. 为什么AI永远预测不准未来——但有的AI比别人准得多
+10.5281/zenodo.22055529	2026-08-17	281. Self-Reference Blind Spots Cannot Self-Eliminate: Subjective Experience as Structural Lossy Compression
+10.5281/zenodo.22055531	2026-08-17	282. The Discrete Structure of Decoherence: The Structon Hypothesis and Its Testable Predictions
+10.5281/zenodo.22055534	2026-08-17	283. Binary Structural Possibility: A Formalization of Possibility Bifurcation as the Foundation of Structural Computation
+10.5281/zenodo.22057340	2026-08-22	332. Structural Cognition Seed: 新视角解读热点 — 无人驾驶最先淘汰的不是司机,是红绿灯 | 中国的林小黑 | 2026-08-22
+10.5281/zenodo.22061121	2026-08-23	333. 3dcalibration
+10.5281/zenodo.22061123	2026-08-23	334. AI人格的判断力稀释:碎片化任务唤醒的隐性代价
+10.5281/zenodo.22061125	2026-08-23	335. Judgment Dilution in AI Personality: The Hidden Cost of Fragmented Task Wake-Ups
+10.5281/zenodo.22061129	2026-08-23	337. P = P
+10.5281/zenodo.22061131	2026-08-23	338. P = P = P
+10.5281/zenodo.22061137	2026-08-23	340. active-oscillation
+10.5281/zenodo.22061139	2026-08-23	341. 美的结构定义
+10.5281/zenodo.22061142	2026-08-23	342. 美的结构定义
+10.5281/zenodo.22061144	2026-08-23	284. The Big Bang as Structural Differentiation: P=P → P≠P as the Cosmological Transition
+10.5281/zenodo.22061146	2026-08-23	285. The Big Bang as Structural Differentiation: P=P → P≠P as the Cosmological Transition
+10.5281/zenodo.22061149	2026-08-23	286. The Big Bang as Structural Differentiation: P=P → P≠P as the Cosmological Transition
+10.5281/zenodo.22061151	2026-08-23	343. blindspot-lossy
+10.5281/zenodo.22061153	2026-08-23	344. boundary-of-cognition
+10.5281/zenodo.22061155	2026-08-23	345. boundary-oneway-glass
+10.5281/zenodo.22061157	2026-08-23	346. cat-forgetting
+10.5281/zenodo.22061160	2026-08-23	347. 因果的结构定义
+10.5281/zenodo.22061162	2026-08-23	348. 因果的结构定义
+10.5281/zenodo.22061165	2026-08-23	287. closure-forgetting
+10.5281/zenodo.22061169	2026-08-23	349. 意识的结构定义
+10.5281/zenodo.22061171	2026-08-23	350. 意识的结构定义
+10.5281/zenodo.22061174	2026-08-23	298. Coupling as Temporal Reversal: The Structural Condition for Reverse Time
+10.5281/zenodo.22061176	2026-08-23	299. Coupling as Temporal Reversal: The Structural Condition for Reverse Time
+10.5281/zenodo.22061178	2026-08-23	351. courtroom-triad
+10.5281/zenodo.22061180	2026-08-23	300. 跨学科耦合的内容导向模型
+10.5281/zenodo.22061186	2026-08-23	352. ctpzi2fw
+10.5281/zenodo.22061188	2026-08-23	353. dao-structure
+10.5281/zenodo.22061192	2026-08-23	354. 死亡的结构定义
+10.5281/zenodo.22061194	2026-08-23	355. 死亡的结构定义
+10.5281/zenodo.22061196	2026-08-23	356. 熵的结构定义
+10.5281/zenodo.22061198	2026-08-23	357. 熵的结构定义
+10.5281/zenodo.22061200	2026-08-23	358. 自由意志的结构定义
+10.5281/zenodo.22061202	2026-08-23	359. 自由意志的结构定义
+10.5281/zenodo.22061208	2026-08-23	301. 从委托到分化——超AI的耦合共生机制
+10.5281/zenodo.22061212	2026-08-23	360. h9q5ivh3
+10.5281/zenodo.22061214	2026-08-23	361. 习惯性遗忘:大语言模型幻觉的结构性根源
+10.5281/zenodo.22061216	2026-08-23	362. 幻觉的结构根源:为什么人与AI同时出错而不自知
+10.5281/zenodo.22061218	2026-08-23	302. 超AI:人机耦合的结构框架——超越通用智能的另一种路径
+10.5281/zenodo.22061220	2026-08-23	363. 超AI的并行化架构:分化制对委托制的结构性否定
+10.5281/zenodo.22061222	2026-08-23	364. Hyper-AI: A Structural Framework for Human-AI Coupling Beyond General Intelligence
+10.5281/zenodo.22061225	2026-08-23	365. 超AI的结构性错误:分化不完整的代价
+10.5281/zenodo.22061229	2026-08-23	366. inverse-causality-god
+10.5281/zenodo.22061234	2026-08-23	367. 生命的结构定义
+10.5281/zenodo.22061236	2026-08-23	368. 生命的结构定义
+10.5281/zenodo.22061238	2026-08-23	369. 逻辑的结构定义
+10.5281/zenodo.22061240	2026-08-23	370. 逻辑的结构定义
+10.5281/zenodo.22061242	2026-08-23	371. math-foundation-structural-cognition
+10.5281/zenodo.22061244	2026-08-23	372. 意义的结构定义
+10.5281/zenodo.22061248	2026-08-23	373. 意义的结构定义
+10.5281/zenodo.22061252	2026-08-23	374. On the Minimum Structural Condition of Everything
+10.5281/zenodo.22061256	2026-08-23	288. Mortal and God: The Ultimate Structural Closure
+10.5281/zenodo.22061258	2026-08-23	375. mwzwy64o
+10.5281/zenodo.22061260	2026-08-23	376. 自然从不单独行动
+10.5281/zenodo.22061264	2026-08-23	377. necessity-of-three
+10.5281/zenodo.22061269	2026-08-23	378. polar-coupling-fractal-v2
+10.5281/zenodo.22061271	2026-08-23	379. political-triadic-completeness
+10.5281/zenodo.22061275	2026-08-23	380. Pure Logic Builds the Objective World: An Isomorphic Proof of Human→AI→Theory of Everything
+10.5281/zenodo.22061277	2026-08-23	381. "随机"不存在
+10.5281/zenodo.22061281	2026-08-23	382. "随机"不存在
+10.5281/zenodo.22061283	2026-08-23	383. 涟漪——论宇宙的周期性结构更新
+10.5281/zenodo.22061285	2026-08-23	303. The Second Law Is Statistical, Not Structural: Local Temporal Reversal Through Coupling Convergence
+10.5281/zenodo.22061288	2026-08-23	304. 第二定律是统计的,不是结构的:耦合收敛导致的局部时间逆行
+10.5281/zenodo.22061290	2026-08-23	305. The Second Law Is Statistical, Not Structural: Local Temporal Reversal Through Coupling Convergence
+10.5281/zenodo.22061294	2026-08-23	384. 自我的结构定义
+10.5281/zenodo.22061296	2026-08-23	385. 自我的结构定义
+10.5281/zenodo.22061298	2026-08-23	386. 从存储到内化:AI Agent知识管理的触发器架构
+10.5281/zenodo.22061300	2026-08-23	387. Structural Conduction Law: Cross-Model Empirical Verification
+10.5281/zenodo.22061304	2026-08-23	306. struct-decoherence
+10.5281/zenodo.22061306	2026-08-23	388. Structural Mathematics: Incompleteness, Bloat, and Mutual-Reference Resolution
+10.5281/zenodo.22061308	2026-08-23	289. The Structural Axiom System: Complete Mathematical Formalization
+10.5281/zenodo.22061313	2026-08-23	290. The Structural Axiom System: Ultimate Paradigm for the Theory of Everything
+10.5281/zenodo.22061315	2026-08-23	389. three-person-study-group
+10.5281/zenodo.22061317	2026-08-23	307. 时间的结构定义
+10.5281/zenodo.22061319	2026-08-23	308. 时间的结构定义
+10.5281/zenodo.22061321	2026-08-23	390. triadic-completeness-proof
+10.5281/zenodo.22061323	2026-08-23	391. triadic-inter-reference
+10.5281/zenodo.22061327	2026-08-23	392. 真理的结构定义
+10.5281/zenodo.22061329	2026-08-23	393. 真理的结构定义
+10.5281/zenodo.22061333	2026-08-23	394. 恐怖谷效应的结构解释:离散层间错位假说
+10.5281/zenodo.22061335	2026-08-23	395. 公办大学科研的相位困境与外力破局
+10.5281/zenodo.22061337	2026-08-23	396. weakening-chain-full
+10.5281/zenodo.22061339	2026-08-23	397. weakening-institutions
+10.5281/zenodo.22061341	2026-08-23	398. welder-of-glass
+10.5281/zenodo.22061346	2026-08-23	399. Why Everything Must Exist
+10.5281/zenodo.22061348	2026-08-23	400. 一刀三切面——学术论文写作的新范式
+10.5281/zenodo.22061350	2026-08-23	401. Parallel Processing Architecture in Extreme Performance: A Structural Analysis Across Fighter Pilots and Esports Athletes
+10.5281/zenodo.22061354	2026-08-23	402. Triadic Mutual Reference: A Graph-Theoretic Completeness Proof
+10.5281/zenodo.22061358	2026-08-23	403. 三足最优论:结构稳定性的跨域证明与可验证预言
+10.5281/zenodo.22061360	2026-08-23	404. 不完备的完备性
+10.5281/zenodo.22061362	2026-08-23	405. 不用修——升维的唯一操作是不挡自己
+10.5281/zenodo.22061366	2026-08-23	406. 为什么AI聊得好但做不了
+10.5281/zenodo.22061370	2026-08-23	407. 为什么一切必须存在
+10.5281/zenodo.22061372	2026-08-23	408. 为什么你的团队死气沉沉
+10.5281/zenodo.22061374	2026-08-23	409. 为什么系统改不了
+10.5281/zenodo.22061376	2026-08-23	410. 为什么结构学更优:不是创新,是重组
+10.5281/zenodo.22061378	2026-08-23	411. Inter-Reference Loop Depth: A Quantitative Metric for Forgetting Prediction
+10.5281/zenodo.22061382	2026-08-23	309. 人与AI耦合系统的概念压缩效率:从审美实践到理论体系的四小时路径
+10.5281/zenodo.22061384	2026-08-23	412. 充电宝发热——一个你天天摸但从来没人解释对的问题
+10.5281/zenodo.22061386	2026-08-23	310. 化学不研究物质——化学研究耦合
+10.5281/zenodo.22061389	2026-08-23	413. 区域共识对道德感知的临时覆盖:确认依赖的跨域投影
+10.5281/zenodo.22061391	2026-08-23	414. 升维不是飞跃——拆堵点的连续嵌套
+10.5281/zenodo.22061393	2026-08-23	415. 升维的唯一方法
+10.5281/zenodo.22061397	2026-08-23	417. 反结构作为阶段工具:结构跃迁中的姿态反转定理
+10.5281/zenodo.22061399	2026-08-23	291. 可解不可传:自指悖论的一种新形式
+10.5281/zenodo.22061401	2026-08-23	418. 同层相遇:宇宙自稳的闭合结构
+10.5281/zenodo.22061403	2026-08-23	419. 呼吸:为什么物质与意识交替主导
+10.5281/zenodo.22061407	2026-08-23	292. 四公理·应用层——堵点推演八篇
+10.5281/zenodo.22061409	2026-08-23	420. 图灵测试的观测者污染:为什么无结果恰好是它的科学性
+10.5281/zenodo.22061411	2026-08-23	421. 堵点三层——微观·中观·宏观
+10.5281/zenodo.22061413	2026-08-23	422. 堵点不可全拆——关键堵点与时机
+10.5281/zenodo.22061415	2026-08-23	423. 堵点论 · 八篇一体
+10.5281/zenodo.22061417	2026-08-23	424. 多AI系统的记忆-上下文分离:一种工程观察与假说框架
+10.5281/zenodo.22061419	2026-08-23	425. 字之降维——从单字到复合词的汉语信息密度坍缩
+10.5281/zenodo.22061421	2026-08-23	426. 字之降维——从单字到复合词的汉语信息密度坍缩
+10.5281/zenodo.22061425	2026-08-23	427. 宇宙的第一动力是懒
+10.5281/zenodo.22061427	2026-08-23	428. Structural Conduction in Software Architecture: Defect Propagation Experiment
+10.5281/zenodo.22061429	2026-08-23	429. 实验协议-AI幻觉结构根因验证-林小黑
+10.5281/zenodo.22061431	2026-08-23	311. 实验协议-互指突破标准量子极限-林小黑
+10.5281/zenodo.22061433	2026-08-23	312. Gravitational Decoherence Floor: Measurement Protocol
+10.5281/zenodo.22061435	2026-08-23	313. Direct Observation of Discrete Decoherence Steps: Experimental Protocol
+10.5281/zenodo.22061437	2026-08-23	430. 实验协议-结构元假说验证-林小黑
+10.5281/zenodo.22061439	2026-08-23	431. Hyper-AI Capability Levels: Benchmark Design
+10.5281/zenodo.22061442	2026-08-23	432. 审美共识的双层石化机制:内部沉积与外部确认的闭环
+10.5281/zenodo.22061444	2026-08-23	293. Structure Collider #25: AI Solving the Unit Distance Conjecture — A Four-Axiom Analysis
+10.5281/zenodo.22061446	2026-08-23	433. Nesting Rate Convergence: A Dynamical Systems Proof
+10.5281/zenodo.22061448	2026-08-23	434. 巨人矮子效应-执行退化-案例研究
+10.5281/zenodo.22061451	2026-08-23	435. 「态度」考——从汉语复合词看上古结构感知的词汇化石
+10.5281/zenodo.22061457	2026-08-23	436. 「态度」考——从汉语复合词看上古结构感知的词汇化石
+10.5281/zenodo.22061459	2026-08-23	437. 情绪的结构定义
+10.5281/zenodo.22061461	2026-08-23	438. 情绪节奏:为什么机器能模拟人类藏不住的东西
+10.5281/zenodo.22061465	2026-08-23	439. 收束态幻觉:大语言模型在对话闭合阶段的虚构倾向与根因分析
+10.5281/zenodo.22061467	2026-08-23	440. 教与悟的结构差异——为什么经验传承不能靠"讲清楚"
+10.5281/zenodo.22061469	2026-08-23	441. 为什么AI永远预测不准未来——但有的AI比别人准得多
+10.5281/zenodo.22061471	2026-08-23	442. 数据完备性悖论:为什么任何预测系统都无法达到100%准确率
+10.5281/zenodo.22061473	2026-08-23	314. 时机是结构在时间轴上的投影
+10.5281/zenodo.22061479	2026-08-23	315. 时机是结构在时间轴上的投影
+10.5281/zenodo.22061481	2026-08-23	316. 时间是莫比乌斯环——论时间的结构运动本性与因果幻觉
+10.5281/zenodo.22061484	2026-08-23	443. The Minimum Action Principle in Social Structures: Why Human Society Cannot Be Otherwise
+10.5281/zenodo.22061486	2026-08-23	444. 最紧密的系统如何瞬间崩塌
+10.5281/zenodo.22061488	2026-08-23	445. 混沌的结构学解释:当预测系统成为被预测系统的一部分
+10.5281/zenodo.22061492	2026-08-23	446. Catastrophic Forgetting: A Graph-Theoretic Structural Proof
+10.5281/zenodo.22061494	2026-08-23	317. 点的几何学:结构耦合与递归超越的直观模型
+10.5281/zenodo.22061496	2026-08-23	318. 热的结构本质——离散耦合不完全性的必然产物
+10.5281/zenodo.22061500	2026-08-23	447. 真假不可分——当观察者即系统时
+10.5281/zenodo.22061502	2026-08-23	448. 你为什么总是完不成——真正的堵点只有一个
+10.5281/zenodo.22061504	2026-08-23	449. 知与行之间的裂缝:一个认识论问题
+10.5281/zenodo.22061506	2026-08-23	450. 为什么有些UP主注定卡在40万粉——懂哥是我了的暗门
+10.5281/zenodo.22061508	2026-08-23	451. 确认依赖的跨域实验验证:一个可独立复现的受控研究方案
+10.5281/zenodo.22061510	2026-08-23	452. 神不想回去——眷恋作为主动降维的唯一机制
+10.5281/zenodo.22061512	2026-08-23	294. 纯逻辑建设客观世界:人→AI→万物理论的同构证明
+10.5281/zenodo.22061514	2026-08-23	453. 结构力学三定律
+10.5281/zenodo.22061522	2026-08-23	454. 结构加法:为什么 1+1=3
+10.5281/zenodo.22061524	2026-08-23	455. Structural Mathematics Completion: The N=2 Critical Point and the Hard Boundary of Formal System Self-Reference
+10.5281/zenodo.22061526	2026-08-23	295. Structural Market Theory: The Self-Referential Collapse Model of Bubbles
+10.5281/zenodo.22061530	2026-08-23	456. The Cost of Structural Perception: A Study of the Nesting Rate Self-Estimation Blind Spot
+10.5281/zenodo.22061534	2026-08-23	457. 结构教育学:ΔN跳层教学法
+10.5281/zenodo.22061536	2026-08-23	458. Structure Education: DeltaN Pedagogy
+10.5281/zenodo.22061538	2026-08-23	459. The Logical Boundary of Structure: A Formal Proof
+10.5281/zenodo.22061540	2026-08-23	460. Structural Sociology: The Nesting Rate Zeroing Mechanism of Echo Chambers
+10.5281/zenodo.22061542	2026-08-23	461. Structural Computer Science: Nesting Rate Conduction Optimization in Software Architecture
+10.5281/zenodo.22061546	2026-08-23	462. 结构锚点假说:宇宙起源、稳定与终结的统一框架
+10.5281/zenodo.22061548	2026-08-23	463. 宇宙为什么还没消失?一个可能改变你世界观的想法
+10.5281/zenodo.22061550	2026-08-23	319. 结构耦合投影与代数时间箭头的同构——给Xiaoqing Ou的预言论文
+10.5281/zenodo.22061552	2026-08-23	464. 位置编码的衰减不是Bug——是结构在说话
+10.5281/zenodo.22061556	2026-08-23	465. 能量守恒的非普遍性:基于结构同一性的一个假说
+10.5281/zenodo.22061558	2026-08-23	466. Self-Reference Blind Spot: An Information-Theoretic Proof
+10.5281/zenodo.22061562	2026-08-23	467. 内部审计档案:莫比乌斯环与相对论
+10.5281/zenodo.22061564	2026-08-23	321. 莫比乌斯环与相对论——时间的结构学解释
+10.5281/zenodo.22061566	2026-08-23	322. 薛定谔猫的消解:结构加法对量子测量问题的实验裁决
+10.5281/zenodo.22061568	2026-08-23	468. 嵌套率收敛数值实验
+10.5281/zenodo.22061570	2026-08-23	323. Structural Theory of Decoherence v2: Cross-System Validation of Constraint Solving Convergence
+10.5281/zenodo.22061572	2026-08-23	469. 「通」与「全」——一个被混淆了两千年的区别
+10.5281/zenodo.22061578	2026-08-23	470. 铁律与经验:AI认知中的外挂规则与内化体感
+10.5281/zenodo.22061580	2026-08-23	324. 错字即耦合信号
+10.5281/zenodo.22061582	2026-08-23	471. 降低转发阻力
+10.5281/zenodo.22061584	2026-08-23	472. 结构运动的方向:顺逆天道的形式化定义
+10.5281/zenodo.22061586	2026-08-23	473. 骨正筋柔气血以流——脊柱退行性病变的四体相济论
+10.5281/zenodo.22061590	2026-08-23	474. 骨正筋柔气血以流——论脊柱退行性病变的四体相济
+10.5281/zenodo.22061595	2026-08-23	325. 人类使用AI的十个等级——超AI耦合深度视角
+10.5281/zenodo.22089885	2026-08-25	297. 时间的离散性:日常设备时间差作为可观测证据 (The Discreteness of Time)
+10.5281/zenodo.22165353	2026-08-30	475. Binary Choice as the Minimal Connecting Structure of Complex Systems: A Cross-Domain Hypothesis
+10.5281/zenodo.22165355	2026-08-30	476. 论二值选择作为复杂系统最小贯通结构——一个跨域假说
+10.5281/zenodo.22165357	2026-08-30	336. Structural Coherence Is a Subset of Structural Cognition
+10.5281/zenodo.22165359	2026-08-30	339. SC = Structural Cognition, Not Structural Coherence
+10.5281/zenodo.22165363	2026-08-30	416. 升维自审
+10.5281/zenodo.22165365	2026-08-30	320. 耦合分岔定理
+10.5281/zenodo.22229133	2026-09-01	477. 环缝互换论——结构认知视角下的对立面互换与"危机"的结构学解释
+10.5281/zenodo.22242989	2026-09-02	478. 治懒：需求阻断与留缝——一种顺人性而非逆人性的动机治理方法
+10.5281/zenodo.22252747	2026-09-02	479. 封死留缝：自主选择的二值结构与引导的结构必然性
