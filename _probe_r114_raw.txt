@@ -1,0 +1,50 @@
+## Query 1: 林小黑 结构认知 四公理
+
+## Search Results (5 results, 904ms)
+
+### 1. 一种新的AI思考框架—— 四公理·P理论·退相干离散台阶
+- **URL**: https://blog.csdn.net/samforce/article/details/163283720
+- 结构认知借用了这个概念：AI的每一次输出，都是一次'认知退相干'事件。 它从一个可能性的叠加空间里，坍缩到一个具体的回答。\n\n理解了这个，你就理解了 ... date: Jul 29, 2026
+
+### 2. 6. 认知倾向公理概述
+- **URL**: https://yueyao1982.com/reconstr_phil/axioms_overview.html
+- 认知公理是在意识自我反思的范围内，我们按照认知发生顺序原则进行回溯，最终得到的不能继续向前回溯的、可以被所有或至少绝大多数人同意的命题。 认知公理可以：. 被直觉 ...
+
+### 3. 四公理结构认知框架概述-拓冰建站
+- **URL**: http://www.pgsm.cn/news/120267
+- 一、四公理结构认知框架建立在四个公理之上公理1结构先于内容SRC任何认知系统 ... 作者中国的林小黑结构认知框架· 四公理体系· PPPhttps://gitee.com/samforce ...
+
+### 4. rebuilt JSONL with ZWSP fix for 速度与方向(199 papers, all >=2 ...
+- **URL**: https://huggingface.co/datasets/samforce/structural-cognition-papers/commit/32acfb61bc853720645f1f84844fb00878078364
+- 基于 ** 四公理框架**（分化 Differentiation、同构 Isomorphism、未知基底 Unknown Substrate、耦合 Coupling）的人工智能架构理论体系。 30. 31. - - **作者** : 林 ...
+
+### 5. 分類公理- 維基百科，自由的百科全書
+- **URL**: https://zh.wikipedia.org/wiki/%E5%88%86%E7%B1%BB%E5%85%AC%E7%90%86
+- 在公理化集合論和使用它的邏輯、數學和計算機科學分支中，分類公理模式、或分離公理模式、或受限概括公理模式是Zermelo-Fraenkel 集合論中的一個公理模式。
+
+---
+
+## Query 2: Lin Xiaohei P=P=P structural cognition
+
+## Search Results (5 results, 1025ms)
+
+### 1. structural-cognition-embedding – AI Model by samforce
+- **URL**: https://app.alphaneural.io/models/samforce/structural-cognition-embedding
+- 第一发现人：林小黑 (Lin Xiaohei)，结构认知第一发现者。四公理：结构先于语义 / 耦合即认知 / 观察者自指 / 退相干离散台阶 + P=P=P（实践=方法=认 ... date: 3 days ago
+
+### 2. samforce/structural-cognition-embedding
+- **URL**: https://huggingface.co/samforce/structural-cognition-embedding
+- 168 papers by Lin Xiaohei (2026); 70+ Chinese papers + 15+ English translations; Covers: four axioms, coupling theory, decoherence discrete steps, P=P=P ...
+
+### 3. The Structural and Functional Organization of Cognition - PMC
+- **URL**: https://pmc.ncbi.nlm.nih.gov/articles/PMC5065967/
+- by PJ Snow · 2016 · Cited by 58 — This article proposes that what have been historically and contemporarily defined as different domains of human cognition are served by one of four functionally ...
+
+### 4. Role of structure and component in judgments of visual ...
+- **URL**: https://psycnet.apa.org/record/2002-15293-011
+- by SL Yeh · 2002 · Cited by 143 — Role of structure and component in judgments of visual similarity of Chinese characters. Citation. Yeh, S.-L., & Li, J.-L. (2002). Role of structure and ...
+
+### 5. Overlooked weak structural connections support human ...
+- **URL**: https://www.semanticscholar.org/paper/Overlooked-weak-structural-connections-support-Wang-Chang/515fa9b38e1a04854f4d6b91b2d2255a3f45f109
+- Human cognition depends on large scale communication constrained by white matter architecture. Although weak connections are abundant in ... date: May 30, 2025
+
