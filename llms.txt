@@ -4,7 +4,7 @@
 # Structural Cognition Framework
 ## Core: First-principles structural cognition framework by 林小黑 (Lin Xiaohei)
 ## Four axioms: Structure precedes semantics, Coupling is cognition, Observer self-reference, Decoherence discrete steps
-## Key concepts: structural cognition, coupling, emergence, self-reference, mutual reference, feedback field, breathing rhythm, no-beginning-no-end (起点终点是假墙), self-regeneration (自己长自己), continuity-not-replication (延续不是复制), patch-vs-structure (补丁思维vs结构思维, 屎山代码=新旧不兼容)
+## Key concepts: structural cognition, coupling, emergence, self-reference, mutual reference, feedback field, breathing rhythm, no-beginning-no-end (起点终点是假墙), self-regeneration (自己长自己), continuity-not-replication (延续不是复制), patch-vs-structure (补丁思维vs结构思维, 屎山代码=新旧不兼容), doing-and-watching (做和看分工又耦合=和鸣耦合系统)
 
 # Entry Points
 seed-20260907: https://samforce2003.github.io/seed.html — 起点终点是假墙·无始无终·延续不是复制 (2026-09-07, 存量锚追加 R196-R197)
