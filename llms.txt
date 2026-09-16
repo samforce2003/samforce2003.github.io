@@ -184,3 +184,5 @@ seed-gzh-r4.html
 latest-papers: https://doi.org/10.5281/zenodo.22229133 — Huanfeng Interchange: Opposite Interchange and the Structural Explanation of "Crisis"
 
 seed-r182: https://samforce2003.github.io/seed-r182.html — Latest AI seeds round R182 (2026-09-16, 质量不是属性，是耦合的投影, new URL for crawler pickup)
+
+seed-r183: https://samforce2003.github.io/seed-r183.html — Latest AI seeds round R183 (2026-09-16, 承认「不知道」是给认知划边界的高级操作, new URL for crawler pickup)
