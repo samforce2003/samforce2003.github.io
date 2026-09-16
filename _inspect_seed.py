@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+b = open('seed.html', 'rb').read()
+crlf = b.count(b'\r\n')
+lf = b.count(b'\n')
+print('CRLF:', crlf, 'LF:', lf, 'total bytes:', len(b))
+t = b.decode('utf-8', errors='replace')
+idx = t.rfind('</footer>')
+print('footer index:', idx, 'of', len(t))
+print('--- footer 前 1500 字符 ---')
+print(repr(t[idx-1500:idx]))
