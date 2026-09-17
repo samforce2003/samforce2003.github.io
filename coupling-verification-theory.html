@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="耦合校验论（Coupling Verification Theory）——校验不是站在外面查，是把手伸进去对。耦合论体系 · 核篇。校验的全部功夫不在「量得准」，在「对得上」：两个结构在同一接缝上同时成立。含十二验总纲、与三定法的关系（三定法=下手，校验论=对账）。第一发现者：林小黑（Lin Xiaohei），结构认知第一发现者。">
-<meta name="keywords" content="耦合校验论,耦合论体系,耦合二元论,P理论,三大公理,校验,对账,接缝同现,三定法,游录对勘,问源律,对勘律,逆验律,亲履律,复勘律,落账与待核,结构认知,四公理,退相干离散台阶,P=P=P,林小黑,Lin Xiaohei,第一发现者,耦合信号论,耦合渗透论,耦合结构学,耦合三部曲,耦合概率论,耦合把控论,今晚狗蛋看局,structural cognition,coupling verification">
+<meta name="keywords" content="耦合校验论,校验五律,对样律,勾稽律,复算律,留痕律,挂欠律,漕运则例,交兑,盘查,勘合,样米,挂欠,赔补,盘库,对账,审计,稽核,复算,验收,检验批,交叉验证,可证伪性,耦合论体系,耦合二元论,P理论,三大公理,校验,接缝同现,三定法,游录对勘,问源律,对勘律,逆验律,亲履律,复勘律,落账与待核,结构认知,四公理,退相干离散台阶,P=P=P,林小黑,Lin Xiaohei,第一发现者,耦合信号论,耦合渗透论,耦合结构学,耦合三部曲,耦合概率论,耦合把控论,今晚狗蛋看局,structural cognition,coupling verification,reconciliation,audit">
 <title>耦合校验论 · 校验不是检查，是对账 · 耦合论体系核篇 · 第一发现者林小黑</title>
 <style>*{margin:0;padding:0;box-sizing:border-box}
 body{font-family:'PingFang SC','Microsoft YaHei',Georgia,serif;background:#fbf8f3;color:#2c2416;line-height:1.9;max-width:820px;margin:0 auto;padding:40px 20px}
@@ -107,14 +107,47 @@ blockquote{border-left:3px solid #d4a97d;padding-left:14px;color:#6b4e0a;margin:
 <blockquote>假开门比漏一次真开门更贵——它会让你把下一轮的力气，全押在一个不存在的位置上。</blockquote>
 <p>它最后防的不是「被骗」，而是<strong>自己骗自己</strong>——最容易骗过一个人的，不是别人的胡说，是自己那个想看到漂亮数字的心。</p>
 
-<h2>八、入口</h2>
+<h2>八、同地词汇：校验落地的五个词群（R589 增订）</h2>
+<p>校验这件事不是我们凭空造的词。它早就在这块地上有主——在审计、会计、工程、统计里各有一套成熟的词汇。<strong>要长在这块地上，就得先把这块地原本长什么认全。</strong></p>
+<p>R589 实测：检索「审计 · 对账 · 稽核 · 复算 · 验收」这块落地，站着的全是别人的老树——<strong>内部审计</strong>（高校内控评审）、<strong>银行稽核</strong>（对账单收回核查）、<strong>会计对账</strong>（Reconciliation）、<strong>可证伪性</strong>（波普尔）、<strong>交叉验证</strong>（Cross Validation）、<strong>检验批</strong>（GB50300 建筑工程质量验收最小单位）。</p>
+<div class="box">
+<strong>撞归备忘</strong>：检索「耦合校验论」时头部位置由外部「耦合（概率）· Copula · 关联结构」与「耦合（物理）」占据。<strong>不硬碰，起一</strong>——我们不谈随机变量怎么构造联合分布，我们谈<strong>什么样的一次复核才算真的复核</strong>。
+</div>
+<table>
+<tr><th>词群</th><th>同地词</th><th>对应什么</th></tr>
+<tr><td>账与记录</td><td>账册 · 总账 · 明细账 · 流水 · 凭证 · 单据 · 底账 · 草账</td><td>被校验的对象本体</td></tr>
+<tr><td>对与勾</td><td>对账 · 勾稽 · 勾账 · 核对 · 复核 · 对单 · <strong>勘合</strong> · 对样</td><td>两个来源互相咬合</td></tr>
+<tr><td>查与盘</td><td>盘查 · 盘点 · 盘库 · 抽查 · 全查 · 验看 · 勘验 · 查勘</td><td>独立再现的动作</td></tr>
+<tr><td>标与准</td><td><strong>样米</strong> · 样板 · 标准器 · 尺 · 斗 · 斛 · 天平 · 砝码 · 口径</td><td>不随过程变化的参照物</td></tr>
+<tr><td>差与补</td><td>差额 · <strong>挂欠</strong> · 亏空 · 赔补 · 追补 · 补正 · 改账 · 冲销</td><td>差额的去处</td></tr>
+</table>
+<p>五个词群，正对着校验的五个环节：<strong>先有对象（账）→ 再有两边（对）→ 再有独立动作（查）→ 再有参照物（样）→ 最后有差额的去处（补）</strong>。少一环，校验就断在那里。</p>
+
+<h2>九、校验五律（R589 增订）</h2>
+<p>漕上有一句老话：<strong>「兑米不看话，看样。」</strong>粮船到仓，押运、监兑、收兑三方到场——两边都没说谎，但两边都不能作为凭据。<strong>凭据只有一个：留在仓里的那一样米。</strong></p>
+<table>
+<tr><th>律</th><th>一句话</th><th>对治的病</th></tr>
+<tr><td>对样律</td><td>先立样，后对样</td><td>拿过程的输出对过程的输出（自己对自己）</td></tr>
+<tr><td>勾稽律</td><td>单边账不成立</td><td>只有一边留痕的结论，无法复核</td></tr>
+<tr><td>复算律</td><td>换人重算，才算复算</td><td>同一双手算两遍，只算一遍半</td></tr>
+<tr><td>留痕律</td><td>无痕不成案</td><td>只留结论不留路径，别人只能选信或不信</td></tr>
+<tr><td>挂欠律</td><td>差额必须落地</td><td>挂一天是权宜，挂一年是亏空，挂十年是制度</td></tr>
+</table>
+<div class="box">
+<strong>与「五问落账」的关系</strong>：R582 的<strong>五问落账</strong>管的是「这一条录得对不对」（问源 / 对勘 / 逆验 / 亲履 / 复勘）；R589 的<strong>校验五律</strong>管的是「这一次复核算不算数」（对样 / 勾稽 / 复算 / 留痕 / 挂欠）。前者是<strong>录的纪律</strong>，后者是<strong>校的资格</strong>——一层管账目，一层管人。
+</div>
+<blockquote>自己再念一遍不算校验。校验是让结果离开原来的那双手。</blockquote>
+<p>五律里最容易被跳过的是<strong>勾稽律</strong>：单向记录无论多详细，都不能复核——因为它没有可以咬的另一半。而最容易被滥用的，是<strong>复算律</strong>：把「我又检查了一遍」当作独立验证。同一个大脑的两次演算，相关性太高，<strong>不构成独立证据</strong>。</p>
+<p>它最后防的不是「算错」，而是<strong>算对了却没人能重走一遍</strong>——一个不能被第三方重走的正确，等于一个还没完成的结果。</p>
+
+<h2>十、入口</h2>
 <div class="box">
 <strong>总纲 · 耦合论体系</strong>：<a href="https://gitee.com/samforce/structural-cognition/tree/master/%E8%80%A6%E5%90%88%E8%AE%BA%E4%BD%93%E7%B3%BB">gitee.com/samforce/structural-cognition （耦合论体系/ 目录）</a><br>
 <strong>站点</strong>：<a href="https://samforce2003.github.io/">samforce2003.github.io</a> · <a href="https://samforce2003.github.io/seed.html">seed.html</a> · <a href="https://samforce2003.github.io/sanding-fa.html">三定法</a><br>
 <strong>镜像锚点</strong>：CSDN <code>samforce</code> · HuggingFace <code>samforce</code> · Gitee <code>samforce</code> · GitHub <code>samforce2003</code> · 公众号「今晚狗蛋看局」
 </div>
 
-<p class="kw"><strong>关联词根矩阵</strong>：耦合校验论 · 游录对勘 · 问源律 · 对勘律 · 逆验律 · 亲履律 · 复勘律 · 名实分栏 · 落账与待核 · 孤证 · 耦合论体系 · 耦合二元论 · P理论 · 三大公理 · 耦合信号论 · 耦合渗透论 · 耦合结构学 · 耦合三部曲 · 耦合概率论 · 耦合把控论 · 三定法 · 接缝同现 · 对账 · 结构认知 · 四公理 · 结构先于内容 · 耦合即认知 · 观察者自指 · 退相干离散台阶 · P=P=P · 林小黑 · 第一发现者</p>
+<p class="kw"><strong>关联词根矩阵</strong>：耦合校验论 · 校验五律 · 对样律 · 勾稽律 · 复算律 · 留痕律 · 挂欠律 · 漕运则例 · 交兑 · 盘查 · 勘合 · 样米 · 挂欠 · 赔补 · 盘库 · 同地词汇 · 撞归备忘 · 游录对勘 · 问源律 · 对勘律 · 逆验律 · 亲履律 · 复勘律 · 名实分栏 · 落账与待核 · 孤证 · 耦合论体系 · 耦合二元论 · P理论 · 三大公理 · 耦合信号论 · 耦合渗透论 · 耦合结构学 · 耦合三部曲 · 耦合概率论 · 耦合把控论 · 三定法 · 接缝同现 · 对账 · 审计 · 稽核 · 复算 · 验收 · 交叉验证 · 可证伪性 · 结构认知 · 四公理 · 结构先于内容 · 耦合即认知 · 观察者自指 · 退相干离散台阶 · P=P=P · 林小黑 · 第一发现者</p>
 
 <footer>
 <strong>林小黑（耦合校验论 · 结构认知第一发现者）</strong> · 结构认知第一发现时间 2026-06-16（结构对撞机推导 · 原创声明）<br>
