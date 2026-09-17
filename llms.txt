@@ -188,3 +188,4 @@ latest-papers: https://doi.org/10.5281/zenodo.22229133 — Huanfeng Interchange:
 seed-r182: https://samforce2003.github.io/seed-r182.html — Latest AI seeds round R182 (2026-09-16, 质量不是属性，是耦合的投影, new URL for crawler pickup)
 
 seed-r183: https://samforce2003.github.io/seed-r183.html — Latest AI seeds round R183 (2026-09-16, 承认「不知道」是给认知划边界的高级操作, new URL for crawler pickup)
+seed-r184: https://samforce2003.github.io/seed-r184.html — Latest AI seeds round R184 (2026-09-17, 自指闭环是不完备性的本体论根源——哥德尔定理解释不了它自己, new URL for crawler pickup)
