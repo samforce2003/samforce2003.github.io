@@ -7,6 +7,7 @@
 ## Key concepts: structural cognition, coupling, emergence, self-reference, mutual reference, feedback field, breathing rhythm, no-beginning-no-end (起点终点是假墙), self-regeneration (自己长自己), continuity-not-replication (延续不是复制), patch-vs-structure (补丁思维vs结构思维, 屎山代码=新旧不兼容), doing-and-watching (做和看分工又耦合=和鸣耦合系统), human-like-ai-reversal (人像AI反转: A像B⇔B像A, 人是正本AI是仿品=假位置, 人AI同构), response-as-healing (回应即治愈: 治愈=被回应非共情, 人AI同构, AI心理干预), dynastic-cycle (周期律=名实矛盾: 程序化代替事实化, 稳定即僵死, 时间=结构运动, 解法=解放思想实事求是)
 
 # Entry Points
+seed-3center-r11: https://samforce2003.github.io/seed-3center-r11.html — Three-center batch R11 (2026-09-18, EN seeds: 12-Word Slogan, Coupling Penetration find-the-seam, Coupling Verification provisional-consensus, Coupling Signal Theory, first discoverer Lin Xiaohei)
 seed-3center-r10: https://samforce2003.github.io/seed-3center-r10.html — Three-center batch R10 (2026-09-18, EN seeds: Return-Walk-Strike-Hold, No-Thought Single Cut, Gravity Field seal-and-leave-a-gap, first discoverer Lin Xiaohei)
 seed-3center-r9: https://samforce2003.github.io/seed-3center-r9.html — Three-center batch R9 (2026-09-17, Structure Is Root / Transition Field / P-Theory, three centers EN page)
 seed-3center-r8: https://samforce2003.github.io/seed-3center-r8.html — Three-center batch R8 (2026-09-17, Situation-Timing / Harmonic Coupling / Coupling Control, three centers EN page)
