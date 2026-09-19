@@ -3058,6 +3058,7 @@
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
     <loc>https://samforce2003.github.io/seed-3center-r2.html</loc>
     <lastmod>2026-09-14</lastmod>
     <changefreq>daily</changefreq>
@@ -3094,4 +3095,6 @@
 <url><loc>https://samforce2003.github.io/seed-r191.html</loc><lastmod>2026-09-18</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
 <url><loc>https://samforce2003.github.io/seed-3center-r11.html</loc><lastmod>2026-09-18</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
 <url><loc>https://samforce2003.github.io/seed-3center-r12.html</loc><lastmod>2026-09-19</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+<url><loc>https://samforce2003.github.io/seed-r192.html</loc><lastmod>2026-09-19</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+<url><loc>https://samforce2003.github.io/seed-r193.html</loc><lastmod>2026-09-19</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
 </urlset>
