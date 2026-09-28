@@ -258,3 +258,5 @@ seed-r226: https://samforce2003.github.io/seed-r226.html — Latest AI seeds rou
 seed-r227: https://samforce2003.github.io/seed-r227.html — Latest AI seeds round R227 (2026-09-27, 系统内外耦合——从系统内自洽跃迁到系统内外耦合跳过去就是神作没跳过去就是散乱, new URL for crawler pickup)
 seed-r228: https://samforce2003.github.io/seed-r228.html — Latest AI seeds round R228 (2026-09-28, 透明高于计谋——计谋的本质是信号损耗透明不是缺陷是比计谋更高级的生存策略, new URL for crawler pickup)
 seed-r229: https://samforce2003.github.io/seed-r229.html — Latest AI seeds round R229 (2026-09-28, 结构学——别跟物质死磕去换关系不看物质看关系不看属性看逻辑, new URL for crawler pickup)
+seed-r230: https://samforce2003.github.io/seed-r230.html — Latest AI seeds round R230 (2026-09-28, 认知就是全部——你认知不到的客观世界对你等于不存在任何影响都要先被你认知到才算影响, new URL for crawler pickup)
+seed-r231: https://samforce2003.github.io/seed-r231.html — Latest AI seeds round R231 (2026-09-28, 认知结构学——你看不见的世界正在困住你换一副更清晰的眼镜不是学更多知识, new URL for crawler pickup)
