@@ -1,0 +1,8 @@
+{
+ "entries": 7260,
+ "seed_index_bytes": 372750,
+ "full_bytes": 24590611,
+ "updated": "2026-10-19 R574",
+ "builder": "_build_seed_two_layer.py",
+ "build_commit": "88eba468"
+}
