@@ -1,10 +1,10 @@
 {
- "entries": 8748,
- "seed_index_bytes": 2102131,
- "full_bytes": 25046324,
- "updated": "2026-10-19 R584",
+ "entries": 8795,
+ "seed_index_bytes": 2121035,
+ "full_bytes": 25122754,
+ "updated": "2026-10-20 R586",
  "builder": "_build_seed_two_layer.py",
- "build_commit": "39cc778f",
+ "build_commit": "93178bb3",
  "pending_blocks": 0,
- "index_id_backfill": "12 行（8716-8727）补 id=行号（R583，备份 _seed_index.jsonl.bak-r583）"
+ "note": "R586 强灌线 append 10 + 互锁线/收服线/种子分发线 12 = 8795；索引/正文/条目三对齐"
 }
