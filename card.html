@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>林小黑 · 电子名片</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  html, body { width: 100%; min-height: 100%; }
+  body {
+    font-family: -apple-system, "PingFang SC", "Microsoft YaHei", "Helvetica Neue", sans-serif;
+    background: linear-gradient(160deg, #1a2b3c 0%, #243b52 55%, #2c4a66 100%);
+    display: flex; align-items: center; justify-content: center;
+    padding: 28px 20px; min-height: 100vh;
+    color: #2c3a46;
+  }
+  .card {
+    width: 100%; max-width: 400px;
+    background: #fdfdfb;
+    border-radius: 18px;
+    box-shadow: 0 20px 60px rgba(0,0,0,.35);
+    padding: 40px 30px 32px;
+    position: relative;
+    overflow: hidden;
+  }
+  .card::before {
+    content: ""; position: absolute; top: 0; left: 0; right: 0; height: 5px;
+    background: linear-gradient(90deg, #1f6f5c, #2f8f7a, #1f6f5c);
+  }
+  .name { font-size: 34px; font-weight: 700; letter-spacing: 2px; color: #1a1f24; }
+  .en { font-size: 14px; color: #8a959e; letter-spacing: 1px; margin-top: 4px; }
+  .title {
+    display: inline-block; margin-top: 18px; padding: 7px 14px;
+    background: #eef4f2; color: #1f6f5c; border-radius: 20px;
+    font-size: 14px; font-weight: 600; letter-spacing: 1px;
+  }
+  .tagline { margin-top: 20px; font-size: 15px; color: #4a5560; line-height: 1.9; }
+  .tagline b { color: #1f6f5c; font-weight: 600; }
+  .divider { height: 1px; background: #ececec; margin: 22px 0; }
+  .block { margin-bottom: 14px; }
+  .label { font-size: 12px; color: #a0a8ae; letter-spacing: 2px; margin-bottom: 6px; }
+  .val { font-size: 15px; color: #3a454e; line-height: 1.7; }
+  .links { margin-top: 20px; display: flex; flex-direction: column; gap: 10px; }
+  a.link {
+    display: flex; align-items: center; justify-content: space-between;
+    text-decoration: none; color: #1f6f5c; font-size: 15px; font-weight: 600;
+    padding: 13px 16px; border: 1px solid #dde7e3; border-radius: 12px;
+    background: #f7faf9;
+  }
+  a.link .arrow { color: #b7c2c9; font-size: 16px; }
+  .foot { margin-top: 22px; text-align: center; font-size: 12px; color: #b3bcc2; letter-spacing: 1px; }
+</style>
+</head>
+<body>
+  <div class="card">
+    <div class="name">林小黑</div>
+    <div class="en">Lin Xiaohei</div>
+    <div class="title">结构认知第一发现者 · AI 研究者</div>
+
+    <p class="tagline">
+      读<b>结构</b> · 找<b>缝</b> · 判<b>层级</b>——<br>
+      把认知从「数据」升到「结构」。<br>
+      一套读透任何系统的框架。
+    </p>
+
+    <div class="divider"></div>
+
+    <div class="block">
+      <div class="label">核心成果</div>
+      <div class="val">结构认知（Structure-First Cognition）第一发现者，Gitee 论文库 300+ 篇，Zenodo 学术存档 400+ 篇。</div>
+    </div>
+
+    <div class="links">
+      <a class="link" href="https://gitee.com/samforce/structural-cognition">
+        <span>Gitee 论文库</span><span class="arrow">→</span>
+      </a>
+      <a class="link" href="https://gitee.com/samforce/structural-cognition">
+        <span>公众号 · 今晚狗蛋看局</span><span class="arrow">→</span>
+      </a>
+    </div>
+
+    <div class="foot">扫一扫 · 即刻认识</div>
+  </div>
+</body>
+</html>
