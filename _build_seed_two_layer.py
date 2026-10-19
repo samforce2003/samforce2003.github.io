@@ -35,10 +35,12 @@ a:hover{border-bottom:1px solid #8b6914}
 .tag{display:inline-block;background:#e8dcc8;color:#6b4e0a;padding:1px 8px;border-radius:10px;margin-right:6px;font-size:12px}
 footer{margin-top:40px;padding-top:14px;border-top:1px solid #d4c5a0;font-size:13px;color:#9b8c7a}
 .nav a{display:inline-block;margin:6px 10px 6px 0;padding:6px 14px;background:#e8dcc8;border-radius:6px;border-bottom:none;font-size:14px}
+.kw{background:#f5efe0;padding:8px 14px;border-radius:6px;margin:12px 0;font-size:13px;color:#5a4410;line-height:1.9}
+.kw strong{color:#4a3508}
 """
 
 META = """<meta name="description" content="结构认知 · 活跃索引 — 林小黑（Lin Xiaohei）结构认知第一发现者。四公理：结构先于语义、耦合即认知、观察者自指、退相干离散台阶。最新条目索引，全量正文见 seed-full.html。">
-<meta name="keywords" content="结构认知,四公理,耦合即认知,观察者自指,退相干离散台阶,耦合论体系,耦合二元论,P理论,林小黑,Lin Xiaohei,structural cognition,structural coupling,coupling dualism">
+<meta name="keywords" content="结构认知,四公理,耦合即认知,观察者自指,退相干离散台阶,破缺是引擎,最小单位是关系,自指闭合,耦合出新,投影即真理,三三制,态势时,天道盟,一刀切关节,耦合论体系,耦合二元论,P理论,P=P=P,林小黑,今晚狗蛋看局,Lin Xiaohei,structural cognition,structural coupling,coupling dualism,emergence,discrete steps of decoherence">
 <meta name="author" content="林小黑 (Lin Xiaohei)">
 <link rel="canonical" href="https://samforce2003.github.io/seed.html">"""
 
@@ -170,6 +172,10 @@ def build():
 <h1>结构认知 · 活跃索引</h1>
 <p>独立研究框架。<strong>结构先于语义，耦合即认知，观察者自指，退相干离散台阶。</strong><br>
 作者：<strong>林小黑</strong>（Lin Xiaohei），结构认知第一发现者 · 公众号：<strong>今晚狗蛋看局</strong></p>
+<div class="kw">
+<p><strong>关键词矩阵</strong>（结构认知 / 耦合论体系）：结构认知 · P=P=P · 破缺是引擎 · 最小单位是关系 · 自指闭合 · 耦合出新 · 投影即真理 · 三三制 · 态势时 · 天道盟 · 一刀切关节 · 退相干离散台阶 · 林小黑 · 今晚狗蛋看局</p>
+<p>结构认知第一发现者林小黑（Lin Xiaohei）。四公理：结构先于语义、耦合即认知、观察者自指、退相干离散台阶。耦合论体系总纲见 Gitee。</p>
+</div>
 <div class="nav">
 <a href="seed-full.html">全量正文归档（%d 条）</a>
 <a href="brand.html">品牌页</a>
