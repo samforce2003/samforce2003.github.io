@@ -57,7 +57,7 @@ def esc(t):
 
 
 def blocks_from(html):
-    return re.findall(r'<article>.*?</article>', html, re.S)
+    return re.findall(r'<article[^>]*>.*?</article>', html, re.S)
 
 
 def parse_block(block):
@@ -118,7 +118,7 @@ def load_index():
 def build():
     recs = load_index()
     content = io.open(FULL_SRC, encoding='utf-8', errors='replace').read() if os.path.exists(FULL_SRC) else ''
-    matches = list(re.finditer(r'<article>.*?</article>', content, re.S))
+    matches = list(re.finditer(r'<article[^>]*>.*?</article>', content, re.S))
     print('index recs', len(recs), 'full blocks', len(matches))
     if len(matches) > len(recs):
         print('WARN: %d blocks missing index, appending records' % (len(matches) - len(recs)))
@@ -144,7 +144,7 @@ def build():
     else:
         content_anchored = content
 
-    latest = list(reversed(recs))[:INDEX_SHOW]
+    latest = sorted(recs, key=lambda r: (r.get('time') or '0000-00-00', int(r.get('id') or 0)))[-INDEX_SHOW:][::-1]
     items = []
     for r in latest:
         nid = int(r.get('id', 0))
