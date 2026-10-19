@@ -1,11 +1,11 @@
 {
- "entries": 8805,
- "seed_index_bytes": 2124982,
- "full_bytes": 25140059,
- "seed_index_page_bytes": 391609,
- "updated": "2026-10-20 R587",
+ "entries": 8850,
+ "seed_index_bytes": 2144795,
+ "full_bytes": 25177550,
+ "seed_index_page_bytes": 392823,
+ "updated": "2026-10-20 R589",
  "builder": "_build_seed_two_layer.py",
- "build_commit": "pending",
+ "build_commit": "da023b4b",
  "pending_blocks": 0,
- "note": "R587 强灌线 append 10（一核七壳 8中2英）= 8805；索引/正文/条目三对齐；索引页 391,609B < 2MB，最新条目 #8805 在首屏"
+ "note": "R589 强灌线 append 10（一核七壳 全 zh，含 2 条反混淆）= 8850；索引/正文/条目三对齐；索引页 392,823B < 2MB，最新条目 #8850 在首屏；修 builder empty-id 崩溃"
 }
