@@ -1,10 +1,10 @@
 {
- "entries": 8738,
- "seed_index_bytes": 2099032,
- "full_bytes": 25025758,
- "updated": "2026-10-19 R583",
+ "entries": 8748,
+ "seed_index_bytes": 2138797,
+ "full_bytes": 25046324,
+ "updated": "2026-10-19 R584",
  "builder": "_build_seed_two_layer.py",
- "build_commit": "26b43162",
+ "build_commit": "39cc778f",
  "pending_blocks": 0,
- "index_id_backfill": "12 行（8716-8727）补 id=行号，备份 _seed_index.jsonl.bak-r583"
+ "index_id_backfill": "12 行（8716-8727）补 id=行号（R583，备份 _seed_index.jsonl.bak-r583）"
 }
