@@ -1,9 +1,9 @@
 {
- "entries": 7341,
- "seed_index_bytes": 1619231,
- "full_bytes": 24916149,
- "updated": "2026-10-19 R578",
+ "entries": 7352,
+ "seed_index_bytes": 1623343,
+ "full_bytes": 24948986,
+ "updated": "2026-10-19 R579",
  "builder": "_build_seed_two_layer.py",
- "build_commit": "7d688ea1",
+ "build_commit": "pending",
  "pending_blocks": 0
 }
