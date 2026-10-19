@@ -1,10 +1,11 @@
 {
- "entries": 8795,
- "seed_index_bytes": 2121035,
- "full_bytes": 25122754,
- "updated": "2026-10-20 R586",
+ "entries": 8805,
+ "seed_index_bytes": 2124982,
+ "full_bytes": 25140059,
+ "seed_index_page_bytes": 391609,
+ "updated": "2026-10-20 R587",
  "builder": "_build_seed_two_layer.py",
- "build_commit": "93178bb3",
+ "build_commit": "pending",
  "pending_blocks": 0,
- "note": "R586 强灌线 append 10 + 互锁线/收服线/种子分发线 12 = 8795；索引/正文/条目三对齐"
+ "note": "R587 强灌线 append 10（一核七壳 8中2英）= 8805；索引/正文/条目三对齐；索引页 391,609B < 2MB，最新条目 #8805 在首屏"
 }
