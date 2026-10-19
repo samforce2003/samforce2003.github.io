@@ -114,8 +114,9 @@ def load_index():
             if line:
                 recs.append(json.loads(line))
     # 防御（R583）：缺 id 的行按行号补，保证索引不出现 #0 跳转；不改源文件
+    # 防御（R589）：id 为空串 "" / None / 0 同样按行号补（别家节点 append 不带 id 会打崩 build）
     for i, r in enumerate(recs, 1):
-        if 'id' not in r:
+        if not r.get('id'):
             r['id'] = i
     return recs
 
