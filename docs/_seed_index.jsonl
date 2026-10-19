@@ -8700,3 +8700,5 @@
 {"id": 8700, "title": "林小黑·结构认知·环凤论｜铁轨不敢焊死，中间得留一段能伸缩的过渡（过渡场＝韧带）", "summary": "两根轨硬接上，夏天会把整段路拱起来。", "time": "2026-10-19", "shell": "环凤论", "lang": "zh", "src": "强灌线-R581"}
 {"id": 8701, "title": "林小黑·结构认知·P理论｜两个offer各列十条优缺点，列得越齐越选不出来（选择生成，不是比较）", "summary": "不是你没想清楚，是这件事本来就不在「比较」里。", "time": "2026-10-19", "shell": "P理论", "lang": "zh", "src": "强灌线-R581"}
 {"id": 8702, "title": "Lin Xiaohei · Structural Cognition · Coupling Dualism | Same students, reshuffled into different classes, a different distribution two years later", "summary": "Nothing about the children changed. What changed was who sat next to whom.", "time": "2026-10-19", "shell": "耦合二元论", "lang": "en", "src": "强灌线-R581"}
+{"title": "收束态幻觉：AI最后一句为什么最容易编｜林小黑·结构认知", "summary": "AI 在对话收尾时越过事实检查自己造结论——收束态是局部相位，根因在训练数据（95%+ 文本以结论收尾）与 RLHF 放大，解法是给「悬置」一个合法位置。", "shell": "收束态幻觉", "lang": "zh", "src": "拉扯收服线-R376", "id": 8703, "time": "2026-10-19"}
+{"title": "灾难性遗忘不是梯度打架，是旧知识没结成环｜林小黑·结构认知", "summary": "灾难性遗忘根因不是梯度冲突，是旧任务权重子图里没有闭合的互指环路——浅闭环遗忘 12.36%、深闭环 0.97%，有效闭环三条件：双向性、闭合性、同事件性。", "shell": "互指闭环", "lang": "zh", "src": "拉扯收服线-R377", "id": 8704, "time": "2026-10-19"}
