@@ -113,6 +113,10 @@ def load_index():
             line = line.strip()
             if line:
                 recs.append(json.loads(line))
+    # 防御（R583）：缺 id 的行按行号补，保证索引不出现 #0 跳转；不改源文件
+    for i, r in enumerate(recs, 1):
+        if 'id' not in r:
+            r['id'] = i
     return recs
 
 
@@ -135,8 +139,9 @@ def build():
     for i, m in enumerate(matches, 1):
         if i <= legacy_n:
             continue
+        rid = int(recs[i - 1]['id']) if i - 1 < len(recs) and recs[i - 1].get('id') else i
         out.append(content[pos:m.start()])
-        out.append('<a id="s%s"></a>\n' % str(i).zfill(5))
+        out.append('<a id="s%s"></a>\n' % str(rid).zfill(5))
         out.append(m.group(0))
         pos = m.end()
     if out:
