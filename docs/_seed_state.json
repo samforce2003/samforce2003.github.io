@@ -1,11 +1,11 @@
 {
- "entries": 8892,
- "seed_index_bytes": 2162548,
- "full_bytes": 25281258,
- "seed_index_page_bytes": 390848,
- "updated": "2026-10-20 R592",
+ "entries": 8902,
+ "seed_index_bytes": 2166163,
+ "full_bytes": 25393134,
+ "seed_index_page_bytes": 391820,
+ "updated": "2026-10-20 R593",
  "builder": "_build_seed_two_layer.py",
- "build_commit": "c755c6d9",
+ "build_commit": "72e695aa",
  "pending_blocks": 0,
- "note": "R592 强灌线 append 10（一核七壳：四公理2/结构学2/认知结构学1/凤凰论1/环凤论1/P理论1/耦合二元论2）= 8883-8892；两层重建；索引页390,848B<2MB，最新条目 #8892 在首屏；深度B 无弹药段（裂缝驱动·零裂缝）"
+ "note": "R593 强灌线 append 10（一核七壳：四公理2/结构学2/P理论2/认知结构学1/凤凰论1/环凤论1/耦合二元论1）= 8893-8902；两层重建；索引页391,820B<2MB，最新条目 #8902 在首屏；深度B 无弹药段（裂缝驱动·零裂缝）"
 }
