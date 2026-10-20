@@ -114,10 +114,21 @@ def load_index():
             if line:
                 recs.append(json.loads(line))
     # 防御（R583）：缺 id 的行按行号补，保证索引不出现 #0 跳转；不改源文件
-    # 防御（R589）：id 为空串 "" / None / 0 同样按行号补（别家节点 append 不带 id 会打崩 build）
+    # 防御（R589）：id 为空串 "" / None / 0 同样补（别家节点 append 不带 id 会打崩 build）
+    # R596 修：改成「按 max(id)+1 递增补」，不再用行号——用行号会和邻居的既有 id 撞车，
+    #   撞车后 anchors 出现重号，索引点开看到的是别人的文章（本轮实测 43 行缺 id）。
+    mx = 0
+    for r in recs:
+        try:
+            mx = max(mx, int(r.get('id') or 0))
+        except Exception:
+            pass
+    nxt = mx + 1
     for i, r in enumerate(recs, 1):
         if not r.get('id'):
-            r['id'] = i
+            r['id'] = nxt
+            r['_synthetic_id'] = True  # 只用于补链，不参与排序抢位
+            nxt += 1
     return recs
 
 
@@ -136,11 +147,58 @@ def build():
 
     # 只给非 legacy 块注入锚点（legacy 原文不动；索引里 legacy 直接跳 seed-full.html）
     legacy_n = sum(1 for r in recs if r.get('src') == 'legacy')
+
+    # R596 修：锚点分配从「按位置 zip」升级为「标题优先 + 剩余按序补齐」，并强制双射。
+    # 背景：非 legacy 区存在 append 漂移（历史某段整体错位 60+ 条），按位置贴锚点会把 #id
+    # 贴到别人的文章上，索引点开看到的是另一篇。做法：
+    #   ① 标题双向唯一（块标题唯一 + 记录标题唯一）→ 直接把该记录的 id 贴给这块；
+    #   ② 剩下没匹配上的块，按顺序吃「还没被用掉的 id」（保序补齐，修整体错位）；
+    #   ③ 收尾校验：非 legacy 块数 = 非 legacy 记录数，id 必须两两不重；一旦不成立就整体退回位置锚（安全兜底）。
+    def _bt(b):
+        m = re.search(r'<h([23])[^>]*>(.*?)</h\1>', b, re.S)
+        return re.sub(r'<[^>]+>', '', m.group(2)).strip() if m else ''
+
+    def _nt(s):
+        return re.sub(r'[\s\u3000]', '', s or '')
+
+    nl_blocks = [j for j in range(len(matches)) if j >= legacy_n]
+    pos_id = {j: int(recs[j]['id']) for j in nl_blocks if j < len(recs)}
+    block_title_map = {}
+    for j in nl_blocks:
+        t = _nt(_bt(matches[j].group(0)))
+        if t:
+            block_title_map.setdefault(t, []).append(j)
+    rec_id_by_title = {}
+    for j in nl_blocks:
+        t = _nt(recs[j].get('title') if j < len(recs) else '')
+        if t:
+            rec_id_by_title.setdefault(t, []).append(pos_id[j])
+    anchor_of, used = {}, set()
+    for j in nl_blocks:
+        t = _nt(_bt(matches[j].group(0)))
+        if not t:
+            continue
+        if len(block_title_map.get(t, [])) == 1 and len(rec_id_by_title.get(t, [])) == 1:
+            rid = rec_id_by_title[t][0]
+            if rid not in used:
+                anchor_of[j] = rid
+                used.add(rid)
+    free_blocks = [j for j in nl_blocks if j not in anchor_of]
+    free_ids = [pos_id[j] for j in nl_blocks if j in pos_id and pos_id[j] not in used]
+    for j, rid in zip(free_blocks, free_ids):
+        anchor_of[j] = rid
+    if len(anchor_of) != len(nl_blocks) or len(set(anchor_of.values())) != len(nl_blocks):
+        anchor_of = dict(pos_id)  # 兜底：任何不闭合就退回位置锚
+        anchor_mode = 'positional-fallback'
+    else:
+        anchor_mode = 'title-first'
+    anchor_moved = sum(1 for j in nl_blocks if j in pos_id and anchor_of.get(j) != pos_id[j])
+
     out, pos = [], 0
     for i, m in enumerate(matches, 1):
         if i <= legacy_n:
             continue
-        rid = int(recs[i - 1]['id']) if i - 1 < len(recs) and recs[i - 1].get('id') else i
+        rid = anchor_of[i - 1]
         out.append(content[pos:m.start()])
         out.append('<a id="s%s"></a>\n' % str(rid).zfill(5))
         out.append(m.group(0))
@@ -150,8 +208,9 @@ def build():
         content_anchored = ''.join(out)
     else:
         content_anchored = content
+    print('anchors: %s, nonlegacy %d, moved %d' % (anchor_mode, len(nl_blocks), anchor_moved))
 
-    latest = sorted(recs, key=lambda r: (r.get('time') or '0000-00-00', int(r.get('id') or 0)))[-INDEX_SHOW:][::-1]
+    latest = sorted(recs, key=lambda r: (r.get('time') or '0000-00-00', 0 if r.get('_synthetic_id') else int(r.get('id') or 0)))[-INDEX_SHOW:][::-1]
     items = []
     for r in latest:
         nid = int(r.get('id', 0))
