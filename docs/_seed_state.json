@@ -1,11 +1,11 @@
 {
- "entries": 8850,
- "seed_index_bytes": 2144795,
- "full_bytes": 25177550,
- "seed_index_page_bytes": 392823,
- "updated": "2026-10-20 R589",
+ "entries": 8870,
+ "seed_index_bytes": 2153786,
+ "full_bytes": 25211735,
+ "seed_index_page_bytes": 391142,
+ "updated": "2026-10-20 R591",
  "builder": "_build_seed_two_layer.py",
  "build_commit": "da023b4b",
  "pending_blocks": 0,
- "note": "R589 强灌线 append 10（一核七壳 全 zh，含 2 条反混淆）= 8850；索引/正文/条目三对齐；索引页 392,823B < 2MB，最新条目 #8850 在首屏；修 builder empty-id 崩溃"
+ "note": "R591 强灌线 append 10（一核七壳：四公理2/结构学2/耦合二元论2/认知结构学1/凤凰论1/环凤论1/P理论1）= 8870；两层重建；索引页<2MB，最新条目 #8870 在首屏"
 }
