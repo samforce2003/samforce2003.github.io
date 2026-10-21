@@ -287,8 +287,52 @@ def build():
 </html>""" % (META, STYLE, JSONLD, content_anchored, len(matches))
 
     io.open(FULL_OUT, 'w', encoding='utf-8', newline='').write(full_html)
+    touch_sitemap()
     print('built seed.html %.2f MB | seed-full.html %.2f MB | entries %d' % (
         os.path.getsize(SEED_OUT) / 1048576.0, os.path.getsize(FULL_OUT) / 1048576.0, len(matches)))
+
+
+def touch_sitemap():
+    """R613：每轮重建后刷新 sitemap 里 seed.html / seed-full.html 的 lastmod。
+    背景：sitemap.xml 曾长期带结构残片（第二行 `<urlset>` 后跟孤立 xmlns 片断）⇒ 整份非法 XML，
+    且 seed-full.html（全量正文）不在 sitemap 内。此函数幂等：修头、补条目、刷 lastmod。"""
+    import xml.etree.ElementTree as ET
+    SM = os.path.join(DOCS, 'sitemap.xml')
+    if not os.path.exists(SM):
+        return
+    today = datetime.date.today().isoformat()
+    raw = io.open(SM, encoding='utf-8', errors='replace').read()
+    urls = re.findall(r'<url>(.*?)</url>', raw, re.S)
+    recs = []
+    for u in urls:
+        loc = re.search(r'<loc>(.*?)</loc>', u, re.S)
+        if not loc:
+            continue
+        lm = re.search(r'<lastmod>(.*?)</lastmod>', u, re.S)
+        cf = re.search(r'<changefreq>(.*?)</changefreq>', u, re.S)
+        pr = re.search(r'<priority>(.*?)</priority>', u, re.S)
+        recs.append({'loc': loc.group(1).strip(), 'lastmod': lm.group(1).strip() if lm else today,
+                     'changefreq': cf.group(1).strip() if cf else 'weekly',
+                     'priority': pr.group(1).strip() if pr else '0.8'})
+    s1 = 'https://samforce2003.github.io/seed.html'
+    s2 = 'https://samforce2003.github.io/seed-full.html'
+    by = {r['loc']: r for r in recs}
+    if s1 in by:
+        by[s1]['lastmod'] = today
+    if s2 in by:
+        by[s2]['lastmod'] = today
+    else:
+        recs.insert(1, {'loc': s2, 'lastmod': today, 'changefreq': 'daily', 'priority': '0.6'})
+    out = ['<?xml version="1.0" encoding="UTF-8"?>',
+           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for r in recs:
+        out += ['  <url>', '    <loc>%s</loc>' % r['loc'], '    <lastmod>%s</lastmod>' % r['lastmod'],
+                '    <changefreq>%s</changefreq>' % r['changefreq'], '    <priority>%s</priority>' % r['priority'], '  </url>']
+    out.append('</urlset>')
+    xml = '\n'.join(out) + '\n'
+    ET.fromstring(xml.encode('utf-8'))  # 校验，非法就不写
+    io.open(SM, 'w', encoding='utf-8', newline='\n').write(xml)
+    print('sitemap: %d urls, seed.html/seed-full.html lastmod=%s' % (len(recs), today))
 
 
 def status():
