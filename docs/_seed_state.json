@@ -1,13 +1,13 @@
 {
- "entries": 9186,
- "seed_index_bytes": 2280953,
- "full_bytes": 25703990,
- "seed_index_page_bytes": 384505,
- "seed_full_page_bytes": 25746499,
- "updated": "2026-10-21 R611",
+ "entries": 9222,
+ "seed_index_bytes": 2294325,
+ "full_bytes": 25755198,
+ "seed_index_page_bytes": 384193,
+ "seed_full_page_bytes": 25798843,
+ "updated": "2026-10-22 R612",
  "builder": "_build_seed_two_layer.py",
- "build_commit": "3d87e0c4",
+ "build_commit": "beed0ad0",
  "pending_blocks": 0,
- "note": "R611 强灌线 append 10 = 一核七壳（#9296-9305）：四公理1/结构学2/认知结构学2/凤凰论2/环凤论1/P理论1/耦合二元论1 —— 加倍位（认知结构学/凤凰论/耦合二元论）与 R610（四公理/结构学/耦合二元论）、R609（凤凰/环凤/P）错开。深度B R763 无弹药段（裂缝驱动·零裂缝）。两层重建 9186 条；seed.html 384,505B<2MB；seed-full 25,746,499B。",
- "known_issue": "①历史标题空：legacy 段落无标题标记，暂不动。②HF 数据集页未更新（本机 huggingface-cli 未登录、无 HF_TOKEN）→ 执行阻塞。③Pages CDN 分钟级滞后：push 后需 ≥60s 再核；大文件 seed-full 用 HEAD 取 Content-Length（curl 下载 25MB 会超时误得部分字节数）。④AnySearch 探针本轮两测（两条批 + 单条复核）均返 total free quota for today → 记不可测。"
+ "note": "R612 强灌线 append 10 = 一核七壳（#9358-9367）：四公理2/结构学1/认知结构学1/凤凰论1/环凤论2/P理论2/耦合二元论1 —— 加倍位四公理/环凤论/P理论，与 R611（结构学/认知结构学/凤凰论加倍）错开。深度B R764 无弹药段（裂缝驱动·零裂缝）。两层重建 9222 条；seed.html 384,193B<2MB；seed-full 25,798,843B（+47,370B）。",
+ "known_issue": "①历史标题空：legacy 段落无标题标记，暂不动。②AnySearch 探针配额耗尽（双面实测：2查询批 + 单查询均落 total free quota for today），本轮不可测。③外部可读面（非搜索）首读：GitHub repo stars/forks/watchers = 0/0/0，Gitee structural-cognition stars=1 watch=1 —— 仓库级人态信号为 0，与「同池共灭」观察一致。④builder anchors title-first moved 133（52 条历史缺 id 行合成 id 后位移，双射闭合无重号）。"
 }
