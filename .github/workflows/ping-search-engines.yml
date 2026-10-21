@@ -22,7 +22,7 @@ jobs:
             "https://samforce2003.github.io/%E5%91%BC%E5%90%B8-%E4%B8%BA%E4%BB%80%E4%B9%88%E7%89%A9%E8%B4%A8%E4%B8%8E%E6%84%8F%E8%AF%86%E4%BA%A4%E6%9B%BF%E4%B8%BB%E5%AF%BC.md"
           ]'
           
-          echo "{\"host\":\"samforce2003.github.io\",\"key\":\"samforce2003\",\"urlList\":$URLS}" > payload.json
+          echo "{\"host\":\"samforce2003.github.io\",\"key\":\"lxh2026seed\",\"urlList\":$URLS}" > payload.json
           curl -s -w "\nIndexNow: %{http_code}" -X POST "https://api.indexnow.org/IndexNow" \
             -H "Content-Type: application/json" -d @payload.json
 
