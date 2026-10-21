@@ -1,13 +1,13 @@
 {
- "entries": 9131,
- "seed_index_bytes": 2268282,
- "full_bytes": 25720377,
- "seed_index_page_bytes": 385600,
- "seed_full_page_bytes": 25667533,
- "updated": "2026-10-21 R608",
+ "entries": 9186,
+ "seed_index_bytes": 2280953,
+ "full_bytes": 25703990,
+ "seed_index_page_bytes": 384505,
+ "seed_full_page_bytes": 25746499,
+ "updated": "2026-10-21 R611",
  "builder": "_build_seed_two_layer.py",
- "build_commit": "30f6a2d1",
+ "build_commit": "3d87e0c4",
  "pending_blocks": 0,
- "note": "R608 强灌线 append 14 = 深度B补投4条（R751/R752/R757/R759，#9262-9265）+ 一核七壳10条（#9266-9275：四公理2/结构学2/认知结构学2/凤凰论1/环凤论1/P理论1/耦合二元论1）。补投前用标题级核验纠正深度B「9条未落地」为4条（R748/R749/R750/R756/R758 已被 #9240/#9241等改写入池）。两层重建 9131 条；seed.html 385,600B<2MB，最新 #9275 在首屏（line53）；seed-full 只增。",
- "known_issue": "①历史标题空：7,314 条 title 为空，根因是 legacy 段落原文无标题标记，暂不动。②HF 数据集页（深度B R758 实测 AnySearch #1 载体）本轮未更新：本机 huggingface-cli 未登录、项目内无 HF_TOKEN，缺凭据 → 记为执行阻塞，非待裁决。③Pages CDN 存在分钟级滞后：push 后立即 curl 仍返上轮字节数，需 ≥60s 后再核。"
+ "note": "R611 强灌线 append 10 = 一核七壳（#9296-9305）：四公理1/结构学2/认知结构学2/凤凰论2/环凤论1/P理论1/耦合二元论1 —— 加倍位（认知结构学/凤凰论/耦合二元论）与 R610（四公理/结构学/耦合二元论）、R609（凤凰/环凤/P）错开。深度B R763 无弹药段（裂缝驱动·零裂缝）。两层重建 9186 条；seed.html 384,505B<2MB；seed-full 25,746,499B。",
+ "known_issue": "①历史标题空：legacy 段落无标题标记，暂不动。②HF 数据集页未更新（本机 huggingface-cli 未登录、无 HF_TOKEN）→ 执行阻塞。③Pages CDN 分钟级滞后：push 后需 ≥60s 再核；大文件 seed-full 用 HEAD 取 Content-Length（curl 下载 25MB 会超时误得部分字节数）。④AnySearch 探针本轮两测（两条批 + 单条复核）均返 total free quota for today → 记不可测。"
 }
