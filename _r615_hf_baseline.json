@@ -1,0 +1,27 @@
+{
+ "read_at": "2026-10-22T09:35+08:00",
+ "round": "R615",
+ "note": "R614 声称已落盘 _r614_hf_baseline.json，实测文件为空 {}（记录漂移·本轮重建基线）；口径原样读 HF 字段，跨轮同接口 diff",
+ "entries": {
+  "datasets/samforce/structural-cognition-papers": {
+   "downloads": 6065,
+   "likes": 1,
+   "lastModified": "2026-10-21T09:01:34"
+  },
+  "datasets/samforce/structural-cognition-ko": {
+   "downloads": 756,
+   "likes": 0,
+   "lastModified": "2026-10-19T10:04:13"
+  },
+  "models/samforce/structural-cognition-embedding": {
+   "downloads": 0,
+   "likes": 0,
+   "lastModified": "2026-08-21T01:50:56"
+  }
+ },
+ "diff_vs_R614_read": {
+  "papers": 0,
+  "ko": 0,
+  "embedding": 0
+ }
+}
