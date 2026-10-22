@@ -129,6 +129,7 @@ def load_index():
             r['id'] = nxt
             r['_synthetic_id'] = True  # 只用于补链，不参与排序抢位
             nxt += 1
+        r['_seq'] = i  # R622：append-only 文件的行序 = 追加顺序，供「最新条目」排序
     return recs
 
 
@@ -210,7 +211,9 @@ def build():
         content_anchored = content
     print('anchors: %s, nonlegacy %d, moved %d' % (anchor_mode, len(nl_blocks), anchor_moved))
 
-    latest = sorted(recs, key=lambda r: (r.get('time') or '0000-00-00', 0 if r.get('_synthetic_id') else int(r.get('id') or 0)))[-INDEX_SHOW:][::-1]
+    # R622 修：排序键从 (time, id) 改成 (time, 行序) —— append-only 文件的行序就是追加顺序，
+    # 原式对 id=null 的新条目判 id=0，导致刚写进去的新种子被排到最底、进不了首屏 800 条。
+    latest = sorted(recs, key=lambda r: (r.get('time') or '0000-00-00', r.get('_seq') or 0))[-INDEX_SHOW:][::-1]
     items = []
     for r in latest:
         nid = int(r.get('id', 0))
