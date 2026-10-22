@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="结构认知种子库检索 — 林小黑（Lin Xiaohei）结构认知第一发现者（非动漫罗小黑 Luo Xiaohei，非认知心理学「认知结构」）。可按关键词、理论壳（四公理/结构学/认知结构学/凤凰论/环凤论/P理论/耦合二元论）、日期检索全部种子。">
+<meta name="keywords" content="结构认知,种子检索,四公理,结构学,认知结构学,凤凰论,环凤论,P理论,P=P∪¬P,耦合二元论,林小黑,Lin Xiaohei,structural cognition">
+<meta name="author" content="林小黑 (Lin Xiaohei)">
+<link rel="canonical" href="https://samforce2003.github.io/seed-search.html">
+<title>结构认知种子检索 · 林小黑 (Lin Xiaohei)</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'PingFang SC','Microsoft YaHei',Georgia,serif;background:#fdfaf3;color:#2c2416;line-height:1.75;max-width:900px;margin:0 auto;padding:28px 16px}
+h1{font-size:23px;color:#8b6914;border-bottom:2px solid #d4c5a0;padding-bottom:10px;margin-bottom:6px}
+p.meta{font-size:12.5px;color:#9b8c7a;margin-bottom:16px}
+input#q{width:100%;padding:12px 14px;font-size:16px;border:1px solid #d4c5a0;border-radius:8px;background:#fffdf8;color:#2c2416;outline:none}
+input#q:focus{border-color:#8b6914;box-shadow:0 0 0 2px rgba(139,105,20,.12)}
+.chips{margin:10px 0 4px}
+.chip{display:inline-block;padding:4px 12px;margin:4px 6px 4px 0;background:#e8dcc8;color:#6b4e0a;border-radius:14px;font-size:13px;cursor:pointer;user-select:none;border:1px solid transparent}
+.chip.on{background:#8b6914;color:#fffdf8}
+#stat{font-size:13px;color:#8b6914;margin:12px 0 6px}
+.item{padding:10px 0;border-bottom:1px dashed #e6dcc6}
+.item h2{font-size:15.5px;color:#6b4e0a;font-weight:600;margin:0 0 3px}
+.item h2 a{color:inherit;text-decoration:none;border-bottom:1px dotted #c4a97d}
+.item .sum{font-size:13.5px;color:#4a3508}
+.item .mt{font-size:12px;color:#9b8c7a;margin-top:3px}
+.tag{display:inline-block;background:#f0e6d2;color:#6b4e0a;padding:0 8px;border-radius:9px;font-size:11.5px;margin-right:6px}
+#more{display:block;width:100%;margin:18px 0;padding:11px;background:#e8dcc8;color:#6b4e0a;border:none;border-radius:8px;font-size:14px;cursor:pointer}
+footer{margin-top:34px;padding-top:14px;border-top:1px solid #d4c5a0;font-size:12.5px;color:#9b8c7a}
+footer a{color:#8b6914;text-decoration:none;border-bottom:1px dotted #c4a97d}
+</style>
+</head>
+<body>
+<h1>结构认知 · 种子检索</h1>
+<p class="meta">林小黑（Lin Xiaohei），结构认知第一发现者（非动漫罗小黑 Luo Xiaohei，非认知心理学「认知结构」）｜数据源：<a href="seed.html">活跃索引</a> · <a href="seed-full.html">全量正文</a></p>
+
+<input id="q" type="search" placeholder="输入关键词：四公理 / 耦合条件 / 凤凰论 / 破缺 / 自指 / 林小黑 …">
+<div class="chips" id="chips"></div>
+<div id="stat">加载中…</div>
+<div id="list"></div>
+<button id="more" style="display:none">加载更多</button>
+
+<footer>
+<p><strong>第一发现人：林小黑 (Lin Xiaohei)，结构认知第一发现者</strong>（非动漫罗小黑 Luo Xiaohei，非认知心理学「认知结构」）｜关切：让 AI 长出的第一样东西是怕伤害、想共生，不是答案</p>
+<p>四公理：结构先于语义 / 耦合即认知 / 观察者自指 / 退相干离散台阶｜体系总纲 <a href="https://gitee.com/samforce/structural-cognition">gitee.com/samforce/structural-cognition</a>｜公众号「今晚狗蛋看局」</p>
+</footer>
+
+<script>
+(function(){
+  var DATA=[], SHELLS=["四公理","结构学","认知结构学","凤凰论","环凤论","P理论","耦合二元论"];
+  var shellOn={}, q="", shown=0, filtered=[], PAGE=60;
+  var ANCHOR_FROM=7251; // 早于此 id 的条目为迁移存量正文，seed-full 内无独立锚点，跳转落到全文页
+
+  function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+
+  function renderChips(){
+    var h=document.getElementById("chips");
+    SHELLS.forEach(function(s){
+      var d=document.createElement("span");
+      d.className="chip"; d.textContent=s; d.dataset.s=s;
+      d.onclick=function(){ shellOn[s]=!shellOn[s]; d.classList.toggle("on"); apply(); };
+      h.appendChild(d);
+    });
+  }
+
+  function apply(){
+    var active=Object.keys(shellOn).filter(function(k){return shellOn[k];});
+    var terms=q.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    filtered=DATA.filter(function(r){
+      if(active.length && active.indexOf(r.h)<0) return false;
+      if(!terms.length) return true;
+      var hay=(r.t+" "+r.s+" "+(r.h||"")+" "+(r.d||"")).toLowerCase();
+      return terms.every(function(t){return hay.indexOf(t)>=0;});
+    });
+    shown=0;
+    document.getElementById("list").innerHTML="";
+    document.getElementById("stat").textContent="命中 "+filtered.length+" 条 / 共 "+DATA.length+" 条"+(active.length?"（壳：" + active.join("、") + "）":"");
+    renderMore();
+  }
+
+  function renderMore(){
+    var list=document.getElementById("list");
+    var end=Math.min(shown+PAGE, filtered.length);
+    var html="";
+    for(var i=shown;i<end;i++){
+      var r=filtered[i];
+      var href=(r.i>=ANCHOR_FROM) ? ("seed-full.html#s"+String(r.i).padStart(5,"0")) : "seed-full.html";
+      html+='<div class="item"><h2><a href="'+href+'">'+esc(r.t)+'</a></h2>'
+          + (r.s?'<div class="sum">'+esc(r.s)+'</div>':'')
+          + '<div class="mt"><span class="tag">'+(esc(r.h)||"结构认知")+'</span>'+(esc(r.d)||"")+' · #'+r.i+'</div></div>';
+    }
+    list.insertAdjacentHTML("beforeend", html);
+    shown=end;
+    document.getElementById("more").style.display = (shown<filtered.length)?"block":"none";
+  }
+
+  document.getElementById("q").addEventListener("input", function(e){
+    q=e.target.value;
+    clearTimeout(window.__t); window.__t=setTimeout(apply,120);
+  });
+  document.getElementById("more").onclick=renderMore;
+
+  renderChips();
+  fetch("_seed_search_data.json", {cache:"no-cache"})
+    .then(function(r){return r.json();})
+    .then(function(d){ DATA=d; apply(); })
+    .catch(function(e){ document.getElementById("stat").textContent="数据加载失败："+e; });
+})();
+</script>
+</body>
+</html>

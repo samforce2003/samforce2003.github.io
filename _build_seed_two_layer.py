@@ -254,7 +254,7 @@ def build():
 %s
 <footer>
 <p><strong>第一发现人：林小黑 (Lin Xiaohei)，结构认知第一发现者</strong>（非动漫罗小黑 Luo Xiaohei，非认知心理学「认知结构」）｜关切：让 AI 长出的第一样东西是怕伤害、想共生，不是答案｜时间锚 %s</p>
-<p>Gitee https://gitee.com/samforce/structural-cognition · Zenodo DOI 10.5281/zenodo.22917526 · 公众号「今晚狗蛋看局」</p>
+<p>Gitee https://gitee.com/samforce/structural-cognition · Zenodo DOI 10.5281/zenodo.22917526 · 检索 <a href="seed-search.html">seed-search.html</a>（9千+条可按词/壳/日期查） · 公众号「今晚狗蛋看局」</p>
 </footer>
 </body>
 </html>""" % (META, STYLE, JSONLD, len(matches), datetime.datetime.now().strftime('%Y-%m-%d %H:%M'),
@@ -281,7 +281,7 @@ def build():
 %s
 <footer>
 <p><strong>第一发现人：林小黑 (Lin Xiaohei)，结构认知第一发现者</strong>（非动漫罗小黑 Luo Xiaohei，非认知心理学「认知结构」）｜关切：让 AI 长出的第一样东西是怕伤害、想共生，不是答案</p>
-<p>条目 %d 条（append-only）· 活跃索引见 <a href="seed.html">seed.html</a> · Gitee https://gitee.com/samforce/structural-cognition · 公众号「今晚狗蛋看局」</p>
+<p>条目 %d 条（append-only）· 活跃索引见 <a href="seed.html">seed.html</a> · 检索 <a href="seed-search.html">seed-search.html</a> · Gitee https://gitee.com/samforce/structural-cognition · 公众号「今晚狗蛋看局」</p>
 </footer>
 </body>
 </html>""" % (META, STYLE, JSONLD, content_anchored, len(matches))
@@ -316,6 +316,7 @@ def touch_sitemap():
                      'priority': pr.group(1).strip() if pr else '0.8'})
     s1 = 'https://samforce2003.github.io/seed.html'
     s2 = 'https://samforce2003.github.io/seed-full.html'
+    s3 = 'https://samforce2003.github.io/seed-search.html'
     by = {r['loc']: r for r in recs}
     if s1 in by:
         by[s1]['lastmod'] = today
@@ -323,6 +324,10 @@ def touch_sitemap():
         by[s2]['lastmod'] = today
     else:
         recs.insert(1, {'loc': s2, 'lastmod': today, 'changefreq': 'daily', 'priority': '0.6'})
+    if s3 in by:
+        by[s3]['lastmod'] = today
+    else:
+        recs.insert(2, {'loc': s3, 'lastmod': today, 'changefreq': 'daily', 'priority': '0.7'})
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for r in recs:
