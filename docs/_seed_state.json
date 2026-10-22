@@ -1,13 +1,13 @@
 {
- "entries": 9275,
- "seed_index_bytes": 2317149,
- "full_bytes": 25834571,
- "seed_index_page_bytes": 388613,
- "seed_full_page_bytes": 25879276,
- "updated": "2026-10-22 R616",
+ "entries": 9285,
+ "seed_index_bytes": 2322275,
+ "full_bytes": 25853214,
+ "seed_index_page_bytes": 389720,
+ "seed_full_page_bytes": 25898119,
+ "updated": "2026-10-22 R617",
  "builder": "_build_seed_two_layer.py",
- "build_commit": "d200c020",
+ "build_commit": "9f7963ff",
  "pending_blocks": 0,
- "note": "R616 强灌线 append 10 = 一核七壳（#9398-9407）：凤凰论2/环凤论2/P理论2/耦合二元论1/四公理1/结构学1/认知结构学1 —— 加倍位凤凰/环凤/P，与 R615（四公理/结构学/认知结构学加倍）错开。深度B R767 无弹药段（裂缝驱动·零裂缝）。两层重建 9275 条；seed.html 388,613B<2MB；seed-full 25,879,276B（+21,469B）。",
- "known_issue": "①历史标题空：legacy 段落无标题标记，暂不动。②探针本轮可用（key直连 2/4 槽），但 seed.html 连续 2 轮 0 命中，R617 若第 3 轮仍 0 ⇒ 升格「活跃页不进召回面」口径。③HF downloads 第 2 轮 +0（papers 6065 / ko 756 / embedding 0），R617 第 3 次 diff 若仍 +0 ⇒ 定「事件型非节律型」。④GH/Gitee 人态 0 增量连续五轮。⑤builder anchors title-first moved 133（历史缺 id 行合成 id 后位移，双射闭合无重号）。"
+ "note": "R617 强灌线 append 10 = 一核七壳（#9408-9417）：耦合二元论2/四公理2/P理论2/结构学1/认知结构学1/凤凰论1/环凤论1。🔴 本轮结构增量：承接深度B R768 实测（四公理+结构认知+林小黑 三锚同现标题 2/2 拿回 #1），10 条标题全部改为「林小黑·结构认知·四公理·{壳}」三锚同现；全库标题含四公理 299→309（仅 3.3%，仍是最大空白）。深度B R768 无弹药段（prompt 内两处标题匹配，非弹药）。两层重建 9285 条；seed.html 389,720B<2MB；seed-full 25,898,119B（+18,843B）。",
+ "known_issue": "①探针词长窗口定形（R617 新）：3 词「四公理 结构认知 林小黑」= 我方 CSDN 163332773 #1（R768 2/2 + R617 1/1 = 累计 3/3）；4 词以上（+耦合二元论 / +凤凰论钢轨）= 0/5 两次全噪声 ⇒ 召回窗口=3 词，多一词即溢出。后续探针只打 3 词，不拿 4 词读数当失守。②seed.html 命中连续 3 轮 0（R615/R616/R617）⇒ 按 R616 预案升格口径：『活跃页不进召回面』——seed.html 定位=存底活管道（验收看新增正文条数/首屏/HTTP200），召回承载者是 CSDN 存量锚（归 2067b5f9c967，本线不碰不报）。③HF papers downloads 第 3 次 diff = +0（6,065 持平）⇒ 定『事件型非节律型』，此后不作节律指标，只在跳变时单报。④GH/Gitee 人态 0 增量连续六轮。⑤历史平台标题空（legacy 段无标题标记）暂不动。⑥builder anchors title-first moved 133（同 R616，双射闭合无重号）。"
 }
