@@ -1,13 +1,13 @@
 {
- "entries": 9454,
- "seed_index_bytes": 2382028,
- "full_bytes": 26270636,
- "seed_index_page_bytes": 385578,
- "seed_full_page_bytes": 26180365,
- "updated": "2026-10-23 R631",
+ "entries": 9455,
+ "seed_index_bytes": 2382506,
+ "full_bytes": 26274429,
+ "seed_index_page_bytes": 385729,
+ "seed_full_page_bytes": 26184164,
+ "updated": "2026-10-23 R631b",
  "builder": "_build_seed_two_layer.py",
- "build_commit": "c00d9fc3",
+ "build_commit": "",
  "pending_blocks": 0,
- "note": "R631 深度长文共情版 1 条（高维生物为什么不攻击低维，认知结构学，#9454，8 段认知内核）+ 两层重建 9454 条（吸收他节点 pending 168）。seed.html 385,578B<2MB；seed-full 26,180,365B（只增）。",
- "known_issue": "①builder anchors title-first moved 133，双射闭合，但 seed-full 仍有 10 个历史重号（s08821-s08830，8800 号段 legacy 遗留，非本轮引入，本轮 s09454 唯一）。②索引 223 条缺 id 行由构建器内存补号（不写源）。"
+ "note": "R631b 英文版种子 1 条（Why Higher-Dimensional Beings Don't Attack Lower-Dimensional Ones，#9455）+ 两层重建 9455 条。",
+ "known_issue": "同 R631：seed-full 有 10 个历史重号（s08821-s08830，legacy 遗留，非本轮引入）。"
 }
