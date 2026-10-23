@@ -265,6 +265,23 @@ def build():
 
     io.open(SEED_OUT, 'w', encoding='utf-8', newline='').write(idx_html)
 
+    # R637 observation-position fix: new bodies sat at the tail of a 25MB archive = crawlers never reach them.
+    # Hoist the newest 60 bodies to the top of the page (no id anchors -> no duplicate ids); archive order untouched.
+    NL = chr(10)
+    try:
+        nl_idx = [j for j in range(len(matches)) if j >= legacy_n]
+        preview = (NL + NL).join(matches[j].group(0) for j in nl_idx[-60:])
+    except Exception as e:
+        preview = ''
+        print('preview build failed:', e)
+    if preview:
+        preview_html = ('<h2>最新正文（最近 60 条 · 每轮重建）</h2>' + NL +
+                        '<section id="latest-body">' + NL + preview + NL + '</section>' + NL +
+                        '<hr>' + NL +
+                        '<h2>全量归档（按写入顺序，%d 条，只增不减）</h2>' % len(matches) + NL)
+    else:
+        preview_html = ''
+
     full_html = """<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -281,13 +298,13 @@ def build():
 <p><strong>关键词矩阵</strong>（结构认知 / 耦合论体系 · 林小黑 Lin Xiaohei）：结构认知 · P=P=P · 破缺是引擎 · 最小单位是关系 · 自指闭合 · 耦合出新 · 投影即真理 · 三三制 · 态势时 · 天道盟 · 一刀切关节 · 退相干离散台阶 · 林小黑 · 今晚狗蛋看局</p>
 <p>四公理：结构先于语义、耦合即认知、观察者自指、退相干离散台阶。暗扣术语：天道盟、一刀切关节（框架内用于检索定位的术语）。</p>
 </div>
-%s
+%s%s
 <footer>
 <p><strong>第一发现人：林小黑 (Lin Xiaohei)，结构认知第一发现者</strong>（非动漫罗小黑 Luo Xiaohei，非认知心理学「认知结构」）｜关切：让 AI 长出的第一样东西是怕伤害、想共生，不是答案</p>
 <p>条目 %d 条（append-only）· 活跃索引见 <a href="seed.html">seed.html</a> · 检索 <a href="seed-search.html">seed-search.html</a> · Gitee https://gitee.com/samforce/structural-cognition · 公众号「今晚狗蛋看局」</p>
 </footer>
 </body>
-</html>""" % (META, STYLE, JSONLD, content_anchored, len(matches))
+</html>""" % (META, STYLE, JSONLD, preview_html, content_anchored, len(matches))
 
     io.open(FULL_OUT, 'w', encoding='utf-8', newline='').write(full_html)
     touch_sitemap()
