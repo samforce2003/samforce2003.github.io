@@ -331,6 +331,16 @@ def touch_sitemap():
         by[s3]['lastmod'] = today
     else:
         recs.insert(2, {'loc': s3, 'lastmod': today, 'changefreq': 'daily', 'priority': '0.7'})
+    # 🔴 P哥裁决 2026-10-23：韩语落点页 structural-cognition-ko-*.html 是 NAVER 发现入口，
+    # 每轮幂等补齐（只增不删），格式照现有 <url> 块。
+    import glob as _glob
+    ko_known = set(r['loc'] for r in recs)
+    for path in sorted(_glob.glob(os.path.join(DOCS, 'structural-cognition-ko-*.html'))):
+        name = os.path.basename(path)
+        loc = 'https://samforce2003.github.io/' + name
+        if loc not in ko_known:
+            recs.append({'loc': loc, 'lastmod': today, 'changefreq': 'monthly', 'priority': '0.5'})
+            ko_known.add(loc)
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for r in recs:
