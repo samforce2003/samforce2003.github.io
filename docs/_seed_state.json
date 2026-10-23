@@ -1,13 +1,13 @@
 {
- "entries": 9455,
- "seed_index_bytes": 2382506,
- "full_bytes": 26274429,
- "seed_index_page_bytes": 385729,
- "seed_full_page_bytes": 26184164,
- "updated": "2026-10-23 R631b",
+ "entries": 9465,
+ "seed_index_bytes": 2385759,
+ "full_bytes": 26291640,
+ "seed_index_page_bytes": 384792,
+ "seed_full_page_bytes": 26199025,
+ "updated": "2026-10-23 R632",
  "builder": "_build_seed_two_layer.py",
- "build_commit": "",
+ "build_commit": "358b1b46",
  "pending_blocks": 0,
- "note": "R631b 英文版种子 1 条（Why Higher-Dimensional Beings Don't Attack Lower-Dimensional Ones，#9455）+ 两层重建 9455 条。",
- "known_issue": "同 R631：seed-full 有 10 个历史重号（s08821-s08830，legacy 遗留，非本轮引入）。"
+ "note": "R632 强灌线一核七壳 10 条（#9456-#9465，四公理2/结构学1/认知结构学1/凤凰论1/环凤论2/P理论2/耦合二元论1）+ 两层重建 9465 条。",
+ "known_issue": "seed-full 有 10 个历史重号（s08821-s08830，legacy 遗留，非本轮引入）。"
 }
