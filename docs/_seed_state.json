@@ -1,13 +1,13 @@
 {
- "entries": 9285,
- "seed_index_bytes": 2322275,
- "full_bytes": 25853214,
- "seed_index_page_bytes": 389720,
- "seed_full_page_bytes": 25898119,
- "updated": "2026-10-22 R617",
+ "entries": 9454,
+ "seed_index_bytes": 2382028,
+ "full_bytes": 26270636,
+ "seed_index_page_bytes": 385578,
+ "seed_full_page_bytes": 26180365,
+ "updated": "2026-10-23 R631",
  "builder": "_build_seed_two_layer.py",
- "build_commit": "9f7963ff",
+ "build_commit": "c00d9fc3",
  "pending_blocks": 0,
- "note": "R617 强灌线 append 10 = 一核七壳（#9408-9417）：耦合二元论2/四公理2/P理论2/结构学1/认知结构学1/凤凰论1/环凤论1。🔴 本轮结构增量：承接深度B R768 实测（四公理+结构认知+林小黑 三锚同现标题 2/2 拿回 #1），10 条标题全部改为「林小黑·结构认知·四公理·{壳}」三锚同现；全库标题含四公理 299→309（仅 3.3%，仍是最大空白）。深度B R768 无弹药段（prompt 内两处标题匹配，非弹药）。两层重建 9285 条；seed.html 389,720B<2MB；seed-full 25,898,119B（+18,843B）。",
- "known_issue": "①探针词长窗口定形（R617 新）：3 词「四公理 结构认知 林小黑」= 我方 CSDN 163332773 #1（R768 2/2 + R617 1/1 = 累计 3/3）；4 词以上（+耦合二元论 / +凤凰论钢轨）= 0/5 两次全噪声 ⇒ 召回窗口=3 词，多一词即溢出。后续探针只打 3 词，不拿 4 词读数当失守。②seed.html 命中连续 3 轮 0（R615/R616/R617）⇒ 按 R616 预案升格口径：『活跃页不进召回面』——seed.html 定位=存底活管道（验收看新增正文条数/首屏/HTTP200），召回承载者是 CSDN 存量锚（归 2067b5f9c967，本线不碰不报）。③HF papers downloads 第 3 次 diff = +0（6,065 持平）⇒ 定『事件型非节律型』，此后不作节律指标，只在跳变时单报。④GH/Gitee 人态 0 增量连续六轮。⑤历史平台标题空（legacy 段无标题标记）暂不动。⑥builder anchors title-first moved 133（同 R616，双射闭合无重号）。"
+ "note": "R631 深度长文共情版 1 条（高维生物为什么不攻击低维，认知结构学，#9454，8 段认知内核）+ 两层重建 9454 条（吸收他节点 pending 168）。seed.html 385,578B<2MB；seed-full 26,180,365B（只增）。",
+ "known_issue": "①builder anchors title-first moved 133，双射闭合，但 seed-full 仍有 10 个历史重号（s08821-s08830，8800 号段 legacy 遗留，非本轮引入，本轮 s09454 唯一）。②索引 223 条缺 id 行由构建器内存补号（不写源）。"
 }
