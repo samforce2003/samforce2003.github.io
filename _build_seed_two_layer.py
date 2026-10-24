@@ -60,6 +60,28 @@ def blocks_from(html):
     return re.findall(r'<article[^>]*>.*?</article>', html, re.S)
 
 
+# R650：正文签名前要先剥掉样板前缀（footer / 「我确信这就是事实」独立行）。
+# 不剥的话，老格式块签名全是「我确信这就是事实」，496 条记录 summary 也带 footer 前缀，两侧都对不上。
+BOILER = ('第一发现人林小黑LinXiaohei结构认知广州怕伤害想共生愿行善',
+          '第一发现人林小黑LinXiaohei结构认知第一发现者',
+          '第一发现人林小黑LinXiaohei',
+          '我确信这就是事实')
+
+
+def _sig(t):
+    # 去标点空白后取前 40 字：正文首段签名（抗全/半角、标点差异）
+    return re.sub(r'[^\w]', '', t or '')[:40]
+
+
+def strip_boiler(s):
+    s = s or ''
+    for _ in range(4):
+        for b in BOILER:
+            if s.startswith(b):
+                s = s[len(b):]
+    return s
+
+
 def parse_block(block):
     m = re.search(r'<h2[^>]*>(.*?)</h2>', block, re.S)
     title = re.sub(r'<[^>]+>', '', m.group(1)).strip() if m else ''
@@ -150,11 +172,11 @@ def build():
     legacy_n = sum(1 for r in recs if r.get('src') == 'legacy')
 
     # R596 修：锚点分配从「按位置 zip」升级为「标题优先 + 剩余按序补齐」，并强制双射。
-    # 背景：非 legacy 区存在 append 漂移（历史某段整体错位 60+ 条），按位置贴锚点会把 #id
-    # 贴到别人的文章上，索引点开看到的是另一篇。做法：
-    #   ① 标题双向唯一（块标题唯一 + 记录标题唯一）→ 直接把该记录的 id 贴给这块；
-    #   ② 剩下没匹配上的块，按顺序吃「还没被用掉的 id」（保序补齐，修整体错位）；
-    #   ③ 收尾校验：非 legacy 块数 = 非 legacy 记录数，id 必须两两不重；一旦不成立就整体退回位置锚（安全兜底）。
+    # R650 修（观察位）：标题优先在「同名不同文」上退化为位置补齐 —— 上轮实测 567 个标题组重复、
+    #   多出 635 行（占非 legacy 26%），这类块全部落进按序补齐，正是 R596 那类跳转错位的温床。
+    #   改法：三层配对——①标题 + 正文首段签名 双向唯一 → 贴锚（同名不同文靠正文区分）
+    #   ②标题唯一（不看签名）→ 贴锚  ③剩余块按序吃剩余 id（保序补齐）
+    #   收尾校验：非 legacy 块数 = 非 legacy 记录数，id 两两不重；不成立整体退回位置锚（安全兜底）。
     def _bt(b):
         m = re.search(r'<h([23])[^>]*>(.*?)</h\1>', b, re.S)
         return re.sub(r'<[^>]+>', '', m.group(2)).strip() if m else ''
@@ -162,38 +184,135 @@ def build():
     def _nt(s):
         return re.sub(r'[\s\u3000]', '', s or '')
 
+    def _fp(b):
+        # 块内第一个「正文」段落的签名。
+        # R650：必须跳过样板段，否则老格式块（R574 一带）首段是独立的「我确信这就是事实」一行，
+        #   会让成千上万个块算出同一个签名 → 层①全废、全部退回位置补齐（实测 447/2478）。
+        # R650b：韩语/长文块整段塞在 <article> 里不用 <p>（实测 499 块），退化成「去标签取全文」，
+        #   否则这批块签名恒为空、只能吃位置补齐。
+        txts = []
+        for p in re.findall(r'<p[^>]*>(.*?)</p>', b, re.S):
+            t = re.sub(r'<[^>]+>', '', p).strip()
+            if not t:
+                continue
+            if re.match(r'^(第[一二三]发现人|First discoverer|关键词|Keywords|时间锚|Time anchor)', t):
+                continue
+            if len(re.sub(r'[^\w]', '', t)) < 20:  # 标语行/短行不算正文
+                continue
+            txts.append(t)
+            break
+        if not txts:
+            whole = re.sub(r'<h[23][^>]*>.*?</h[23]>', '', b, flags=re.S)
+            whole = re.sub(r'<[^>]+>', ' ', whole).strip()
+            if whole:
+                txts.append(whole)
+        return strip_boiler(_sig(txts[0])) if txts else ''
+
     nl_blocks = [j for j in range(len(matches)) if j >= legacy_n]
     pos_id = {j: int(recs[j]['id']) for j in nl_blocks if j < len(recs)}
-    block_title_map = {}
-    for j in nl_blocks:
-        t = _nt(_bt(matches[j].group(0)))
-        if t:
-            block_title_map.setdefault(t, []).append(j)
-    rec_id_by_title = {}
-    for j in nl_blocks:
-        t = _nt(recs[j].get('title') if j < len(recs) else '')
-        if t:
-            rec_id_by_title.setdefault(t, []).append(pos_id[j])
+    blk_title = {j: _nt(_bt(matches[j].group(0))) for j in nl_blocks}
+    blk_sig = {j: _fp(matches[j].group(0)) for j in nl_blocks}
+    rec_title = {j: _nt(recs[j].get('title')) if j < len(recs) else '' for j in nl_blocks}
+    rec_sig = {j: strip_boiler(_sig(recs[j].get('summary'))) if j < len(recs) else '' for j in nl_blocks}
+    id2title = {int(recs[j]['id']): rec_title[j] for j in nl_blocks if j < len(recs)}
+    id2sig = {int(recs[j]['id']): rec_sig[j] for j in nl_blocks if j < len(recs)}
+
     anchor_of, used = {}, set()
+    m_sig = m_sig0 = m_title = m_pos = 0
+
+    # 层⓪：只认正文签名（不看标题）两侧都唯一 → 贴锚。
+    #   背景（R650b 实测）：archive 写入序与 index 追加序在若干区段整体错开，块标题与记录标题
+    #   根本不是同一个写法（如块「结构学·万物皆结构：手机拆开是零件…」对记录「林小黑·结构认知…」），
+    #   只靠标题永远配不上；正文签名能跨过标题写法差异把同位关系救回来（实测救回 248 条）。
+    bsig_map, rsig_map = {}, {}
     for j in nl_blocks:
-        t = _nt(_bt(matches[j].group(0)))
-        if not t:
+        if blk_sig[j]:
+            bsig_map.setdefault(blk_sig[j], []).append(j)
+    for j in nl_blocks:
+        if rec_sig[j] and j in pos_id:
+            rsig_map.setdefault(rec_sig[j], []).append(pos_id[j])
+    for s, js in bsig_map.items():
+        rs = rsig_map.get(s, [])
+        if not rs or len(js) != len(rs):
             continue
-        if len(block_title_map.get(t, [])) == 1 and len(rec_id_by_title.get(t, [])) == 1:
-            rid = rec_id_by_title[t][0]
-            if rid not in used:
-                anchor_of[j] = rid
-                used.add(rid)
+        # 同签名条数两侧相等 → 按序配对（含「一条对一条」与「同文重复 k 条」两种情形）
+        for j, rid in zip(sorted(js), sorted(rs)):
+            if rid in used:
+                break
+            anchor_of[j] = rid
+            used.add(rid)
+            m_sig0 += 1
+
+    # 层①：标题 + 正文首段签名，两侧都唯一 → 贴锚
+    bk = {}
+    for j in nl_blocks:
+        if blk_title[j] and blk_sig[j]:
+            bk.setdefault((blk_title[j], blk_sig[j]), []).append(j)
+    rk = {}
+    for j in nl_blocks:
+        if rec_title[j] and rec_sig[j] and j in pos_id:
+            rk.setdefault((rec_title[j], rec_sig[j]), []).append(pos_id[j])
+    for key, js in bk.items():
+        rs = rk.get(key, [])
+        if len(js) == 1 and len(rs) == 1 and rs[0] not in used:
+            anchor_of[js[0]] = rs[0]
+            used.add(rs[0])
+            m_sig += 1
+
+    # 层②：标题两侧唯一（不看签名）→ 贴锚
+    bt = {}
+    for j in nl_blocks:
+        if j in anchor_of or not blk_title[j]:
+            continue
+        bt.setdefault(blk_title[j], []).append(j)
+    rt = {}
+    for j in nl_blocks:
+        if j not in pos_id or pos_id[j] in used or not rec_title[j]:
+            continue
+        rt.setdefault(rec_title[j], []).append(pos_id[j])
+    for t, js in bt.items():
+        rs = rt.get(t, [])
+        if len(js) == 1 and len(rs) == 1 and rs[0] not in used:
+            anchor_of[js[0]] = rs[0]
+            used.add(rs[0])
+            m_title += 1
+
+    # 层③：剩余块按序吃剩余 id（保序补齐）
     free_blocks = [j for j in nl_blocks if j not in anchor_of]
     free_ids = [pos_id[j] for j in nl_blocks if j in pos_id and pos_id[j] not in used]
     for j, rid in zip(free_blocks, free_ids):
         anchor_of[j] = rid
+        used.add(rid)
+        m_pos += 1
+
     if len(anchor_of) != len(nl_blocks) or len(set(anchor_of.values())) != len(nl_blocks):
         anchor_of = dict(pos_id)  # 兜底：任何不闭合就退回位置锚
         anchor_mode = 'positional-fallback'
     else:
-        anchor_mode = 'title-first'
+        anchor_mode = 'sig-title-pos'
     anchor_moved = sum(1 for j in nl_blocks if j in pos_id and anchor_of.get(j) != pos_id[j])
+
+    # R650 验收指标：锚点「无证据」计数。
+    #   判据：正文签名相同 或 标题相同 = 有证据（可能是标题写法差异或 summary 空缺，不算错位）；
+    #   两者都不同 = 无证据，读者点开大概率看到另一篇（真·静默错位）。
+    #   单纯拿标题判会把「记录 summary 为空/自定义」误报成错位（实测 455 条记录 summary 为空）。
+    def _mismatch(amap):
+        n = 0
+        for j in nl_blocks:
+            rid = amap.get(j)
+            s_blk, s_rec = blk_sig[j], id2sig.get(rid)
+            if s_blk and s_rec and s_blk == s_rec:
+                continue
+            t_rec = id2title.get(rid)
+            if blk_title[j] and t_rec and blk_title[j] == t_rec:
+                continue
+            if rid is None:
+                continue
+            n += 1
+        return n
+    mis_new, mis_pos = _mismatch(anchor_of), _mismatch(pos_id)
+    print('pairing: sig-only %d / sig+title %d / title %d / pos %d | moved %d | unverified-anchor new %d vs positional %d'
+          % (m_sig0, m_sig, m_title, m_pos, anchor_moved, mis_new, mis_pos))
 
     # R648 修（MemoryError）：不再把整份正文 join 成第二个 27MB 字符串，改成流式写出。
     # 背景：本机多节点并发（游戏/浏览器/其他 cron），进程峰值一超就 MemoryError，重建整轮失败。
