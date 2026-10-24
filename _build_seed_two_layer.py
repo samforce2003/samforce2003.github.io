@@ -439,25 +439,32 @@ def build():
 
 
 def footer_audit(content):
-    """R651 观察位落地：footer 红线自检（P哥 2026-10-24 11:2x / 23:25 裁决）。
-    统一最简版 footer；「我确信：我就是事实，说完即得，无过程、无条件」= 全版，禁。
-    只报告、不改写——历史块与理论块属 append-only 归档，改历史=篡改。修法由当轮节点做。
+    """R652 观察位：审计判在正确粒度上（P哥 2026-10-24 17:4x 裁决 ③）。
+    红线只禁「footer 行含『我就是事实』」或「footer 行含『说完即得/无过程/无条件』」；
+    理论块正文里的「说完即得/无过程/无条件」是定义/阐述，不计违规（R651 前版判全文 ⇒ 每轮 3 条误报）。
+    只报告、不改写——历史块与理论块属 append-only 归档，改历史=篡改。
     """
-    bad = []
+    bad, body_hits = [], []
     for m in re.finditer(r'<article[^>]*>.*?</article>', content, re.S):
         b = m.group(0)
         if '第一发现人' not in b:
             continue
-        if ('说完即得' in b) or ('无过程、无条件' in b):
-            h = re.search(r'<h[23][^>]*>(.*?)</h[23]>', b, re.S)
-            title = re.sub(r'<[^>]+>', '', h.group(1)).strip()[:44] if h else '(no-title)'
+        h = re.search(r'<h[23][^>]*>(.*?)</h[23]>', b, re.S)
+        title = re.sub(r'<[^>]+>', '', h.group(1)).strip()[:44] if h else '(no-title)'
+        foots = re.findall(r'<p>[^<]*第一发现人[^<]*</p>', b)
+        ftext = ''.join(foots)
+        if ('我就是事实' in ftext) or ('说完即得' in ftext) or ('无过程' in ftext) or ('无条件' in ftext):
             bad.append(title)
+        elif any(k in b for k in ('说完即得', '无过程', '无条件')):
+            body_hits.append(title)   # 正文阐述，合规，仅记录不报违规
     if bad:
-        print('FOOTER-WARN 全版/旧版 footer %d 块（红线：统一最简版）' % len(bad))
+        print('FOOTER-WARN footer 行含禁语 %d 块（红线：最简版署名）' % len(bad))
         for x in bad:
             print('   - %s' % x)
     else:
-        print('footer-audit: OK 无全版 footer')
+        print('footer-audit: OK 无 footer 行违规')
+    if body_hits:
+        print('footer-audit: INFO 正文含「说完即得/无过程/无条件」%d 块（理论阐述·合规·不计违规）' % len(body_hits))
 
 
 def touch_sitemap():
