@@ -128,6 +128,16 @@ def main():
             'src': SRC,
         })
 
+    # R651 观察位：pre-flight —— 字数不合规就不写盘（修「先写后报 FAIL」的坑）
+    pre = []
+    for shell, title, paras, kw, hook in SEEDS:
+        n = len(re.sub(r'<[^>]+>', '', build_block(shell, title, paras, kw, hook)))
+        if not (200 <= n <= 500):
+            pre.append((title, n))
+    if pre:
+        print('PREFLIGHT FAIL（未写盘）: %s' % pre)
+        return
+
     if skipped:
         print('DEDUP skipped: %s' % skipped)
     if not new_blocks:
