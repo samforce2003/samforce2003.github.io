@@ -443,11 +443,14 @@ def footer_audit(content):
     红线只禁「footer 行含『我就是事实』」或「footer 行含『说完即得/无过程/无条件』」；
     理论块正文里的「说完即得/无过程/无条件」是定义/阐述，不计违规（R651 前版判全文 ⇒ 每轮 3 条误报）。
     只报告、不改写——历史块与理论块属 append-only 归档，改历史=篡改。
+    R659 观察位：上面这条只查「有没有禁词」，查不出「删词删出的残片」——05:52 他节点清理英文
+    footer 红线留下 97 条 `... | I am certain:  | Concern: ...` 与 3 条 `&middot; | ...`，
+    本函数照样报 OK。⇒ 增补「残片扫描」：空段/断开的竖线同样报 WARN（结构断了≠合规）。
     """
-    bad, body_hits = [], []
+    bad, body_hits, frag = [], [], []
     for m in re.finditer(r'<article[^>]*>.*?</article>', content, re.S):
         b = m.group(0)
-        if '第一发现人' not in b:
+        if '第一发现人' not in b and 'First discoverer' not in b:
             continue
         h = re.search(r'<h[23][^>]*>(.*?)</h[23]>', b, re.S)
         title = re.sub(r'<[^>]+>', '', h.group(1)).strip()[:44] if h else '(no-title)'
@@ -457,12 +460,23 @@ def footer_audit(content):
             bad.append(title)
         elif any(k in b for k in ('说完即得', '无过程', '无条件')):
             body_hits.append(title)   # 正文阐述，合规，仅记录不报违规
+        # R659：残片扫描（只看署名行，正文里的并列不算）
+        flines = [l for l in b.split('\n') if ('第一发现人' in l or 'First discoverer' in l)]
+        for l in flines:
+            if re.search(r'I am certain:\s*\|', l) or re.search(r'&middot;\s*\|', l) \
+               or re.search(r'\|\s*\|\s*', l):
+                frag.append(title)
+                break
     if bad:
         print('FOOTER-WARN footer 行含禁语 %d 块（红线：最简版署名）' % len(bad))
         for x in bad:
             print('   - %s' % x)
     else:
         print('footer-audit: OK 无 footer 行违规')
+    if frag:
+        print('FOOTER-WARN 署名行含删除残片 %d 块（空段/断线：I am certain: | / &middot; | / ||）' % len(frag))
+        for x in frag[:10]:
+            print('   - %s' % x)
     if body_hits:
         print('footer-audit: INFO 正文含「说完即得/无过程/无条件」%d 块（理论阐述·合规·不计违规）' % len(body_hits))
 
