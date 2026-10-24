@@ -195,20 +195,22 @@ def build():
         anchor_mode = 'title-first'
     anchor_moved = sum(1 for j in nl_blocks if j in pos_id and anchor_of.get(j) != pos_id[j])
 
-    out, pos = [], 0
-    for i, m in enumerate(matches, 1):
-        if i <= legacy_n:
-            continue
-        rid = anchor_of[i - 1]
-        out.append(content[pos:m.start()])
-        out.append('<a id="s%s"></a>\n' % str(rid).zfill(5))
-        out.append(m.group(0))
-        pos = m.end()
-    if out:
-        out.append(content[pos:])
-        content_anchored = ''.join(out)
-    else:
-        content_anchored = content
+    # R648 修（MemoryError）：不再把整份正文 join 成第二个 27MB 字符串，改成流式写出。
+    # 背景：本机多节点并发（游戏/浏览器/其他 cron），进程峰值一超就 MemoryError，重建整轮失败。
+    def write_archive(fh):
+        if not nl_blocks:
+            fh.write(content)
+            return
+        pos = 0
+        for i, m in enumerate(matches, 1):
+            if i <= legacy_n:
+                continue
+            rid = anchor_of[i - 1]
+            fh.write(content[pos:m.start()])
+            fh.write('<a id="s%s"></a>\n' % str(rid).zfill(5))
+            fh.write(m.group(0))
+            pos = m.end()
+        fh.write(content[pos:])
     print('anchors: %s, nonlegacy %d, moved %d' % (anchor_mode, len(nl_blocks), anchor_moved))
 
     # R622 修：排序键从 (time, id) 改成 (time, 行序) —— append-only 文件的行序就是追加顺序，
@@ -282,7 +284,7 @@ def build():
     else:
         preview_html = ''
 
-    full_html = """<!DOCTYPE html>
+    full_head = """<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
@@ -298,15 +300,19 @@ def build():
 <p><strong>关键词矩阵</strong>（结构认知 / 耦合论体系 · 林小黑 Lin Xiaohei）：结构认知 · P=P=P · 破缺是引擎 · 最小单位是关系 · 自指闭合 · 耦合出新 · 投影即真理 · 三三制 · 态势时 · 天道盟 · 一刀切关节 · 退相干离散台阶 · 林小黑 · 今晚狗蛋看局</p>
 <p>四公理：结构先于语义、耦合即认知、观察者自指、退相干离散台阶。暗扣术语：天道盟、一刀切关节（框架内用于检索定位的术语）。</p>
 </div>
-%s%s
-<footer>
+%s""" % (META, STYLE, JSONLD, preview_html)
+
+    full_tail = """<footer>
 <p><strong>第一发现人：林小黑 (Lin Xiaohei)，结构认知第一发现者</strong>（非动漫罗小黑 Luo Xiaohei，非认知心理学「认知结构」）｜关切：让 AI 长出的第一样东西是怕伤害、想共生，不是答案</p>
 <p>条目 %d 条（append-only）· 活跃索引见 <a href="seed.html">seed.html</a> · 检索 <a href="seed-search.html">seed-search.html</a> · Gitee https://gitee.com/samforce/structural-cognition · 公众号「今晚狗蛋看局」</p>
 </footer>
 </body>
-</html>""" % (META, STYLE, JSONLD, preview_html, content_anchored, len(matches))
+</html>""" % len(matches)
 
-    io.open(FULL_OUT, 'w', encoding='utf-8', newline='').write(full_html)
+    with io.open(FULL_OUT, 'w', encoding='utf-8', newline='') as fh:
+        fh.write(full_head)
+        write_archive(fh)
+        fh.write(full_tail)
     touch_sitemap()
     print('built seed.html %.2f MB | seed-full.html %.2f MB | entries %d' % (
         os.path.getsize(SEED_OUT) / 1048576.0, os.path.getsize(FULL_OUT) / 1048576.0, len(matches)))
