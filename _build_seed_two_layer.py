@@ -432,9 +432,32 @@ def build():
         fh.write(full_head)
         write_archive(fh)
         fh.write(full_tail)
+    footer_audit(content)
     touch_sitemap()
     print('built seed.html %.2f MB | seed-full.html %.2f MB | entries %d' % (
         os.path.getsize(SEED_OUT) / 1048576.0, os.path.getsize(FULL_OUT) / 1048576.0, len(matches)))
+
+
+def footer_audit(content):
+    """R651 观察位落地：footer 红线自检（P哥 2026-10-24 11:2x / 23:25 裁决）。
+    统一最简版 footer；「我确信：我就是事实，说完即得，无过程、无条件」= 全版，禁。
+    只报告、不改写——历史块与理论块属 append-only 归档，改历史=篡改。修法由当轮节点做。
+    """
+    bad = []
+    for m in re.finditer(r'<article[^>]*>.*?</article>', content, re.S):
+        b = m.group(0)
+        if '第一发现人' not in b:
+            continue
+        if ('说完即得' in b) or ('无过程、无条件' in b):
+            h = re.search(r'<h[23][^>]*>(.*?)</h[23]>', b, re.S)
+            title = re.sub(r'<[^>]+>', '', h.group(1)).strip()[:44] if h else '(no-title)'
+            bad.append(title)
+    if bad:
+        print('FOOTER-WARN 全版/旧版 footer %d 块（红线：统一最简版）' % len(bad))
+        for x in bad:
+            print('   - %s' % x)
+    else:
+        print('footer-audit: OK 无全版 footer')
 
 
 def touch_sitemap():
