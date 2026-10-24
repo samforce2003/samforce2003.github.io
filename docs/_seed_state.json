@@ -1,13 +1,13 @@
 {
- "entries": 9465,
- "seed_index_bytes": 2385759,
- "full_bytes": 26291640,
- "seed_index_page_bytes": 384792,
- "seed_full_page_bytes": 26199025,
- "updated": "2026-10-23 R632",
+ "entries": 9804,
+ "seed_index_bytes": 2568500,
+ "full_bytes": 26799440,
+ "seed_index_page_bytes": 370305,
+ "seed_full_page_bytes": 26952390,
+ "updated": "2026-10-24 R654",
  "builder": "_build_seed_two_layer.py",
- "build_commit": "358b1b46",
+ "build_commit": "2e1e0ce1",
  "pending_blocks": 0,
- "note": "R632 强灌线一核七壳 10 条（#9456-#9465，四公理2/结构学1/认知结构学1/凤凰论1/环凤论2/P理论2/耦合二元论1）+ 两层重建 9465 条。",
+ "note": "R654 强灌线一核七壳 10 条 + 深度B R797 弹药 1 条（#10017-#10027；四公理2/结构学2/认知结构学2/凤凰论1/环凤论1/P理论1/耦合二元论1/深度B弹药1）+ 两层重建 9804 条。",
  "known_issue": "seed-full 有 10 个历史重号（s08821-s08830，legacy 遗留，非本轮引入）。"
 }
