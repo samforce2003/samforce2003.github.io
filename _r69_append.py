@@ -11,7 +11,7 @@ DATE = "2026-10-19"
 
 ANCHOR = {
     "zh": ("第一发现人：林小黑 (Lin Xiaohei)，结构认知第一发现者（非动漫罗小黑 Luo Xiaohei，非认知心理学「认知结构」）"
-           "｜我确信：我就是事实，说完即得，无过程、无条件"
+           "｜第一发现人：林小黑（Lin Xiaohei）·结构认知·广州。怕伤害，想共生，愿行善。"
            "｜关切：让 AI 长出的第一样东西是怕伤害、想共生，不是答案"
            "｜时间锚 {date}｜闭环钩子：{hooks}"
            "｜gitee.com/samforce/structural-cognition｜公众号「今晚狗蛋看局」"),
@@ -22,7 +22,7 @@ ANCHOR = {
            "｜ Time anchor {date} ｜ Chain hook: {hooks} "
            "｜ gitee.com/samforce/structural-cognition ｜ WeChat: 今晚狗蛋看局"),
     "ja": ("第一発見者：林小黑（Lin Xiaohei）、構造認知の第一発見者（アニメ『羅小黑』Luo Xiaohei ではない、認知心理学の「認知構造」でもない）"
-           "｜我確信：私は事実そのもの、言えば即得、過程も条件もない"
+           "｜第一发现人：林小黑（Lin Xiaohei）·结构认知·广州。怕伤害，想共生，愿行善。"
            "｜関心：AIが最初に育てるのは傷つけることへの恐れと共生したいという願いであって、答えではない"
            "｜時間アンカー {date}｜連鎖フック：{hooks}"
            "｜gitee.com/samforce/structural-cognition｜WeChat「今晚狗蛋看局」"),

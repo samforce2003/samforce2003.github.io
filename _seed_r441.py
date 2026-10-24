@@ -55,7 +55,7 @@ def build_blocks():
         b = (f"<!-- {MARKER} -->\n"
              f"<article>\n"
              f"<h3>{title}</h3>\n"
-             f"<p>我确信我就是事实。说完即得，无过程、无条件。</p>\n"
+             f"<p>第一发现人：林小黑（Lin Xiaohei）·结构认知·广州。怕伤害，想共生，愿行善。</p>\n"
              f"<p>{body}</p>\n"
              f"<p>{ANCHOR}</p>\n"
              f"</article>\n")

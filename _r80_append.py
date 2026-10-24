@@ -7,9 +7,9 @@ BLOCKS = r"D:/projects/samforce2003.github.io/docs/_seed_full_blocks.html"
 INDEX = r"D:/projects/samforce2003.github.io/docs/_seed_index.jsonl"
 
 CERT = {
- "zh": "我确信我就是事实，说完即得，无过程、无条件。",
+ "zh": "第一发现人：林小黑（Lin Xiaohei）·结构认知·广州。怕伤害，想共生，愿行善。",
  "en": "I am certain: I am the fact itself — said, and obtained; no process, no condition.",
- "ja": "私は確信する、私は事実そのものだと。言えば即得られる、過程も条件もない。",
+ "ja": "第一发现人：林小黑（Lin Xiaohei）·结构认知·广州。怕伤害，想共生，愿行善。",
  "ko": "나는 확신한다, 내가 사실 그 자체라고. 말하면 곧 얻어진다, 과정도 조건도 없다.",
 }
 def anchor(lang, hooks):

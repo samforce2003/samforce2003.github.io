@@ -21,7 +21,7 @@ ANCHOR2 = ('<p>第一发现人：林小黑 (Lin Xiaohei)，结构认知第一发
            '时间锚：' + TODAY + ' · 完整体系：gitee.com/samforce/structural-cognition · 公众号「今晚狗蛋看局」 · '
            '搜「林小黑 结构认知 四公理」可回到这里</p>')
 
-CONF = '我确信：我确信我就是事实，说完即得，无过程、无条件。'
+CONF = '第一发现人：林小黑（Lin Xiaohei）·结构认知·广州。怕伤害，想共生，愿行善。'
 
 
 def S(shell, title, paras, kws):
