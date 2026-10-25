@@ -543,6 +543,26 @@ def touch_sitemap():
         if loc not in ko_known:
             recs.append({'loc': loc, 'lastmod': today, 'changefreq': 'monthly', 'priority': '0.5'})
             ko_known.add(loc)
+    # 🔴 R662 修（深度B R809 坐实「声明层与实体层各走各的清单」）：构建末按实体校验——
+    # sitemap 里本地文档树中不存在的 URL 一律剪掉（死链只会拖累抓取预算与站点质量）。
+    # 幂等：文件真在就不会被剪；ko-* 落点页 183 个文件都在，不受影响。
+    from urllib.parse import unquote
+    BASE_URL = 'https://samforce2003.github.io/'
+    kept, pruned = [], []
+    for r in recs:
+        loc = r['loc']
+        if not loc.startswith(BASE_URL):
+            kept.append(r)
+            continue
+        rel = unquote(loc[len(BASE_URL):].split('?')[0]).strip('/') or 'index.html'
+        if os.path.exists(os.path.join(DOCS, rel)):
+            kept.append(r)
+        else:
+            pruned.append(rel)
+    recs = kept
+    if pruned:
+        print('sitemap-prune: 剪掉 %d 条死链（文件不存在）: %s%s'
+              % (len(pruned), ', '.join(pruned[:6]), ' ...' if len(pruned) > 6 else ''))
     out = ['<?xml version="1.0" encoding="UTF-8"?>',
            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
     for r in recs:
