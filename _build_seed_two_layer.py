@@ -434,8 +434,24 @@ def build():
         fh.write(full_tail)
     footer_audit(content)
     touch_sitemap()
+    rebuild_search_index()
     print('built seed.html %.2f MB | seed-full.html %.2f MB | entries %d' % (
         os.path.getsize(SEED_OUT) / 1048576.0, os.path.getsize(FULL_OUT) / 1048576.0, len(matches)))
+
+
+def rebuild_search_index():
+    """R660 观察位：docs/_seed_search_data.json（seed-search.html 的检索源）此前靠人手跑
+    _build_seed_search_index.py 更新，实测停在 10-22 的 9,338 条 —— 比正文少 555 条，
+    最近几轮的新种子在检索页里搜不到（页是活的，数据是死的）。改为重建时自动刷新。"""
+    script = os.path.join(BASE, '_build_seed_search_index.py')
+    if not os.path.exists(script):
+        print('search-index: 脚本缺失，跳过')
+        return
+    import subprocess
+    p = subprocess.run([sys.executable, script], capture_output=True, text=True,
+                       encoding='utf-8', errors='replace')
+    out = ((p.stdout or '') + (p.stderr or '')).strip()
+    print('search-index: %s' % (out.splitlines()[-1] if out else 'no output'))
 
 
 def footer_audit(content):
