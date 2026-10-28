@@ -495,6 +495,28 @@ def footer_audit(content):
             print('   - %s' % x)
     if body_hits:
         print('footer-audit: INFO 正文含「说完即得/无过程/无条件」%d 块（理论阐述·合规·不计违规）' % len(body_hits))
+    # R93 观察位：上一版只抓「禁语」和「署名行残片」，抓不住「页面 200、字节正常、但结构是坏的」。
+    # 本轮实测：seed-share/index.html 里 10 条种子的标题被转义成 &lt;h2&gt; 塞进 <p>（HTML 里 <p> 不能嵌 <h2>，
+    # 浏览器会提前闭合 <p>，线上看到赤裸的 `<h2>标题</h2>` 文字），连过两轮审计无人发现，靠人工才看见。
+    # 增补 SILENT-WARN：①任何文档里出现转义标签 &lt;h1-6&gt;/&lt;p&gt;/&lt;article&gt;；②<p> 内含 <h[1-6]>。
+    for name, text in (('seed-full', content),):
+        esc = len(re.findall(r'&lt;/?h[1-6]&gt;|&lt;/?article&gt;|&lt;p&gt;', text))
+        nested = len(re.findall(r'<p>(?:(?!</p>).)*<h[1-6][^>]*>', text, re.S))
+        if esc or nested:
+            print('SILENT-WARN %s: 转义标签 %d 处 / <p>内嵌标题 %d 处（结构坏了但页面仍 200）'
+                  % (name, esc, nested))
+        else:
+            print('silent-audit %s: OK 无转义标签、无 <p> 内嵌标题' % name)
+    for extra in (os.path.join(DOCS, 'seed-share', 'index.html'),):
+        if not os.path.exists(extra):
+            continue
+        t = io.open(extra, encoding='utf-8', errors='ignore').read()
+        esc = len(re.findall(r'&lt;/?h[1-6]&gt;|&lt;/?article&gt;|&lt;p&gt;', t))
+        nested = len(re.findall(r'<p>(?:(?!</p>).)*<h[1-6][^>]*>', t, re.S))
+        if esc or nested:
+            print('SILENT-WARN seed-share: 转义标签 %d 处 / <p>内嵌标题 %d 处' % (esc, nested))
+        else:
+            print('silent-audit seed-share: OK 无转义标签、无 <p> 内嵌标题')
 
 
 def touch_sitemap():
