@@ -155,11 +155,62 @@ def load_index():
     return recs
 
 
+def refresh_empty_records(recs, matches):
+    """R94 观察位：索引页的「一句话摘要」有 5,036 条是空的——重建器照抄 index，空的就是空的，
+    页面上出现 800 条只有标题（甚至标题也是空）的条目。空条目不是内容缺失，是「来源文件没带字段」
+    （旧 legay 迁移与别家节点 append 都不保证 title/summary）。这里在重建时补齐：
+      ①位置对应（索引行序 == 正文块序，两者都 append-only）→ 取块内 h2/h3 作标题、首个正文段作摘要；
+      ②标题仍空 → 用摘要首句派生；③仍在样板/过短 → 不强行填（宁可空，不编造）。
+    只补空字段，不覆盖任何已有字段；不改 index 源文件，保证「构建可重复、记录不被改」。
+    """
+    import re as _re
+    BOIL = _re.compile(r'^(第[一二三]发现人|First discoverer|我确信这就是事实|'
+                       r'林小黑（Lin Xiaohei）·结构认知·广州|关键词|Keywords|时间锚|Time anchor|首发 20)')
+
+    def _good(s):
+        s = (s or '').strip()
+        if len(_re.sub(r'[^\w]', '', s)) < 20:
+            return False
+        return not BOIL.match(s)
+
+    def _body(b):
+        for pb in _re.findall(r'<p[^>]*>(.*?)</p>', b, _re.S):
+            t = _re.sub(r'<[^>]+>', ' ', pb)
+            t = _re.sub(r'\s+', ' ', t).strip()
+            if _good(t):
+                return t
+        t = _re.sub(r'<h[23][^>]*>.*?</h[23]>', '', b, flags=_re.S)
+        t = _re.sub(r'<[^>]+>', ' ', t)
+        t = _re.sub(r'\s+', ' ', t).strip()
+        return t if _good(t) else ''
+
+    nt = ns = 0
+    for k, r in enumerate(recs):
+        b = matches[k].group(0) if k < len(matches) else ''
+        if b and not _good(r.get('summary')):
+            bt = _body(b)
+            if bt:
+                r['summary'] = bt[:240]
+                ns += 1
+        if not (r.get('title') or '').strip() and (r.get('summary') or '').strip():
+            seg = ''
+            for s in _re.split(r'[。！？；：\n]', r['summary']):
+                s = s.strip()
+                if len(s) >= 8:
+                    seg = s
+                    break
+            r['title'] = (seg or r['summary'])[:60]
+            if seg:
+                nt += 1
+    print('index-refresh: 补摘要 %d 条 / 派生标题 %d 条（只补空字段，不改源文件）' % (ns, nt))
+
+
 def build():
     recs = load_index()
     content = io.open(FULL_SRC, encoding='utf-8', errors='replace').read() if os.path.exists(FULL_SRC) else ''
     matches = list(re.finditer(r'<article[^>]*>.*?</article>', content, re.S))
     print('index recs', len(recs), 'full blocks', len(matches))
+    refresh_empty_records(recs, matches)
     if len(matches) > len(recs):
         print('WARN: %d blocks missing index, appending records' % (len(matches) - len(recs)))
         with io.open(INDEX_SRC, 'a', encoding='utf-8', newline='') as f:
@@ -339,13 +390,18 @@ def build():
     for r in latest:
         nid = int(r.get('id', 0))
         href = 'seed-full.html#s%s' % str(nid).zfill(5) if nid > legacy_n else 'seed-full.html'
+        # R94 观察位：摘要直接取正文段落时带进了 markdown 的 ** 强调符，索引页上出现「**不是先有结构**」这种裸星号。
+        # 索引页是纯 HTML 摘要，不渲染 markdown ⇒ 出页前统一剥掉。
+        sumtxt = re.sub(r'\*\*|__|`', '', r.get('summary') or '')
+        titletxt = re.sub(r'\*\*|__|`', '', r.get('title') or '')
+        shelltxt = re.sub(r'\*\*|__|`', '', r.get('shell') or '')
         items.append(
             '<div class="item"><a href="%s"><strong>%s</strong></a>'
             '<div class="meta">%s%s · <a href="%s">#%d 全文</a></div>'
             '<div class="sum">%s</div></div>' % (
-                href, esc(r.get('title') or '(无标题)'), esc(r.get('time') or ''),
-                (' · ' + esc(r.get('shell'))) if r.get('shell') else '',
-                href, nid, esc(r.get('summary') or '')))
+                href, esc(titletxt or '(无标题)'), esc(r.get('time') or ''),
+                (' · ' + esc(shelltxt)) if shelltxt else '',
+                href, nid, esc(sumtxt)))
 
     idx_html = """<!DOCTYPE html>
 <html lang="zh-CN">
