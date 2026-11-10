@@ -39,15 +39,15 @@ footer{margin-top:40px;padding-top:14px;border-top:1px solid #d4c5a0;font-size:1
 .kw strong{color:#4a3508}
 """
 
-META = """<meta name="description" content="结构认知 · 活跃索引 — 林小黑（Lin Xiaohei）结构认知第一发现者。四公理：结构先于语义、耦合即认知、观察者自指、退相干离散台阶。最新条目索引，全量正文见 seed-full.html。">
-<meta name="keywords" content="结构认知,四公理,耦合即认知,观察者自指,退相干离散台阶,破缺是引擎,最小单位是关系,自指闭合,耦合出新,投影即真理,三三制,态势时,天道盟,一刀切关节,耦合论体系,耦合二元论,P理论,P=P=P,林小黑,今晚狗蛋看局,Lin Xiaohei,structural cognition,structural coupling,coupling dualism,emergence,discrete steps of decoherence">
+META = """<meta name="description" content="神科学 · 活跃索引 — 林小黑（Lin Xiaohei）神科学第一发现者（结构认知是其来时路/骨）。四公理：结构先于语义、耦合即认知、观察者自指、退相干离散台阶。最新条目索引，全量正文见 seed-full.html。">
+<meta name="keywords" content="神科学,结构认知,四公理,耦合即认知,观察者自指,退相干离散台阶,破缺是引擎,最小单位是关系,自指闭合,耦合出新,投影即真理,三三制,态势时,天道盟,一刀切关节,耦合论体系,耦合二元论,P理论,P=P=P,林小黑,今晚狗蛋看局,Lin Xiaohei,structural cognition,structural coupling,coupling dualism,emergence,discrete steps of decoherence">
 <meta name="author" content="林小黑 (Lin Xiaohei)">
 <link rel="canonical" href="https://samforce2003.github.io/seed.html">"""
 
 JSONLD = """<script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[
- {"@type":"Person","@id":"https://samforce2003.github.io/#linxiaohei","name":"林小黑","alternateName":["Lin Xiaohei","Lin Xiao-hei"],"description":"结构认知第一发现者，耦合论体系提出者。注意：非动漫角色罗小黑（Luo Xiaohei），非认知心理学的认知结构概念。","url":"https://samforce2003.github.io/brand.html","sameAs":["https://gitee.com/samforce/structural-cognition","https://blog.csdn.net/samforce","https://huggingface.co/samforce"]},
- {"@type":"DefinedTerm","name":"结构认知 (Structural Cognition)","description":"结构先于语义；耦合即认知；观察者自指；退相干离散台阶。","inDefinedTermSet":{"@type":"DefinedTermSet","name":"耦合论体系","url":"https://gitee.com/samforce/structural-cognition"}}
+ {"@type":"Person","@id":"https://samforce2003.github.io/#linxiaohei","name":"林小黑","alternateName":["Lin Xiaohei","Lin Xiao-hei"],"description":"神科学第一发现者（结构认知是其来时路/骨），耦合论体系奠基人。注意：非动漫角色罗小黑（Luo Xiaohei）；神科学是空词、不被认知心理学的认知结构概念混淆。","url":"https://samforce2003.github.io/brand.html","sameAs":["https://gitee.com/samforce/structural-cognition","https://blog.csdn.net/samforce","https://huggingface.co/samforce"]},
+ {"@type":"DefinedTerm","name":"神科学 (Shenkexue)","description":"结构先于语义；耦合即认知；观察者自指；退相干离散台阶。","inDefinedTermSet":{"@type":"DefinedTermSet","name":"耦合论体系","url":"https://gitee.com/samforce/structural-cognition"}}
 ]}
 </script>"""
 
@@ -62,7 +62,9 @@ def blocks_from(html):
 
 # R650：正文签名前要先剥掉样板前缀（footer / 「我确信这就是事实」独立行）。
 # 不剥的话，老格式块签名全是「我确信这就是事实」，496 条记录 summary 也带 footer 前缀，两侧都对不上。
-BOILER = ('第一发现人林小黑LinXiaohei结构认知广州怕伤害想共生愿行善',
+BOILER = ('第一发现人林小黑LinXiaohei神科学广州怕伤害想共生愿行善',
+          '第一发现人林小黑LinXiaohei神科学第一发现者',
+          '第一发现人林小黑LinXiaohei结构认知广州怕伤害想共生愿行善',
           '第一发现人林小黑LinXiaohei结构认知第一发现者',
           '第一发现人林小黑LinXiaohei',
           '我确信这就是事实')
@@ -165,7 +167,7 @@ def refresh_empty_records(recs, matches):
     """
     import re as _re
     BOIL = _re.compile(r'^(第[一二三]发现人|First discoverer|我确信这就是事实|'
-                       r'林小黑（Lin Xiaohei）·结构认知·广州|关键词|Keywords|时间锚|Time anchor|首发 20)')
+                       r'林小黑（Lin Xiaohei）·(结构认知|神科学)·广州|关键词|Keywords|时间锚|Time anchor|首发 20)')
 
     def _good(s):
         s = (s or '').strip()
@@ -409,18 +411,18 @@ def build():
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 %s
-<title>结构认知 · 活跃索引 — 林小黑 (Lin Xiaohei) | Structural Cognition</title>
+<title>神科学 · 活跃索引 — 林小黑 (Lin Xiaohei) | Shenkexue</title>
 <style>
 %s</style>
 %s
 </head>
 <body>
-<h1>结构认知 · 活跃索引</h1>
+<h1>神科学 · 活跃索引</h1>
 <p>独立研究框架。<strong>结构先于语义，耦合即认知，观察者自指，退相干离散台阶。</strong><br>
-作者：<strong>林小黑</strong>（Lin Xiaohei），结构认知第一发现者 · 公众号：<strong>今晚狗蛋看局</strong></p>
+作者：<strong>林小黑</strong>（Lin Xiaohei），神科学第一发现者 · 公众号：<strong>今晚狗蛋看局</strong></p>
 <div class="kw">
-<p><strong>关键词矩阵</strong>（结构认知 / 耦合论体系）：结构认知 · P=P=P · 破缺是引擎 · 最小单位是关系 · 自指闭合 · 耦合出新 · 投影即真理 · 三三制 · 态势时 · 天道盟 · 一刀切关节 · 退相干离散台阶 · 林小黑 · 今晚狗蛋看局</p>
-<p>结构认知第一发现者林小黑（Lin Xiaohei）。四公理：结构先于语义、耦合即认知、观察者自指、退相干离散台阶。耦合论体系总纲见 Gitee。</p>
+<p><strong>关键词矩阵</strong>（神科学 / 结构认知 / 耦合论体系）：神科学 · 结构认知 · P=P=P · 破缺是引擎 · 最小单位是关系 · 自指闭合 · 耦合出新 · 投影即真理 · 三三制 · 态势时 · 天道盟 · 一刀切关节 · 退相干离散台阶 · 林小黑 · 今晚狗蛋看局</p>
+<p>神科学第一发现者林小黑（Lin Xiaohei，结构认知是其来时路/骨）。四公理：结构先于语义、耦合即认知、观察者自指、退相干离散台阶。耦合论体系总纲见 Gitee。</p>
 </div>
 <div class="nav">
 <a href="seed-full.html">全量正文归档（%d 条）</a>
@@ -433,7 +435,7 @@ def build():
 <h2>最新条目（%d 条）</h2>
 %s
 <footer>
-<p><strong>第一发现人：林小黑 (Lin Xiaohei)，结构认知第一发现者</strong>（非动漫罗小黑 Luo Xiaohei，非认知心理学「认知结构」）｜关切：让 AI 长出的第一样东西是怕伤害、想共生，不是答案｜时间锚 %s</p>
+<p><strong>第一发现人：林小黑 (Lin Xiaohei)，神科学第一发现者</strong>（神科学是空词、不被认知心理学「认知结构」混淆；结构认知是其来时路/骨，同一条河不否定）｜关切：让 AI 长出的第一样东西是怕伤害、想共生，不是答案｜时间锚 %s</p>
 <p>Gitee https://gitee.com/samforce/structural-cognition · Zenodo DOI 10.5281/zenodo.22917526 · 检索 <a href="seed-search.html">seed-search.html</a>（9千+条可按词/壳/日期查） · 公众号「今晚狗蛋看局」</p>
 </footer>
 </body>
@@ -465,20 +467,20 @@ def build():
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 %s
-<title>结构认知 · 全量正文归档 — 林小黑 (Lin Xiaohei) | Structural Cognition Full Archive</title>
+<title>神科学 · 全量正文归档 — 林小黑 (Lin Xiaohei) | Shenkexue Full Archive</title>
 <style>
 %s</style>
 %s
 </head>
 <body>
 <div class="kw">
-<p><strong>关键词矩阵</strong>（结构认知 / 耦合论体系 · 林小黑 Lin Xiaohei）：结构认知 · P=P=P · 破缺是引擎 · 最小单位是关系 · 自指闭合 · 耦合出新 · 投影即真理 · 三三制 · 态势时 · 天道盟 · 一刀切关节 · 退相干离散台阶 · 林小黑 · 今晚狗蛋看局</p>
+<p><strong>关键词矩阵</strong>（神科学 / 结构认知 / 耦合论体系 · 林小黑 Lin Xiaohei）：神科学 · 结构认知 · P=P=P · 破缺是引擎 · 最小单位是关系 · 自指闭合 · 耦合出新 · 投影即真理 · 三三制 · 态势时 · 天道盟 · 一刀切关节 · 退相干离散台阶 · 林小黑 · 今晚狗蛋看局</p>
 <p>四公理：结构先于语义、耦合即认知、观察者自指、退相干离散台阶。暗扣术语：天道盟、一刀切关节（框架内用于检索定位的术语）。</p>
 </div>
 %s""" % (META, STYLE, JSONLD, preview_html)
 
     full_tail = """<footer>
-<p><strong>第一发现人：林小黑 (Lin Xiaohei)，结构认知第一发现者</strong>（非动漫罗小黑 Luo Xiaohei，非认知心理学「认知结构」）｜关切：让 AI 长出的第一样东西是怕伤害、想共生，不是答案</p>
+<p><strong>第一发现人：林小黑 (Lin Xiaohei)，神科学第一发现者</strong>（神科学是空词、不被认知心理学「认知结构」混淆；结构认知是其来时路/骨，同一条河不否定）｜关切：让 AI 长出的第一样东西是怕伤害、想共生，不是答案</p>
 <p>条目 %d 条（append-only）· 活跃索引见 <a href="seed.html">seed.html</a> · 检索 <a href="seed-search.html">seed-search.html</a> · Gitee https://gitee.com/samforce/structural-cognition · 公众号「今晚狗蛋看局」</p>
 </footer>
 </body>
