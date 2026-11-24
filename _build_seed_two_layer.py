@@ -493,6 +493,7 @@ def build():
     footer_audit(content)
     touch_sitemap()
     rebuild_search_index()
+    prune_stale_backups()
     print('built seed.html %.2f MB | seed-full.html %.2f MB | entries %d' % (
         os.path.getsize(SEED_OUT) / 1048576.0, os.path.getsize(FULL_OUT) / 1048576.0, len(matches)))
 
@@ -510,6 +511,21 @@ def rebuild_search_index():
                        encoding='utf-8', errors='replace')
     out = ((p.stdout or '') + (p.stderr or '')).strip()
     print('search-index: %s' % (out.splitlines()[-1] if out else 'no output'))
+
+
+def prune_stale_backups():
+    """R172·P哥 2026-11-24 裁决④：docs/ 里 .bak-r* 备份只进不出会无限累积（曾攒到 209MB）。
+    自剪枝：写 .bak 后 sorted(glob('*.bak-r*')) 保留最近 1 个、删更早的（照 db-changelog-prepend.py
+    R815 内联轮转）。这些 .bak 绝大多数 untracked、不进 git、不影响 deploy，纯本地冗余；但会把
+    docs/ 与 Pages artifact 体积顶上去，攒多了拖慢每轮构建。每轮 build 末幂等跑一遍。"""
+    import glob as _g
+    cands = sorted(_g.glob(os.path.join(DOCS, '*.bak-r*')))
+    for old in cands[:-1]:
+        try:
+            os.remove(old)
+            print('bak-prune: rm', os.path.basename(old))
+        except OSError as e:
+            print('bak-prune-WARN', os.path.basename(old), e)
 
 
 def footer_audit(content):
