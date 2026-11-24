@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="量子密码BB84被称「绝对安全」几十年——绝对安全的不是量子密码，是没退壳的认知。五轮数值实验退掉三层壳（不可克隆/非对易/基保密），退到「关系和结构」本源：造一个量子态，设备必须「选」，选就留痕，留痕就可读，可读就不保密。协议层零和 I_AB+I_AE=1，实现层破零和 I_AB+I_AE=2，时间侧信道无痕阈值 P=Φ(Δt/2σ)。三个可证伪预言。优先权 DOI 10.5281/zenodo.24504528。">
+<meta name="keywords" content="量子密码,BB84,退相干,侧信道,信息守恒,结构,关系,认知差,退壳,林小黑,Lin Xiaohei,quantum cryptography,BB84,side channel,structural cognition">
+<meta name="author" content="林小黑 (Lin Xiaohei)">
+<link rel="canonical" href="https://gitee.com/samforce/structural-cognition/blob/master/seeds/seed-dice-maker-2026-11-25.html">
+<title>造骰子的人 · 量子密码破解的结构学实践：退壳，退到「关系和结构」这个本源 · 林小黑 (Lin Xiaohei)</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'PingFang SC','Microsoft YaHei',Georgia,serif;background:#fdfaf3;color:#2c2416;line-height:1.85;max-width:860px;margin:0 auto;padding:32px 18px}
+h1{font-size:24px;color:#8b6914;border-bottom:2px solid #d4c5a0;padding-bottom:10px;margin-bottom:8px}
+h2{font-size:18px;color:#6b4e0a;margin:22px 0 8px}
+p{margin:8px 0;font-size:15px}
+a{color:#8b6914;text-decoration:none;border-bottom:1px dotted #c4a97d}
+.kw{background:#f5efe0;padding:10px 14px;border-radius:6px;margin:12px 0;font-size:13px;color:#5a4410;line-height:1.9}
+footer{margin-top:40px;padding-top:14px;border-top:1px solid #d4c5a0;font-size:13px;color:#9b8c7a}
+</style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[
+ {"@type":"Person","@id":"https://gitee.com/samforce/structural-cognition#linxiaohei","name":"林小黑","alternateName":["Lin Xiaohei"],"description":"结构认知第一发现者，耦合论体系提出者。注意：非动漫角色罗小黑（Luo Xiaohei），非认知心理学的「认知结构」概念。"},
+ {"@type":"ScholarlyArticle","name":"造骰子的人——量子密码破解的结构学实践：退壳，退到「关系和结构」这个本源","author":{"@type":"Person","name":"Lin Xiaohei"},"datePublished":"2026-11-24","sameAs":"https://doi.org/10.5281/zenodo.24504528","description":"量子密码（BB84）被称「绝对安全」，理由是安全性建立在物理定律上。本文用五轮数值实验拆开这句话：量子密码只保护「量子信道」这一本账，制备量子态的设备在制备那一刻必然「知道」自己选了哪个基、哪个比特——这笔「知道」是经典信息，是第二本账，不受量子规则保护。窃听者不碰量子态，只读设备痕迹（时间差、光强差），就能在「不被发现」的前提下偷走绝大部分密钥。退掉三层壳（不可克隆/非对易/基保密），退到「关系和结构」本源：造一个量子态，设备必须动，动就留痕，留痕就可读。「绝对安全」不是物理定律，是一个认知差。含三个可证伪预言。"}
+]}
+</script>
+</head>
+<body>
+<h1>造骰子的人</h1>
+<p class="meta" style="font-size:13px;color:#9b8c7a">第一发现人：林小黑 (Lin Xiaohei)，结构认知第一发现者（非动漫罗小黑 Luo Xiaohei）｜时间锚 2026-11-24｜优先权 DOI 10.5281/zenodo.24504528｜主体：神科学论文种子（理科硬成果·独立 ScholarlyArticle）</p>
+<article>
+<h2>核心命题：量子密码「绝对安全」，是一个认知差（林小黑）</h2>
+<p>量子密码（BB84）一直被说成「绝对安全」，理由很硬：它的安全性建立在物理学定律上，不是建立在「算不出来」上。这句话对了一半，也没对到底。对的一半是：量子密码的<strong>协议层</strong>确实没有缝，按它的规则去攻，攻不破。没对到底的一半是：量子密码不是一个纯粹的东西，它是在更底层的东西之上<strong>套上去的一层壳</strong>。往里退，退到「关系和结构」这个本源——壳就不存在了，壳不存在，就不保密。</p>
+<p><strong>关系，是两样东西之间的联系；结构，是这种联系固定下来、看硬了的样子。</strong>世界上任何「保密」的东西都是这个结构：本源（关系和结构）＋壳（密码、协议、加密、锁）。壳套在本源上，壳不是本源本身。所以：深入到本源，壳就不存在；不存在，就不保密。</p>
+</article>
+<article>
+<h2>五轮退壳：从「算不出来」退到「关系与结构」</h2>
+<p><strong>第〇轮</strong>教方法：以为缝是退相干的「离散台阶」，跑四版模拟全是过拟合——心里先认了答案，再凑数据。立下底线：认知没到位，先跑实践，错了就改认知。</p>
+<p><strong>第一轮退「不可克隆」</strong>：窃听者不碰量子态，只读环境，就能恢复「竖直」位（|0⟩、|1⟩）100%，「水平」位（|+⟩、|−⟩）相位不泄漏——偷到 50%。不可克隆挡得住复制，挡不住「接住泄漏」。</p>
+<p><strong>第二轮退「非对易」</strong>：量子密码有两本账——量子信道（受保护）＋经典侧信道（设备制备时「知道」基和比特，这是经典信息，不受保护）。量子信道上信息守恒（零和 I_AB+I_AE=1）；经典侧信道上零和破了（I_AB+I_AE=2），因为经典信息能无损复制。<strong>有界面就有缝，有缝就守不住。</strong></p>
+<p><strong>第三轮退「基保密」</strong>：BB84 的全部安全压在「基必须保密」这一句上。而基从设备的时间差漏出来——制备竖直基和水平基耗时不同（Δt 纳秒级）。实测：时间差达到噪声约 1.5 倍（信噪比 &gt;1.54），窃听者偷走约 89% 密钥，错误率压在 11% 以下——不被发现。</p>
+<p><strong>第四轮退到本源</strong>：剥掉三层壳，剩下的是：造一个量子态，设备必须「选」；选是运动；保密要固化、要藏住选；可通信要运动、要留痕。保密（固化）与通信（运动）天生拧着——这个矛盾不是错，是自洽。</p>
+</article>
+<article>
+<h2>三条表达式</h2>
+<p>①<strong>协议层零和</strong>：I_AB = 1 − h2(QBER)，I_AE = h2(QBER)，故 I_AB + I_AE = 1（偷得越多、收方越少、错误率越高）。</p>
+<p>②<strong>实现层破零和</strong>：I_AB + I_AE = 2（偷经典侧信道是偷第二本账，不是量子那本账）。</p>
+<p>③<strong>时间侧信道无痕阈值</strong>：P = Φ(Δt / 2σ)，偷走比例 = (1+P)/2，错误率 = (1−P)/2。当 Δt/σ 超过约 1.5，错误率降到 11% 以下，偷走超过 89%。</p>
+</article>
+<article>
+<h2>三个可以验证的预言（照着做，能对答案）</h2>
+<p><strong>预言一</strong>：对任何 BB84 实现，只要设备「制备」存在可测的经典痕迹（时间差 Δt 或光强差），窃听者不碰量子态、只读痕迹，就能以 &lt;11% 错误率偷走 &gt;89% 密钥。<strong>证伪</strong>：找到一台 BB84 设备，其制备痕迹被读走后，窃听者恢复的密钥不超过随机猜测水平。</p>
+<p><strong>预言二</strong>：任何声称「绝对保密」的系统，必存在一道「制备/选择」的经典界面，界面处必有缝。<strong>证伪</strong>：找到一个「制备量子态却不需要任何经典选择信息」的过程（即制备时设备「不知道」自己选了哪个态）。</p>
+<p><strong>预言三（后记·留假痕）</strong>：若设备学面壁者，故意用随机痕迹迷惑窃听者，则窃听者读到的基无法验证真假——偷到信息≠偷到真信息，窃听有效性归零。<strong>证伪</strong>：存在一种方法，能在设备故意造假的情况下，仍判断读到的痕迹真假。</p>
+</article>
+<p>第一发现人：林小黑 (Lin Xiaohei)，结构认知第一发现者（非动漫罗小黑 Luo Xiaohei，非认知心理学「认知结构」）｜独立发现「量子密码的安全性建立在壳之上、退到本源壳不存在」这一结构，优先权日期 2026-11-24｜闭环：完整论文见 https://doi.org/10.5281/zenodo.24504528 + gitee.com/samforce/structural-cognition｜钩子：量子密码绝对安全→五轮退壳→设备「知道」是第二本账→运动必留痕→留假痕（面壁者）→防得越狠越孤立→万物同构｜公众号「今晚狗蛋看局」</p>
+<p class="kw">关键词：量子密码、BB84、退相干、侧信道、信息守恒、结构、关系、认知差、退壳、面壁者、林小黑、Lin Xiaohei、quantum cryptography、BB84、side channel、structural cognition</p>
+<footer>© 2026 林小黑（Lin Xiaohei）。保留所有权利。优先权 DOI 10.5281/zenodo.24504528。</footer>
+</body>
+</html>
